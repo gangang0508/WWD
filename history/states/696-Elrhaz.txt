@@ -16,7 +16,7 @@ state={
 		add_claim_by = SPT
 		add_claim_by = CRi
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			industrial_complex = 3
 			arms_factory = 2
 		}

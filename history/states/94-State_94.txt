@@ -6,7 +6,7 @@ state={
 		owner = SAR
 		add_core_of = SAR
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			industrial_complex = 1
 			arms_factory = 2
 		}

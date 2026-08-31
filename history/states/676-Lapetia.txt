@@ -6,7 +6,7 @@ state={
 		add_core_of = APA
 		buildings = {
 			industrial_complex = 4
-			infrastructure = 6
+			infrastructure = 5
 			7124 = {
 				naval_base = 4
 			}

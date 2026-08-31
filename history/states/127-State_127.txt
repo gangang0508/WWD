@@ -10,7 +10,7 @@ state={
 		owner = VGA
 		add_core_of = VGA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 3
 
 		}

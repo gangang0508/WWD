@@ -6,7 +6,7 @@ state={
 		owner = THA
 		add_core_of = THA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			6952 = {
 				naval_base = 2
 			}

@@ -11,7 +11,7 @@ state={
 		owner = SIN
 		add_core_of = SIN
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			arms_factory = 3
 			industrial_complex = 1
 		}

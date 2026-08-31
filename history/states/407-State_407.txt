@@ -7,7 +7,7 @@ state={
 		owner = JAX
 		add_core_of = JAX
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 2
 			arms_factory = 2
 

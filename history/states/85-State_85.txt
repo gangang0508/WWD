@@ -10,7 +10,7 @@ state={
 		owner = REX
 		add_core_of = REX
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			industrial_complex = 4
 			arms_factory = 1
 		}

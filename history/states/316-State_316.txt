@@ -10,7 +10,7 @@ state={
 		owner = FCR
 		add_core_of = FCR
 		buildings = {
-			infrastructure = 8
+			infrastructure = 5
 			industrial_complex = 2
 			arms_factory = 1
 

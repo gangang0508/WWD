@@ -6,7 +6,7 @@ state={
 		owner = HND
 		add_core_of = HND
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 1
 			arms_factory = 1
 		}	

@@ -12,7 +12,7 @@ state={
 		add_core_of = TYR
 		buildings = {
 			industrial_complex = 2
-			infrastructure = 6
+			infrastructure = 5
 		}
 		victory_points = { 5072 8 }
 		victory_points = { 6315 5 }

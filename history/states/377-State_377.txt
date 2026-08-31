@@ -10,7 +10,7 @@ state={
 		owner = RIA
 		add_core_of = RIA
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			industrial_complex = 2
 			arms_factory = 2
 

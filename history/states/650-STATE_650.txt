@@ -7,7 +7,7 @@ state={
 		owner = FCR
 		add_core_of = FCR
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 		}
 		victory_points = { 2733 4 }
 		victory_points = { 2615 1 }

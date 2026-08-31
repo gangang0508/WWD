@@ -12,7 +12,7 @@ state={
 		add_core_of = SIN
 		add_core_of = OIR
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 2
 			arms_factory = 1
 

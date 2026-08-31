@@ -9,7 +9,7 @@ state={
 		add_core_of = APA
 		owner = APA
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			industrial_complex = 3
 		}
 		victory_points = { 3621 5 }

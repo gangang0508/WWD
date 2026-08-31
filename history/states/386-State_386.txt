@@ -6,7 +6,7 @@ state={
 		owner = DOR
 		add_core_of = DOR
 		buildings = {
-			infrastructure = 6
+			infrastructure = 5
 			arms_factory = 3
 			industrial_complex = 1
 		}
