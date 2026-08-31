@@ -1,0 +1,31 @@
+
+state={
+	id=286
+	name="STATE_286"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		add_claim_by = OIR
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 5
+			7083 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			7083 4 
+		}
+
+	}
+
+	provinces={
+		574 1068 1883 2579 2745 2852 3210 3224 3846 4441 6845 6910 6974 7044 7062 7083 
+	}
+	manpower=11719201
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

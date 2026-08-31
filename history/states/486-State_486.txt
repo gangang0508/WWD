@@ -1,0 +1,32 @@
+
+state={
+	id=486
+	name="STATE_486"
+	resources={
+		tungsten=44.000
+		chromium=1.000
+	}
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			7166 3 
+		}
+		victory_points = {
+			7064 4 
+		}
+
+	}
+
+	provinces={
+		1173 1436 1644 3921 4830 7021 7041 7064 7073 7099 7177 
+	}
+	manpower=1179850
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

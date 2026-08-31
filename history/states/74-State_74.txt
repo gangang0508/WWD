@@ -1,0 +1,27 @@
+
+state={
+	id=74
+	name="STATE_74"
+
+	history={
+		owner = ROA
+		add_core_of = ROA
+		victory_points = {
+			3629 10 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		174 1409 2263 2747 3296 3629 3852 3923 4471 6067 6123 6132 6169 6170 6209 6253 6263 17414 
+	}
+	manpower=2371200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,17 @@
+state={
+	id=448
+	name="STATE_448"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		845 1959 2259 3741 4720 6612 6620 6652 6683 6786 
+	}
+	manpower=975500
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

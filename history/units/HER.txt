@@ -1,0 +1,431 @@
+﻿### Herbman OOB ###
+
+division_template = {
+	name = "Infanterie Division"		
+	division_names_group = HER_INF_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+
+		infantry = { x = 3 y = 0 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Zivilpolizei"		
+	division_names_group = HER_GAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	priority = 0
+}
+division_template = {
+	name = "Panzer Division"		
+	division_names_group = HER_ARM_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+
+		light_armor = { x = 1 y = 0 }
+
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+
+		motorized = { x = 3 y = 0 }
+	}
+	priority = 2
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Fahrzeugabteilung"		
+	division_names_group = HER_ARM_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+	priority = 2
+}
+
+units = {
+	#Garrison
+	division = {
+		name = "Kimmeridia Zivilpolizei"
+		location = 5173
+		division_template = "Zivilpolizei"
+		start_experience_factor = 0.0
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Harz Zivilpolizei"
+		location = 3804
+		division_template = "Zivilpolizei"
+		start_experience_factor = 0.0
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "Ludtik Zivilpolizei"
+		location = 6477
+		division_template = "Zivilpolizei"
+		start_experience_factor = 0.0
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "Kimmeridia Zivilpolizei"
+		location = 6453
+		division_template = "Zivilpolizei"
+		start_experience_factor = 0.01
+		start_equipment_factor = 0.5
+	}
+	#Main Infantry Army
+	#Veterans
+	division = {
+		name = "Infanterie-Division 'Uberkrauts'"
+		location = 4913
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "Infanterie-Division 'Superkrauts'"
+		location = 3838
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "Infanterie-Division 'Cykad'"
+		location = 6468
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.5
+	}
+	#Armed Forces
+	division = {
+		name = "1. Infanterie Division"
+		location = 3233
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "2. Infanterie Division"
+		location = 6316
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "3. Infanterie Division"
+		location = 6316
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "5. Infanterie Division"
+		location = 6316
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "14. Infanterie Division"
+		location = 6354
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "13. Infanterie Division"
+		location = 2066
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "18. Infanterie Division"
+		location = 2066
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "17. Infanterie Division"
+		location = 17137
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "15. Infanterie Division"
+		location = 5126
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "21. Infanterie Division"
+		location = 5126
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "34. Infanterie Division"
+		location = 6403
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "56. Infanterie Division"
+		location = 6403
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "22. Infanterie Division"
+		location = 3233
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "23. Infanterie Division"
+		location = 6291
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "24. Infanterie Division"
+		location = 6291
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "25. Infanterie Division"
+		location = 920
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "31. Infanterie Division"
+		location = 6430
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "61. Infanterie Division"
+		location = 6430
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "62. Infanterie Division"
+		location = 6453
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "64. Infanterie Division"
+		location = 2305
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "66. Infanterie Division"
+		location = 2305
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "65. Infanterie Division"
+		location = 2305
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "67. Infanterie Division"
+		location = 6453
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "9. Infanterie Division"
+		location = 3136
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "10. Infanterie Division"
+		location = 3136
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Infanterie Division '"
+		location = 3136
+		division_template = "Infanterie Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	#Tank Brigades
+	division = {
+		name = "Panzerkraft 'Blitzen'"
+		location = 6567
+		division_template = "Panzer Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "Panzerkraft 'Weltkrieg'"
+		location = 6567
+		division_template = "Panzer Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "Panzerkraft 'Krautland'"
+		location = 6646
+		division_template = "Panzer Division"
+		start_experience_factor = 0.2
+	}
+	#Motorized Brigades
+	division = {
+		name = "Fahrzeugabteilung 'Kachow'"
+		location = 6567
+		division_template = "Fahrzeugabteilung"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "Fahurzeugkraft 'Avalonzi'"
+		location = 6646
+		division_template = "Fahrzeugabteilung"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "34. Infanterie Division (mot.)"
+		location = 4042
+		division_template = "Fahrzeugabteilung"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "35. Infanterie Division (mot.)"
+		location = 4651
+		division_template = "Fahrzeugabteilung"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "36. Infanterie Division (mot.)"
+		location = 4651
+		division_template = "Fahrzeugabteilung"
+		start_experience_factor = 0.2
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 4
+		progress = 0.1
+		efficiency = 45
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 2
+		progress = 0.8
+		efficiency = 48
+	}
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 2
+		progress = 0.8
+		efficiency = 48
+	}
+	add_equipment_production = {
+		equipment = {
+			type = motorized_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 1
+		progress = 0.8
+		efficiency = 45
+	}
+	add_equipment_production = {
+		equipment = {
+			type = light_tank_equipment_2
+			creator = "HER"
+		}
+		requested_factories = 2
+		progress = 0.8
+		efficiency = 45
+	}
+	#AIR PRODUCTION
+	add_equipment_production = {
+		equipment = {
+			type = fighter_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 1
+		progress = 0.8
+		efficiency = 40
+	}
+	add_equipment_production = {
+		equipment = {
+			type = CAS_equipment_1
+			creator = "HER"
+		}
+		requested_factories = 1
+		progress = 0.8
+		efficiency = 40
+	}
+	#NAVAL PRODUCTION
+		
+}
+
+#################################

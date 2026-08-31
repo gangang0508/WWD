@@ -1,0 +1,22 @@
+
+state={
+	id=480
+	name="STATE_480"
+	resources = {
+		oil = 4
+	}
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 692 1 }
+	}
+	provinces={
+		676 692 904 1693 2984 3187 3520 3679 4807 5047 6868 6961 7014 17079 
+	}
+	manpower=3417951
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

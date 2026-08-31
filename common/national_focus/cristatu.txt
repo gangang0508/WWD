@@ -1,0 +1,472 @@
+focus_tree = {
+	id = cristatu_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = CRI
+		}
+	}
+	
+	default = no
+	focus = {
+		id = CRI_inspire_the_spinotrophs
+		icon = GFX_goal_anschluss
+		x = 2
+		y = 0
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			OR = {
+				is_in_faction_with = SPT
+				has_war_with = SPT
+				NOT = {
+					SPT = {
+						owns_state = 735
+					}
+				}
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_dispute_of_tegama
+		icon = GFX_goal_generic_more_territorial_claims
+		prerequisite = { focus = CRI_inspire_the_spinotrophs }
+		x = 0
+		y = 1
+		relative_position_id = CRI_inspire_the_spinotrophs
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			OR = {
+				is_in_faction_with = SPT
+				has_war_with = SPT
+				NOT = {
+					SPT = {
+						owns_state = 735
+					}
+				}
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_pharusian_ultimatum
+		icon = GFX_goal_generic_forceful_treaty
+		prerequisite = { focus = CRI_dispute_of_tegama }
+		x = 0
+		y = 1
+		relative_position_id = CRI_dispute_of_tegama
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			OR = {
+				is_in_faction_with = SPT
+				has_war_with = SPT
+				NOT = {
+					SPT = {
+						owns_state = 735
+					}
+				}
+			}
+		}
+
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_expel_the_herbivores
+		icon = GFX_
+		prerequisite = { focus = CRI_pharusian_ultimatum }
+		mutually_exclusive = { focus = CRI_clemency_for_herbivores }
+		x = -1
+		y = 1
+		relative_position_id = CRI_pharusian_ultimatum
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		available = {
+			NOT = {
+				country_exists = SPT
+			}
+			CRI = {
+				owns_state = 735
+				owns_state = 701
+			}
+		}
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_clemency_for_herbivores
+		icon = GFX_
+		prerequisite = { focus = CRI_pharusian_ultimatum }
+		mutually_exclusive = { focus = CRI_expel_the_herbivores }
+		x = 1
+		y = 1
+		relative_position_id = CRI_pharusian_ultimatum
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		available = {
+			OR = {
+				AND = {
+					NOT = {
+						country_exists = SPT
+					}
+					CRI = {
+						owns_state = 735
+						owns_state = 701
+					}
+				}
+				SPT = {
+					is_puppet_of = CRI
+				}
+			}
+		}
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_develop_lappente
+		icon = GFX_
+		prerequisite = { focus = CRI_clemency_for_herbivores OR = CRI_expel_the_herbivores }
+		prerequisite = { focus = CRI_taidemait_assaouas_railroad }
+		x = 0
+		y = 1
+		relative_position_id = CRI_clemency_for_herbivores
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		available = {
+			OR = {
+				AND = {
+					NOT = {
+						country_exists = SPT
+					}
+					CRI = {
+						owns_state = 735
+						owns_state = 701
+					}
+				}
+				SPT = {
+					is_puppet_of = CRI
+				}
+			}
+		}
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_tegama_oil_fields
+		icon = GFX_goal_generic_oil_refinery
+		prerequisite = { focus = CRI_develop_lappente }
+		x = -1
+		y = 1
+		relative_position_id = CRI_develop_lappente
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		available = {
+			OR = {
+				AND = {
+					NOT = {
+						country_exists = SPT
+					}
+					CRI = {
+						owns_state = 735
+						owns_state = 701
+					}
+				}
+				SPT = {
+					is_puppet_of = CRI
+				}
+			}
+		}
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_Lappente_industry
+		icon = GFX_goal_generic_construct_civ_factory
+		prerequisite = { focus = CRI_develop_lappente }
+		x = 1
+		y = 1
+		relative_position_id = CRI_develop_lappente
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		available = {
+			OR = {
+				AND = {
+					NOT = {
+						country_exists = SPT
+					}
+					CRI = {
+						owns_state = 735
+						owns_state = 701
+					}
+				}
+				SPT = {
+					is_puppet_of = CRI
+				}
+			}
+		}
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = CRI_mission_to_modernize
+		icon = GFX_focus_research2
+		x = 7
+		y = 0
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			NOT = {
+				OR = {
+					has_idea = uncivilized_nation
+					has_idea = partially_modernized_nation
+				}
+			}
+		}
+		completion_reward = {
+			custom_effect_tooltip = missiontocivilize_tt
+			add_stability = 0.05
+			set_country_flag = mission_to_civilize
+		}
+	}
+	focus = {
+		id = CRI_university_of_assaouas
+		icon = GFX_
+		prerequisite = { focus = CRI_mission_to_modernize }
+		x = -1
+		y = 1
+		relative_position_id = CRI_mission_to_modernize
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			NOT = {
+				OR = {
+					has_idea = uncivilized_nation
+					has_idea = partially_modernized_nation
+				}
+			}
+		}
+		completion_reward = {
+	
+		}
+	}
+	focus = {
+		id = CRI_foreign_educators
+		icon = GFX_
+		prerequisite = { focus = CRI_mission_to_modernize }
+		x = 1
+		y = 1
+		relative_position_id = CRI_mission_to_modernize
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		bypass = {
+			NOT = {
+				OR = {
+					has_idea = uncivilized_nation
+					has_idea = partially_modernized_nation
+				}
+			}
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_westernization_effort_1
+		icon = GFX_focus_research
+		prerequisite = { focus = CRI_university_of_assaouas }
+		prerequisite = { focus = CRI_foreign_educators }
+		x = 7
+		y = 1
+		relative_position_id = CRI_foreign_educators
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			add_to_variable = { modernprogress = 5 }
+			custom_effect_tooltip = modernization_add_5_tt
+		}
+	}
+	focus = {
+		id = CRI_experimental_railways
+		icon = GFX_goal_generic_construct_infrastructure
+		prerequisite = { focus = CRI_university_of_assaouas }
+		prerequisite = { focus = CRI_foreign_educators }
+		x = -3
+		y = 1
+		relative_position_id = CRI_foreign_educators
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_modern_manufactories
+		icon = GFX_focus_generic_industry_3
+		prerequisite = { focus = CRI_university_of_assaouas }
+		prerequisite = { focus = CRI_foreign_educators }
+		x = 1
+		y = 1
+		relative_position_id = CRI_foreign_educators
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_modern_arms
+		icon = GFX_goal_generic_small_arms
+		prerequisite = { focus = CRI_university_of_assaouas }
+		prerequisite = { focus = CRI_foreign_educators }
+		x = 4
+		y = 1
+		relative_position_id = CRI_foreign_educators
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_taidemait_assaouas_railroad
+		icon = GFX_
+		prerequisite = { focus = CRI_experimental_railways }
+		x = 0
+		y = 1
+		relative_position_id = CRI_experimental_railways
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_civilian_industry_1
+		icon = GFX_goal_generic_construct_civ_factory
+		prerequisite = { focus = CRI_modern_manufactories }
+		x = 0
+		y = 1
+		relative_position_id = CRI_modern_manufactories
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_civilian_industry_2
+		icon = GFX_goal_generic_construct_civ_factory
+		prerequisite = { focus = CRI_taidemait_assaouas_railroad }
+		prerequisite = { focus = CRI_civilian_industry_1 }
+		x = -2
+		y = 1
+		relative_position_id = CRI_civilian_industry_1
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_arms_industry
+		icon = GFX_goal_generic_construct_mil_factory
+		prerequisite = { focus = CRI_modern_arms }
+		x = -1
+		y = 1
+		relative_position_id = CRI_modern_arms
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+	focus = {
+		id = CRI_westernization_effort_II
+		icon = GFX_focus_research
+		prerequisite = { focus = CRI_civilian_industry_1 }
+		prerequisite = { focus = CRI_arms_industry }
+		x = -1
+		y = 1
+		relative_position_id = CRI_arms_industry
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			add_to_variable = { modernprogress = 5 }
+			custom_effect_tooltip = modernization_add_5_tt
+		}
+	}
+	focus = {
+		id = CRI_army_renovations
+		icon = GFX_goal_generic_allies_build_infantry
+		prerequisite = { focus = CRI_modern_arms }
+		x = 1
+		y = 1
+		relative_position_id = CRI_modern_arms
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			#
+		}
+	}
+}
+	

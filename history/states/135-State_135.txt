@@ -1,0 +1,36 @@
+
+state={
+	id=135
+	name="STATE_135"
+	resources={
+		oil=54.000
+		aluminium=6.000
+		steel=4.000
+	}
+
+	history={
+		owner = HAT
+		add_core_of = HAT
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 1
+			1818 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			1818 20 
+		}
+	}
+
+	provinces={
+		1130 1818 3656 6425 6486 6549 6596 17403 17404 17405 17406 17407 17408 17410 
+	}
+	manpower=4122160
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

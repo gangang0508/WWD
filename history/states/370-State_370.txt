@@ -1,0 +1,30 @@
+
+state={
+	id=370
+	name="STATE_370"
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			5769 10 
+		}
+		victory_points = {
+			985 3 
+		}
+
+	}
+
+	provinces={
+		985 1085 1306 1377 1530 3269 3488 5716 5824 
+	}
+	manpower=944920
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

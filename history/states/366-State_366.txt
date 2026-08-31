@@ -1,0 +1,26 @@
+
+state={
+	id=366
+	name="STATE_366"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+			17348 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 17348 5 }
+	}
+
+	provinces={
+		125 2308 2382 2819 3227 3644 3718 4447 4834 5043 5722 5752 5763 5799 5838 5839 17346 17348 17357 
+	}
+	manpower=5894500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

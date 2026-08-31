@@ -1,0 +1,18 @@
+
+state={
+	id=589
+	name="STATE_589"
+
+	history={
+		owner = KNT
+		add_core_of = KNT
+
+	}
+
+	provinces={
+		756 1299 1562 2257 2735 3217 4065 8111 8122 8126 8127 8131 17989 
+	}
+	manpower=1335100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

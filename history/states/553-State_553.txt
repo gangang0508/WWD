@@ -1,0 +1,15 @@
+
+state={
+	id=553
+	name="STATE_553"
+	history = {
+		owner = VUL
+		add_core_of = VUL
+	}
+	provinces={
+		48 224 410 437 568 4233 4690 8235 8277 
+	}
+	manpower=674125
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+}

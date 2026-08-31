@@ -1,0 +1,22 @@
+
+state={
+	id=444
+	name="STATE_444"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 6126 2 }
+		victory_points = { 6058 1 }
+	}
+
+	provinces={
+		81 113 263 294 1576 2684 2687 5168 6058 6059 6126 17686 17693 17697 17701 17705 
+	}
+	manpower=1597600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

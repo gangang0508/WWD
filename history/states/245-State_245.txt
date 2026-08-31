@@ -1,0 +1,17 @@
+
+state={
+	id=245
+	name="STATE_245"
+
+	history={
+		owner = STR
+
+	}
+
+	provinces={
+		914 4085 4405 4564 8207 8215 8241 
+	}
+	manpower=4000
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

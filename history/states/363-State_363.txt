@@ -1,0 +1,23 @@
+
+state={
+	id=363
+	name="STATE_363"
+	resources = {
+		oil = 8
+	}
+	history={
+		owner = YIL
+		add_core_of = YIL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 5764 3 }
+	}
+
+	provinces={
+		780 1028 2939 4995 5146 5652 5757 5764 5765 5818 17358 
+	}
+	manpower=3641920
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

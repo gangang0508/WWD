@@ -1,0 +1,30 @@
+
+state={
+	id=532
+	name="STATE_532"
+	resources = {
+		steel = 26
+		tungsten = 36
+	}
+	history = {
+		owner = MAM
+		add_core_of = MAM
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 2
+			infrastructure = 3
+			dockyard = 1
+			3170 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 3170 4 }
+		victory_points = { 7515 2 }
+	}
+	provinces={
+		700 2585 2986 3170 3321 3356 4131 4252 7465 7475 7483 7499 7507 7515 7531 
+	}
+	manpower=1995990
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

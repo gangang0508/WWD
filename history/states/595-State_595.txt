@@ -1,0 +1,17 @@
+
+state={
+	id=595
+	name="STATE_595"
+
+	history={
+		owner = HER
+
+	}
+
+	provinces={
+		457 873 2469 2794 2898 3138 3571 4370 5003 5123 8133 8139 8145 8151 8154 8157 8162 8171 
+	}
+	manpower=2166124
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

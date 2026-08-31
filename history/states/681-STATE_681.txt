@@ -1,0 +1,21 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 6
+		}
+		victory_points = { 11797 3 }
+	}
+
+	provinces={
+		3292 6744 17791 17793 17797 17799 17801 17803 17804 17805 17812 
+	}
+	manpower=2182761
+	buildings_max_level_factor=1.000
+	state_category=town
+}

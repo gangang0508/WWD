@@ -1,0 +1,28 @@
+
+state={
+	id=129
+	name="STATE_129"
+	resources = {
+		chromium = 164
+	}
+	history = {
+		owner = TIK
+		add_core_of = TIK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			4442 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 4442 2 }
+		victory_points = { 7078 1 }
+	}
+	provinces={
+		3402 4442 4585 7019 7032 7046 7058 7061 7068 7078 7088 
+	}
+	manpower=2144220
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

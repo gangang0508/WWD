@@ -1,0 +1,15 @@
+
+state={
+	id=600
+	name="STATE_600"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		498 1088 1151 1480 1672 1824 1907 2143 2667 2682 2887 3697 3995 4304 4597 4732 4870 8649 8666 8678 8681 8695 8696 8724 
+	}
+	manpower=1167310
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=435
+	name="STATE_435"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 6345 2 }
+	}
+
+	provinces={
+		405 1329 2803 6345 6372 6390 6447 6448 6494 6550 17370 17373 
+	}
+	manpower=4869500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

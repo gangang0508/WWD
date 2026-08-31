@@ -1,0 +1,20 @@
+
+state={
+	id=231
+	name="STATE_231"
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 2
+			8062 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		4317 8007 8039 8051 8055 8062 8070 8078 8112 8116 
+	}
+	manpower=10621
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

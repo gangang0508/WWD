@@ -1,0 +1,27 @@
+
+state={
+	id=347
+	name="STATE_347"
+	resources = {
+		chromium = 36
+		aluminium = 4
+	}
+	history = {
+		owner = DIL
+		add_core_of = DIL
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			infrastructure = 6
+		}
+		victory_points = { 6232 3 }
+		victory_points = { 6216 5 }
+	}
+	provinces={
+		150 1921 2605 3907 4571 4817 6189 6216 6232 6252 6283 6284 6302 6327 
+	}
+	manpower=3979520
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

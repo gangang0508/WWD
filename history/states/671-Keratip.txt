@@ -1,0 +1,23 @@
+state={
+	id=671
+	name="STATE_671"
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			dockyard = 2
+			industrial_complex = 2
+			infrastructure = 7
+			6518 = {
+				naval_base = 5
+			}
+		}
+		victory_points = { 6518 10 }
+	}
+	provinces={
+		86 234 3209 6518 6564 6633 
+	}
+	manpower=2087612
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=380
+	name="STATE_380"
+
+	history={
+		owner = DIL
+		add_core_of = DIL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 2
+			4208 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			4208 5 
+		}
+		victory_points = {
+			6207 3 
+		}
+
+	}
+
+	provinces={
+		933 1215 1987 2637 2661 3182 3383 3489 3532 3997 4208 4491 4726 5191 5815 5828 5872 5897 5926 5929 5956 6026 6107 6120 
+	}
+	manpower=1729540
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

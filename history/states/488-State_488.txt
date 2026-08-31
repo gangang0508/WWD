@@ -1,0 +1,22 @@
+
+state={
+	id=488
+	name="STATE_488"
+	resources = {
+		aluminium = 65
+		oil = 120
+	}
+	history={
+		owner = ALL
+		add_core_of = APA
+		add_core_of = ALL
+
+	}
+
+	provinces={
+		527 866 1760 2677 6878 7057 
+	}
+	manpower=1075800
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

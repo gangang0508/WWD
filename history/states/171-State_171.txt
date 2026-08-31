@@ -1,0 +1,18 @@
+
+state={
+	id=171
+	name="STATE_171"
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+
+	}
+
+	provinces={
+		1290 1567 2508 3113 4138 4529 5037 5958 5987 6040 17417 17422 17451 17452 
+	}
+	manpower=1267102
+	buildings_max_level_factor=1.000
+	state_category=town
+}

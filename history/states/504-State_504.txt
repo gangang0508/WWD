@@ -1,0 +1,22 @@
+
+state={
+	id=504
+	name="STATE_504"
+	resources = {
+		tungsten = 16
+	}
+	history = {
+		owner = MNK
+		add_core_of = MNK
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 4383 1 }
+	}
+	provinces={
+		42 1134 1374 1419 4101 4383 7201 7206 7222 7246 7247 7262 7291 7294 17084 
+	}
+	manpower=1498590
+	state_category = town
+	buildings_max_level_factor=1.000
+}

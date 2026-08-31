@@ -1,0 +1,30 @@
+
+state={
+	id=436
+	name="STATE_436"
+
+	history={
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			4641 6 
+		}
+		victory_points = {
+			17365 2 
+		}
+
+	}
+
+	provinces={
+		2193 2472 4472 4641 6356 6394 6501 17364 17365 17366 17369 
+	}
+	manpower=2125000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,32 @@
+﻿capital = 517
+
+set_convoys = 36
+
+add_ideas = {
+	carnivorous
+	segregation_and_exclusion
+}
+
+set_popularities={
+		democratic = 24
+		communism = 64
+		neutrality = 12
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Sahal Sahra"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+		#
+	}
+}

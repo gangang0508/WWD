@@ -1,0 +1,25 @@
+
+state={
+	id=397
+	name="STATE_397"
+
+	history={
+		owner = XIA
+		add_core_of = XIA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			6004 4
+		}
+		victory_points = { 6100 2 }
+	}
+
+	provinces={
+		295 361 855 1335 1927 2043 3069 3337 3519 4465 4717 5911 5961 6004 6030 6056 6088 6089 6100 6148 6149 17324 17343 17349 
+	}
+	manpower=1994120
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

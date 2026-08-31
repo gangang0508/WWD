@@ -1,0 +1,25 @@
+
+state={
+	id=374
+	name="STATE_374"
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			2448 5 
+		}
+
+	}
+
+	provinces={
+		2102 3367 4352 4360 5823 5878 5907 17426 17432 
+	}
+	manpower=576920
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=86
+	name="STATE_86"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+		victory_points = { 17600 8 }
+	}
+
+	provinces={
+		98 212 2959 4894 6251 6422 17600 
+	}
+	manpower=3896000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

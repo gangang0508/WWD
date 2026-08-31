@@ -1,0 +1,30 @@
+
+state={
+	id=522
+	name="STATE_522"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = CCH
+		add_core_of = CCH
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 4
+
+		}
+		victory_points = {
+			17988 5 
+		}
+
+	}
+
+	provinces={
+		372 473 2000 2209 2740 4893 7369 7440 17986 17988 18070 18071 18072 18073 18075 18077 18078 18080 18081 18082 18083 18097 18098 18099 18100 18101 18102 18103 18166 18168 
+	}
+	manpower=2332100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

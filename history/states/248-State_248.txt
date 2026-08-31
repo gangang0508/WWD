@@ -1,0 +1,21 @@
+
+state={
+	id=248
+	name="STATE_248"
+	resources = {
+		steel = 24
+		rubber = 4
+	}
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 6
+		}
+	}
+	provinces={
+		357 1067 1529 1552 2117 2486 2909 3051 3622 3800 4452 4457 4940 5056 8418 8426 8438 8446 8459 8478 
+	}
+	manpower=1115400
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

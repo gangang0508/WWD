@@ -1,0 +1,28 @@
+state={
+	id=324
+	name="STATE_324"
+	resources = {
+		steel = 8
+		chromium = 2
+		tungsten = 4
+	}
+	history = {
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			5557 = {
+				naval_base = 4
+			}
+		}
+		owner = CLI
+		add_core_of = CLI
+		victory_points = { 5557 2 }
+	}
+	provinces={
+		1006 1457 2458 3317 4182 4455 4879 4994 5469 5493 5507 5532 5557 5575 5583 
+	}
+	manpower=1312670
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

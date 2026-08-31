@@ -1,0 +1,27 @@
+
+state={
+	id=147
+	name="STATE_147"
+	resources = {
+		aluminium = 20
+	}
+	history={
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			17271 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 17271 3 }	
+	}
+
+	provinces={
+		2540 4228 7355 7361 7365 7366 7367 7387 7389 7398 17268 17270 17271 17272 17274 17275 17276 
+	}
+	manpower=1120687
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

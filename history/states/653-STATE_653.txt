@@ -1,0 +1,21 @@
+
+state={
+	id=653
+	name="STATE_653"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 1116 10 }
+	}
+
+	provinces={
+		161 860 1116 1231 1312 3237 5882 5884 5913 5936 5962 17623 17625 
+	}
+	manpower=966125
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=136
+	name="STATE_136"
+
+	history={
+		owner = ICH
+		add_core_of = ICH
+
+	}
+
+	provinces={
+		3991 4839 5053 7292 7302 7303 7311 7317 7318 17157 17159 17160 17165 
+	}
+	manpower=4112100
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

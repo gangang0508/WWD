@@ -1,0 +1,21 @@
+
+state={
+	id=174
+	name="STATE_174"
+
+	history={
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 17468 2 }
+	}
+
+	provinces={
+		2005 2155 2240 2967 17362 17468 
+	}
+	manpower=547661
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

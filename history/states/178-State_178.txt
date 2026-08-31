@@ -1,0 +1,26 @@
+
+state={
+	id=178
+	name="STATE_178"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			4275 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 4275 3 }
+		victory_points = { 630 2 }
+	}
+
+	provinces={
+		630 1778 2372 2948 3103 3747 4086 4275 4559 4756 6945 6970 6990 7023 7035 7036 
+	}
+	manpower=3612410
+	buildings_max_level_factor=1.000
+	state_category=town
+}

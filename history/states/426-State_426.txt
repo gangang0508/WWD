@@ -1,0 +1,23 @@
+
+state={
+	id=426
+	name="STATE_426"
+	resources = {
+		oil = 2
+	}
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		add_core_of = ALC
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 6125 3 }
+	}
+	provinces={
+		1756 2375 4173 4528 4977 6116 6125 6200 6229 
+	}
+	manpower=159600
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

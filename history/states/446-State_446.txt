@@ -1,0 +1,29 @@
+
+state={
+	id=446
+	name="STATE_446"
+	resources = {
+		aluminium = 120
+		tungsten = 10
+	}
+	history = {
+		owner = HER
+		add_core_of = HER
+		victory_points = { 6646 3 }
+		victory_points = { 2562 1 }
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 4
+			arms_factory = 4
+			2562 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		815 2562 2710 4651 6547 6577 6601 6635 6646 
+	}
+	manpower=6184700
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

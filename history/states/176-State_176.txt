@@ -1,0 +1,21 @@
+
+state={
+	id=176
+	name="STATE_176"
+
+	history={
+		owner = JAX
+		add_core_of = JAX
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		456 476 520 1426 1914 2072 2589 2714 5831 17254 
+	}
+	manpower=3104100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=43
+	name="STATE_43"
+	resources = {
+		aluminium = 6
+		chromium = 5
+	}
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 6
+			arms_factory = 1
+			17128 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 17128 4 }
+		victory_points = { 17129 1 }
+	}
+
+	provinces={
+		1075 2287 6262 6309 6321 6353 6364 17128 17129 
+	}
+	manpower=9458000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

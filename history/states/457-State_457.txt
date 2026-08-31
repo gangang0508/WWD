@@ -1,0 +1,37 @@
+
+state={
+	id=457
+	name="STATE_457"
+	resources={
+		oil=46.000
+	}
+
+	history={
+		owner = ALL
+		add_core_of = APA
+		add_core_of = ALL
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 2
+			1414 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			1414 6 
+		}
+		victory_points = {
+			4072 3 
+		}
+
+	}
+
+	provinces={
+		49 1414 1730 1801 1844 1924 2084 2917 4072 4431 4916 6690 6703 6799 6813 17755 17760 17762 
+	}
+	manpower=3997500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

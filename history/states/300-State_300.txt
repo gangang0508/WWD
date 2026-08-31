@@ -1,0 +1,25 @@
+
+state={
+	id=300
+	name="STATE_300"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			2007 2 
+		}
+
+	}
+
+	provinces={
+		785 1109 1120 1731 1872 2007 2511 3502 5062 5116 5283 5302 5318 5331 
+	}
+	manpower=2105098
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

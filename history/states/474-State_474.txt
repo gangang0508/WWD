@@ -1,0 +1,36 @@
+
+state={
+	id=474
+	name="STATE_474"
+	resources = {
+		chromium = 12 
+	}
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 2
+			infrastructure = 5
+			7037 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			222 2
+		}
+		victory_points = {
+			3183 5 
+		}
+
+	}
+
+	provinces={
+		222 710 1056 1382 3183 3450 4627 5206 6840 6871 6890 6903 6931 6981 6986 7037 17455 
+	}
+	manpower=3110250
+	buildings_max_level_factor=1.000
+	state_category=city
+}

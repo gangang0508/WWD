@@ -1,0 +1,14 @@
+
+state={
+	id=609
+	name="STATE_609"
+	history = {
+		owner = HER
+	}
+	provinces={
+		198 215 641 1470 1868 2232 2674 2950 3922 4159 5226 8257 
+	}
+	manpower=2175120
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

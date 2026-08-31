@@ -1,0 +1,15 @@
+
+state={
+	id=568
+	name="STATE_568"
+	history = {
+		owner = ABE
+		add_core_of = ABE
+	}
+	provinces={
+		660 907 1259 1799 1814 1897 2174 2236 2423 2678 2737 3386 3634 3654 3753 3999 4450 4933 5208 7754 7795 7829 7832 7904 
+	}
+	manpower=2193810
+	state_category = city
+	buildings_max_level_factor=1.000
+}

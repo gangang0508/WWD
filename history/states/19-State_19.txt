@@ -1,0 +1,23 @@
+
+state={
+	id=19
+	name="STATE_19"
+
+	history={
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		34 434 449 584 671 828 861 912 1749 1834 1906 2703 2870 3083 8437 8440 
+	}
+	manpower=758980
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

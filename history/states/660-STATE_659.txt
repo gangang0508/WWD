@@ -1,0 +1,21 @@
+
+state={
+	id=660
+	name="STATE_660"
+
+	history={
+		owner = ALL
+		add_core_of = ALL
+		add_core_of = APA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1037 2590 3038 3729 7175 7228 7268 17522 
+	}
+	manpower=351211
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=709
+	name="STATE_709"
+	resources = {
+		oil = 4
+		steel = 2
+	}
+	history={
+		owner = AEG
+		add_core_of = AEG
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_factory = 1
+			18264 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			18264 3
+		}
+	}
+
+	provinces={
+		1406 1589 3889 4950 18254 18255 18264 
+	}
+	manpower=428120
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

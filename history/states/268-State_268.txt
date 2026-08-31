@@ -1,0 +1,18 @@
+
+state={
+	id=268
+	name="STATE_268"
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		6 327 538 639 737 1080 1407 2165 2742 2855 2922 3447 3790 3894 4105 4115 4144 4178 4685 4799 5236 5239 5241 5242 5243 5280 5285 5296 5299 
+	}
+	manpower=5705
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

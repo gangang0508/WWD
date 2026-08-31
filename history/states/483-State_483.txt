@@ -1,0 +1,25 @@
+
+state={
+	id=483
+	name="STATE_483"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			7174 1 
+		}
+
+	}
+
+	provinces={
+		355 488 2367 3059 3408 4700 5171 7085 17901 17902 17904 17905 17906 17910 17913 17917 17918 
+	}
+	manpower=1854500
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

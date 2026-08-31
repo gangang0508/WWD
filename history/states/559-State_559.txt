@@ -1,0 +1,15 @@
+
+state={
+	id=559
+	name="STATE_559"
+	history = {
+		owner = ABE
+		add_core_of = ABE
+	}
+	provinces={
+		432 601 622 757 2399 2584 2863 2953 3003 3205 3400 3562 3863 4079 4272 4545 4802 5112 5157 7698 7728 7743 7763 7776 7793 7804 
+	}
+	manpower=912380
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

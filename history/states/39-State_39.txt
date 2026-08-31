@@ -1,0 +1,26 @@
+
+state={
+	id=39
+	name="STATE_39"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			6320 1 
+		}
+
+	}
+
+	provinces={
+		20 686 695 822 4055 4187 6106 6113 6195 6212 6261 6306 17616 17619 
+	}
+	manpower=988540
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

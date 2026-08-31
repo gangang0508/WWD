@@ -1,0 +1,23 @@
+
+state={
+	id=140
+	name="STATE_140"
+	resources = {
+		tungsten = 34
+		chromium = 4
+	}
+	history = {
+		owner = DIN
+		add_core_of = DIN
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 7461 2 }
+	}
+	provinces={
+		264 406 477 2149 3112 5007 7461 7480 7481 7492 
+	}
+	manpower=4650400
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

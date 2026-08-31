@@ -1,0 +1,29 @@
+
+state={
+	id=461
+	name="STATE_461"
+	resources = {
+		tungsten = 20
+		chromium = 124
+	}
+	history = {
+		owner = STR
+		add_core_of = STR
+		victory_points = { 6682 20 }
+		victory_points = { 6657 8 }
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 6
+			arms_factory = 1
+			6682 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces={
+		1847 2465 3503 6657 6682 6686 6691 6731 6762 
+	}
+	manpower=8785040
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

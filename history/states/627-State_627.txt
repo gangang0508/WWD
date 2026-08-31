@@ -1,0 +1,18 @@
+
+state={
+	id=627
+	name="STATE_627"
+	history = {
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 2
+		}	
+	}
+	provinces={
+		27 816 1782 4120 4350 4872 5140 5155 8293 
+	}
+	manpower=4377950
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=406
+	name="STATE_406"
+	resources = {
+		chromium = 4
+		oil = 40
+	}
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			6234 = {
+				naval_base = 8
+			}
+		}
+		victory_points = { 6234 20 }
+		victory_points = { 4797 2 }
+		victory_points = { 5947 3 }
+		victory_points = { 1287 1 }
+	}
+	provinces={
+		1287 1424 1503 1623 1992 2561 2860 2892 3286 3770 3836 4401 4797 4809 5005 5202 5219 5947 5988 6028 6033 6034 6068 6074 6096 6111 6136 6145 6191 6196 6234 6240 6293 
+	}
+	manpower=18188950
+	state_category = city
+	buildings_max_level_factor=1.000
+}

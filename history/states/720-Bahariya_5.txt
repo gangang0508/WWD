@@ -1,0 +1,27 @@
+
+state={
+	id=720
+	name="STATE_720"
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			18259 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			18259 20
+		}
+	}
+	provinces={
+		557 17980 18222 18259 18266 18267 
+	}
+	manpower=3512076
+	state_category = city
+	buildings_max_level_factor=1.000
+}

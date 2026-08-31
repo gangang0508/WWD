@@ -1,0 +1,18 @@
+
+state={
+	id=164
+	name="STATE_164"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		340 487 984 1213 1682 1970 1971 2076 2184 2185 2284 2797 3976 3994 7892 7917 7918 7928 7952 8015 8027 
+	}
+	manpower=1733910
+	buildings_max_level_factor=1.000
+	state_category=town
+}

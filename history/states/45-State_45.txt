@@ -1,0 +1,22 @@
+state={
+	id=45
+	name="STATE_45"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			6386 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 6386 2 }
+	}
+	provinces={
+		3783 4895 6295 6341 6385 6386 
+	}
+	manpower=165122
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

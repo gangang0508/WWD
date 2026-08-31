@@ -1,0 +1,23 @@
+
+state={
+	id=493
+	name="STATE_493"
+	history = {
+		owner = MNK
+		add_core_of = MNK
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			7183 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 7183 7 }
+	}
+	provinces={
+		1190 1310 7146 7165 7180 7183 
+	}
+	manpower=4866549
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=708
+	name="STATE_708"
+	resources = {
+		chromium = 18
+		steel = 6
+		aluminium = 4
+	}
+	history = {
+		owner = OUR
+		add_core_of = OUR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		2212 2696 7574 7612 7652 18170 18171 18172 18173 18174 18175 18176 18177 18178 18179 
+	}
+	manpower=1312951
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

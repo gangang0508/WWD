@@ -1,0 +1,33 @@
+
+state={
+	id=714
+	name="STATE_714"
+	resources = {
+		steel = 6
+		aluminium = 4
+		chromium = 4
+	}
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+
+		}
+		victory_points = {
+			7701 2 
+		}
+		victory_points = {
+			4139 5 
+		}
+
+	}
+
+	provinces={
+		537 570 682 1070 3485 4139 7701 7742 7782 18290 18291 18292 18293 18294 18295 18296 18297 
+	}
+	manpower=2416512
+	buildings_max_level_factor=1.000
+	state_category=town
+}

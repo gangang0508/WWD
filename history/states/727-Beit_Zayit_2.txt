@@ -1,0 +1,25 @@
+state={
+	id=727
+	name="STATE_727"
+	history = {
+		owner = AZD
+		add_core_of = AZD
+		add_core_of = BEI
+		buildings = {
+			infrastructure = 3
+			17981 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			17981 5
+		}
+	}
+	
+	provinces={
+		17978 17981 17984 
+	}
+	manpower=1251022
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

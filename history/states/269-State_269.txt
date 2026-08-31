@@ -1,0 +1,19 @@
+
+state={
+	id=269
+	name="STATE_269"
+	history = {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 2129 1 }
+	}
+	provinces={
+		19 256 609 1366 1676 2129 5229 5230 
+	}
+	manpower=305010
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

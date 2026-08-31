@@ -1,0 +1,27 @@
+
+state={
+	id=642
+	name="STATE_642"
+
+	history={
+		owner = CAU
+		add_core_of = CAU
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			4175 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 4175 3 }
+
+	}
+
+	provinces={
+		728 2476 3352 4175 4356 6278 6300 6357 6363 6401 
+	}
+	manpower=2148500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

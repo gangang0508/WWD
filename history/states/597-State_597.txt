@@ -1,0 +1,18 @@
+
+state={
+	id=597
+	name="STATE_597"
+
+	history={
+		owner = UNA
+		add_core_of = UNA
+
+	}
+
+	provinces={
+		39 45 287 1182 1458 1603 3025 8149 8175 18007 
+	}
+	manpower=2171200
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

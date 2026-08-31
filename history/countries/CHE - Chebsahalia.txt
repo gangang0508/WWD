@@ -1,0 +1,38 @@
+﻿capital = 527
+
+oob = "CHE"
+
+set_popularities={
+		fascism = 12
+		democratic = 20
+		communism = 8
+		neutrality = 60
+}
+
+set_research_slots = 0
+set_convoys = 18
+set_stability = 0.2
+set_war_support = 0.9
+add_ideas = {
+	herbivorous
+	segregation_and_exclusion
+	uncivilized_nation
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Eimlaq Naama"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=673
+	name="STATE_673"
+	resources = {
+		chromium = 1
+		tungsten = 2
+	}
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			2256 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 2256 4 }
+	}
+	provinces={
+		1823 2256 5943 5999 6025 
+	}
+	manpower=3102861
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

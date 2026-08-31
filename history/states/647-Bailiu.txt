@@ -1,0 +1,20 @@
+state={
+	id=647
+	name="STATE_647"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			industrial_complex = 4
+			infrastructure = 5
+		}
+		victory_points = { 17288 4 }
+		victory_points = { 4494 1 }
+	}
+	provinces={
+		1621 4494 7045 7063 7147 7161 17288 
+	}
+	manpower=7126510
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

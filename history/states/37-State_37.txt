@@ -1,0 +1,19 @@
+
+state={
+	id=37
+	name="STATE_37"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 4226 2 }
+	}
+	provinces={
+		612 3276 4226 5220 6101 6140 8766 8767 
+	}
+	manpower=477126
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=155
+	name="STATE_155"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 4427 3 }
+	}
+
+	provinces={
+		567 2759 3843 4427 6816 17454 17460 17461 
+	}
+	manpower=884712
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

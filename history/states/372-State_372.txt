@@ -1,0 +1,33 @@
+
+state={
+	id=372
+	name="STATE_372"
+	resources = {
+		steel = 6
+		aluminium = 2
+	}
+	history={
+		owner = AKH
+		add_core_of = AKH
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			7895 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1917 3
+		}
+		victory_points = {
+			7895 5
+		}
+	}
+
+	provinces={
+		321 867 1917 2525 3347 4391 4453 7834 7843 7848 7867 7871 7882 7890 7895 7906 7919 
+	}
+	manpower=1591085
+	buildings_max_level_factor=1.000
+	state_category=town
+}

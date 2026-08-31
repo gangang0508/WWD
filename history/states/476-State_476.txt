@@ -1,0 +1,28 @@
+
+state={
+	id=476
+	name="STATE_476"
+	resources = {
+		steel = 25
+	}
+	history={
+		owner = THA
+		add_core_of = THA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4769 5 
+		}
+
+	}
+
+	provinces={
+		408 555 971 1739 3359 3772 3791 4769 6852 6872 6879 17552 17557 17571 
+	}
+	manpower=1159400
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

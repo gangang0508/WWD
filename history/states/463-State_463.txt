@@ -1,0 +1,37 @@
+
+state={
+	id=463
+	name="STATE_463"
+	resources = {
+		aluminium = 10
+		tungsten = 12
+		steel = 20
+	}
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			93 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			3106 3 
+		}
+		victory_points = {
+			6563 5 
+		}
+
+	}
+
+	provinces={
+		29 93 135 182 331 552 628 1021 1171 1564 2180 2538 3106 3849 3989 4588 6563 6589 6709 6835 
+	}
+	manpower=2192510
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

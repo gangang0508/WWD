@@ -1,0 +1,24 @@
+
+state={
+	id=40
+	name="STATE_40"
+
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 2
+			2166 = {
+				naval_base = 1 
+			}
+		}
+		victory_points = { 2166 1 }
+	}
+
+	provinces={
+		535 573 909 991 1399 1574 1986 2166 2713 3473 3553 3946 4437 5381 5388 5400 
+	}
+	manpower=273950
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

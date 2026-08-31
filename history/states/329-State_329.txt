@@ -1,0 +1,22 @@
+
+state={
+	id=329
+	name="STATE_329"
+	
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 1358 2 }
+	}
+
+	provinces={
+		260 347 495 924 1358 1427 1696 5429 5509 
+	}
+	manpower=540100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,13 @@
+state={
+	id=581
+	name="STATE_581"
+	history = {
+		owner = BAR
+	}
+	provinces={
+		1260 4503 4929 8059 8060 8075 8076 8087 8090 
+	}
+	manpower=4004
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

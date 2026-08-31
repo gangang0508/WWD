@@ -1,0 +1,21 @@
+
+state={
+	id=234
+	name="STATE_234"
+	history={
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+
+	}
+	provinces={
+		171 387 652 876 1300 1747 1784 1861 2353 2753 3608 4036 4189 4286 4393 4466 8424 8457 8479 8526 8529 8551 
+	}
+	manpower=1485930
+	state_category = town
+	buildings_max_level_factor=1.000
+}

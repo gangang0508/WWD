@@ -1,0 +1,14 @@
+state={
+	id=42
+	name="STATE_42"
+	history = {
+		owner = CLI
+		add_core_of = CLI
+	}
+	provinces={
+		4737 6279 6319 6332 6361 
+	}
+	manpower=41125
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=340
+	name="STATE_340"
+	history = {
+		owner = PLI
+		add_core_of = PLI
+	}
+	provinces={
+		71 512 1034 3179 4292 8043 8089 
+	}
+	manpower=3141210
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

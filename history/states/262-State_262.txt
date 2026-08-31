@@ -1,0 +1,15 @@
+
+state={
+	id=262
+	name="STATE_262"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		517 579 629 714 732 833 949 963 1627 1681 2096 2211 2751 3389 3917 4508 8548 8574 8598 8687 8691 8700 8712 
+	}
+	manpower=871612
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

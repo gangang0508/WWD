@@ -1,0 +1,19 @@
+
+state={
+	id=631
+	name="STATE_631"
+	history = {
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}	
+	}
+	provinces={
+		53 888 929 1079 1186 1219 2279 2878 3250 3484 4062 8288 8301 8305 8308 8323 
+	}
+	manpower=6754950
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

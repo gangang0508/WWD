@@ -1,0 +1,40 @@
+﻿capital = 428
+
+set_convoys = 75
+
+add_ideas = {
+	active_persecution
+	herbivorous
+}
+
+set_popularities={
+		fascism = 59
+		neutrality = 41
+}
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Fu Xi"
+	picture = "Portrait_Sinosauria_Jiu_Zhu.dds"
+	expire = "1965.1.1"
+	ideology = rexism
+	traits = {
+		nationalist_symbol
+	}
+}

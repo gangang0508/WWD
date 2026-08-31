@@ -1,0 +1,22 @@
+
+state={
+	id=250
+	name="STATE_250"
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+			arms_factory = 1
+		}
+		victory_points = { 4804 3 }
+	}
+
+	provinces={
+		4804 6640 17101 17102 17103 
+	}
+	manpower=2816706
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

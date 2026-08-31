@@ -1,0 +1,17 @@
+state={
+	id=100
+	name="STATE_100"
+	history = {
+		owner = TIK
+		add_core_of = TIK
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		863 2485 7009 7033 7034 
+	}
+	manpower=51120
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

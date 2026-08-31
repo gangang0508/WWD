@@ -1,0 +1,27 @@
+
+state={
+	id=490
+	name="STATE_490"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 6
+			dockyard = 1
+			industrial_complex = 3
+			7024 = {
+				naval_base = 5
+			}
+		}
+		victory_points = { 7024 20 }
+		victory_points = { 1174 5 }
+	}
+
+	provinces={
+		1174 1581 4346 4538 4652 4951 6915 6958 7008 7024 7059 7076 7092 7138 
+	}
+	manpower=6865090
+	buildings_max_level_factor=1.000
+	state_category=city
+}

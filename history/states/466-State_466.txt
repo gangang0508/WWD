@@ -1,0 +1,29 @@
+
+state={
+	id=466
+	name="STATE_466"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+
+		}
+		victory_points = {
+			17767 2 
+		}
+		victory_points = {
+			17798 6 
+		}
+
+	}
+
+	provinces={
+		3123 17767 17789 17794 17795 17798 17802 17807 17811 17817 17823 
+	}
+	manpower=2849600
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

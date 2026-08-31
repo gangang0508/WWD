@@ -1,0 +1,35 @@
+
+state={
+	id=350
+	name="STATE_350"
+	resources={
+		steel=36.000
+		tungsten=4.000
+	}
+
+	history={
+		owner = CDR
+		add_core_of = CDR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+			arms_factory = 2
+
+		}
+		victory_points = {
+			17205 50 
+		}
+		victory_points = {
+			17200 5 
+		}
+
+	}
+
+	provinces={
+		17200 17201 17203 17205 17206 17207 17210 17216 17217 
+	}
+	manpower=6245800
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

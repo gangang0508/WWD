@@ -1,0 +1,29 @@
+
+state={
+	id=546
+	name="STATE_546"
+
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+
+		}
+		victory_points = {
+			17975 2 
+		}
+		victory_points = {
+			17973 1 
+		}
+
+	}
+
+	provinces={
+		661 2045 2141 2943 17973 17975 17976 18298 18299 18300 
+	}
+	manpower=1322150
+	buildings_max_level_factor=1.000
+	state_category=town
+}

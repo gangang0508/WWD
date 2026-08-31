@@ -1,0 +1,30 @@
+
+state={
+	id=505
+	name="STATE_505"
+	resources={
+		oil=4.000
+	}
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			2936 5 
+		}
+
+	}
+
+	provinces={
+		133 2299 2936 5091 7288 17479 
+	}
+	manpower=7145086
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=432
+	name="STATE_432"
+	history = {
+		owner = NIE
+		add_core_of = NIE
+	}
+	provinces={
+		111 1519 1934 2011 2124 2291 3453 3824 3981 4015 4780 7549 7551 7614 7615 
+	}
+	manpower=23108250
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

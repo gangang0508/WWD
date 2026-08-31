@@ -1,0 +1,25 @@
+
+state={
+	id=510
+	name="STATE_510"
+
+	history={
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			1043 3 
+		}
+
+	}
+
+	provinces={
+		2983 3071 7277 7300 17509 17510 17512 17513 17514 17515 
+	}
+	manpower=795120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

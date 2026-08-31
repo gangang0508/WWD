@@ -1,0 +1,24 @@
+
+state={
+	id=388
+	name="STATE_388"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 2
+			infrastructure = 7
+		}
+		victory_points = { 17473 20 }
+		victory_points = { 1796 5 }
+	}
+
+	provinces={
+		1240 1370 1796 2091 3834 3866 4023 4027 4034 6010 6066 6075 6086 17470 17471 17472 17473 17474 
+	}
+	manpower=3177920
+	buildings_max_level_factor=1.000
+	state_category=city
+}

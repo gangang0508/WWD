@@ -1,0 +1,25 @@
+state={
+	id=72
+	name="STATE_72"
+	resources = {
+		oil = 4
+		steel = 30
+	}
+	history = {
+		owner = STR
+		add_core_of = STR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+			4195 = {
+				naval_base = 4
+			}
+		}
+	}
+	provinces={
+		3032 3297 4195 6676 6704 6747 
+	}
+	manpower=3155850
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

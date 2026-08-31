@@ -1,0 +1,25 @@
+
+state={
+	id=509
+	name="STATE_509"
+
+	history={
+		owner = TIK
+		add_core_of = TIK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			7225 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 7225 2 }
+	}
+
+	provinces={
+		4348 4555 7215 7225 7235 7245 17174 17175 
+	}
+	manpower=744120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

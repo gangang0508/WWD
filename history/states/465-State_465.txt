@@ -1,0 +1,30 @@
+
+state={
+	id=465
+	name="STATE_465"
+	resources = {
+		steel = 2
+		chromium = 22
+	}
+	history = {
+		owner = TIK
+		add_core_of = TIK
+		buildings = { 
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 2
+			4984 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 4984 10 }
+		victory_points = { 4566 3 }
+		victory_points = { 4312 1 }
+	}
+	provinces={
+		807 1348 2519 2818 4312 4566 4984 6900 6906 6937 6955 6989 
+	}
+	manpower=4912251
+	state_category = city
+	buildings_max_level_factor=1.000
+}

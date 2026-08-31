@@ -1,0 +1,36 @@
+
+state={
+	id=50
+	name="STATE_50"
+	resources={
+		oil=4.000
+		steel=12.000
+	}
+
+	history={
+		owner = ROA
+		add_core_of = ROA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			6530 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			6530 30 
+		}
+
+	}
+
+	provinces={
+		2789 3284 3536 6480 6510 6529 6530 6548 6561 6582 6586 
+	}
+	manpower=3540600
+	buildings_max_level_factor=1.000
+	state_category=city
+}

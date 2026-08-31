@@ -1,0 +1,20 @@
+
+state={
+	id=689
+	name="STATE_689"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 17932 5 }
+	}
+	provinces={
+		163 887 1464 2029 4347 17903 17907 17911 17912 17916 17920 17932 17935 17936 
+	}
+	manpower=4710827
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

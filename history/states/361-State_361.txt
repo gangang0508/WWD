@@ -1,0 +1,30 @@
+
+state={
+	id=361
+	name="STATE_361"
+
+	history={
+		owner = VGA
+		add_core_of = VGA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			5704 3 
+		}
+		victory_points = {
+			5580 1 
+		}
+
+	}
+
+	provinces={
+		3034 4746 5603 5621 5646 5661 5689 5704 5732 
+	}
+	manpower=3848000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

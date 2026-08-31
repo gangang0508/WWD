@@ -1,0 +1,18 @@
+
+state={
+	id=344
+	name="STATE_344"
+
+	history={
+		owner = SAN
+		add_core_of = SAN
+
+	}
+
+	provinces={
+		17987 
+	}
+	manpower=627120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=441
+	name="STATE_441"
+	resources={
+		oil=44.000
+		steel=6.000
+		chromium=4.000
+	}
+
+	history={
+		owner = LAM
+		add_core_of = LAM
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			4988 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			4988 5 
+		}
+		victory_points = {
+			6340 2 
+		}
+
+	}
+
+	provinces={
+		1138 1502 1915 2551 2726 2868 3604 3751 4020 4988 6235 6241 6248 6276 6287 6337 6340 6344 6359 6382 6391 6405 6442 
+	}
+	manpower=7194850
+	buildings_max_level_factor=1.000
+	state_category=city
+}

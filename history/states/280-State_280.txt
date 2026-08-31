@@ -1,0 +1,18 @@
+
+state={
+	id=280
+	name="STATE_280"
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		116 540 691 847 891 1241 1455 1510 1800 1880 2443 2574 2698 3060 3525 3651 3897 3950 3983 4136 4192 4256 4622 4967 5064 5085 5245 5246 5247 5248 5252 5253 5260 5270 5272 5276 5287 5289 5308 
+	}
+	manpower=1006
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

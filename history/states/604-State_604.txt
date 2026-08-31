@@ -1,0 +1,18 @@
+
+state={
+	id=604
+	name="STATE_604"
+
+	history={
+		owner = HND
+		add_core_of = HND
+
+	}
+
+	provinces={
+		1011 1295 1397 1527 1830 2239 2327 2350 2428 3002 3418 4697 8273 8283 
+	}
+	manpower=7150200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

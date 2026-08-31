@@ -1,0 +1,18 @@
+
+state={
+	id=576
+	name="STATE_576"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		844 1179 1326 1328 2266 3048 4388 4656 7974 8017 8071 18029 18032 18037 
+	}
+	manpower=912490
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

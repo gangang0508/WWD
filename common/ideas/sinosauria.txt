@@ -1,0 +1,215 @@
+ideas = {
+	industrial_concern = {
+		
+		
+		SIN_sanjeng_industries = {
+		
+			picture = sanjeng_industries
+			
+			allowed = {
+				original_tag = SIN
+			}
+			
+			research_bonus = {
+				industry = 0.15
+				
+			}
+			
+			traits = { industrial_concern }
+		}
+
+				
+	}
+	high_command = {
+
+		SIN_fu_xi = {
+			
+			
+			allowed = {
+				original_tag = SIN
+				NOT = {
+					has_completed_focus = SIN_regency_council
+				}
+			}
+			
+			picture = fu_xi
+			
+			traits = { army_cavalry_3 }
+			
+			ai_will_do = {
+				factor = 2
+			}
+		}
+		SIN_chaiyou_huang = {
+			
+			
+			allowed = {
+				original_tag = SIN
+				NOT = {
+					has_completed_focus = SIN_fu_xi_reigns
+				}
+			}
+			
+			picture = chaiyou_huang
+			
+			traits = { army_infantry_4 }
+			
+			ai_will_do = {
+				factor = 2
+			}
+		}
+	}
+	country = {
+		SIN_mourn_for_the_empersaur = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = mourn_for_the_empersaur
+
+			modifier = {
+				production_factory_max_efficiency_factor = -0.2
+				production_speed_buildings_factor = -0.5
+				industrial_capacity_factory = -0.5
+				political_power_factor = -0.5
+				stability_weekly = 0.02
+			}
+		}
+		SIN_army_research_deficit = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = jap_supremacy_of_will
+			
+		}
+		
+		SIN_military_disloyalty = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = fu_xi_defiant
+
+			modifier = {
+				army_attack_factor = -0.50
+				army_defence_factor = -0.50
+				army_org_factor = -0.10
+				army_morale_factor = -0.10
+				conscription = -0.50
+			}
+		}
+		SIN_inexperienced_officers = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = chi_incompetent_officers
+
+			modifier = {
+				army_attack_factor = -0.50
+				army_defence_factor = -0.50
+				army_org_factor = -0.20
+			}
+		}
+		SIN_ineffective_draft = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = ineffective_draft 
+
+			modifier = {
+				mobilization_laws_cost_factor = 0.50
+				conscription = -0.01
+			}
+		}
+		#####Brane Drane#####
+		SIN_brane_drane3 = {
+
+			picture = jap_supremacy_of_will
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				research_speed_factor = -0.2
+			}
+		}
+		SIN_brane_drane2 = {
+
+			picture = jap_supremacy_of_will
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				research_speed_factor = -0.15
+			}
+		}
+		SIN_brane_drane1 = {
+
+			picture = jap_supremacy_of_will
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				research_speed_factor = -0.10
+			}
+		}
+		SIN_corrupt_bureaucrats = {
+
+			picture = anti_soviet_pact
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.25
+				war_support_factor = -0.10
+			}
+		}
+		SIN_ineffective_tax = {
+
+			picture = chi_hyper_inflation
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				consumer_goods_factor = 0.20
+			}
+		}
+		SIN_disunified_government = {
+
+			picture = court_declares_illegitimate
+
+			allowed = { original_tag = SIN }
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_factor = 0.5
+				trade_laws_cost_factor = 0.25
+				mobilization_laws_cost_factor = 0.25
+				economy_cost_factor = 0.25
+			}
+		}
+	}
+}

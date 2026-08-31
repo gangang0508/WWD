@@ -1,0 +1,39 @@
+﻿capital = 522
+
+oob = "CCH"
+
+set_popularities={
+		democratic = 2
+		communism = 11
+		neutrality = 87
+}
+
+set_convoys = 0
+set_stability = 0.3
+set_war_support = 0.9
+
+set_research_slots = 0
+
+add_ideas = {
+	carnivorous
+	active_persecution
+	uncivilized_nation
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Alminsha Saharicus"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

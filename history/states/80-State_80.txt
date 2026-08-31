@@ -1,0 +1,24 @@
+
+state={
+	id=80
+	name="STATE_80"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 3
+			3073 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			3073 4
+		}
+	}
+	provinces={
+		3073 3396 3916 5107 6736 6755 6804 6805 
+	}
+	manpower=1741250
+	state_category = town
+	buildings_max_level_factor=1.000
+}

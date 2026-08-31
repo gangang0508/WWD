@@ -1,0 +1,30 @@
+
+state={
+	id=149
+	name="STATE_149"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		add_claim_by = CHN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1949 2 
+		}
+		victory_points = {
+			1881 1 
+		}
+
+	}
+
+	provinces={
+		777 899 1719 1881 1949 2417 3810 17891 17895 17898 17900 
+	}
+	manpower=2196712
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

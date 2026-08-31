@@ -1,0 +1,29 @@
+
+state={
+	id=401
+	name="STATE_401"
+
+	history={
+		owner = CAU
+		add_core_of = CAU
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			1895 4
+		}
+		victory_points = {
+			4899 2 
+		}
+
+	}
+
+	provinces={
+		1333 1566 4899 6083 6164 6199 6220 17330 
+	}
+	manpower=2119210
+	buildings_max_level_factor=1.000
+	state_category=city
+}

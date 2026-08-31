@@ -1,0 +1,14 @@
+state={
+	id=197
+	name="STATE_197"
+	history = {
+		owner = YAG
+		add_core_of = YAG
+	}
+	provinces={
+		708 7789 7799 7802 7815 
+	}
+	manpower=186120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

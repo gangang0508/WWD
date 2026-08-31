@@ -1,0 +1,18 @@
+
+state={
+	id=400
+	name="STATE_400"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		241 739 1842 1913 2348 2807 2857 4816 4922 7688 8037 8847 18049 18050 18051 
+	}
+	manpower=971920
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

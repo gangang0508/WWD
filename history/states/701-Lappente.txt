@@ -1,0 +1,26 @@
+
+state={
+	id=701
+	name="STATE_701"
+
+	history={
+		owner = SPT
+		add_core_of = SPT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			18086 4 
+		}
+
+	}
+
+	provinces={
+		821 4897 18086 18088 18108 18182 
+	}
+	manpower=3102865
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

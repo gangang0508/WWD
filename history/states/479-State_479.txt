@@ -1,0 +1,29 @@
+
+state={
+	id=479
+	name="STATE_479"
+
+	history={
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 1
+			7072 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = { 7072 20 }
+		victory_points = { 7011 3 }
+	}
+
+	provinces={
+		1053 1891 2790 3090 4245 4694 7011 7012 7048 7072 17549 
+	}
+	manpower=8189520
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

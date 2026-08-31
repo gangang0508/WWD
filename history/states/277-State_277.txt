@@ -1,0 +1,15 @@
+
+state={
+	id=277
+	name="STATE_277"
+	history = {
+		owner = CHX
+		add_core_of = CHX
+	}
+	provinces={
+		1514 1740 1931 2515 3690 3700 5223 7473 7482 7498 7517 
+	}
+	manpower=2144910
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

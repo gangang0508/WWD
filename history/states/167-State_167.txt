@@ -1,0 +1,24 @@
+
+state={
+	id=167
+	name="STATE_167"
+	resources = {
+		rubber = 330
+	}
+	history={
+		owner = BET
+		buildings = {
+			infrastructure = 4
+			7562 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces={
+		1381 2879 3085 3357 4205 5068 7533 7542 7545 7553 7562 7570 7576 7579 7584 
+	}
+	manpower=8107192
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=391
+	name="STATE_391"
+
+	history={
+		owner = LAM
+		add_core_of = LAM
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			3676 1 
+		}
+		victory_points = {
+			4143 2 
+		}
+
+	}
+
+	provinces={
+		36 94 138 166 478 941 1900 2514 2861 3253 3676 4143 4311 4576 5793 5843 5874 5888 5941 5950 5996 17389 
+	}
+	manpower=2178500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=146
+	name="STATE_146"
+	
+	history={
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 1
+		}
+		victory_points = { 17267 2 }
+		victory_points = { 3972 1 }
+	}
+
+	provinces={
+		992 3582 3972 7352 7368 7378 7379 7393 7399 7402 17267 17269 17273 
+	}
+	manpower=2510726
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

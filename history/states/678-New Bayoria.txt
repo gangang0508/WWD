@@ -1,0 +1,28 @@
+state={
+	id=678
+	name="STATE_678"
+	resources = {
+		steel = 42
+	}
+	history = {
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			industrial_complex = 6
+			dockyard = 2
+			infrastructure = 8
+			7131 = {
+				naval_base = 10
+			}
+		}
+		victory_points = { 7131 40 }
+		victory_points = { 7108 5 }
+		victory_points = { 5177 2 }
+	}
+	provinces={
+		3212 5177 7108 7131 17735 17736 
+	}
+	manpower=11802571
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+}

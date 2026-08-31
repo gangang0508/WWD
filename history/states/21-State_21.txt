@@ -1,0 +1,16 @@
+
+state={
+	id=21
+	name="STATE_21"
+	history={
+		owner = LOV
+		add_core_of = LOV
+
+	}
+	provinces={
+		41 1198 1221 1551 2483 2880 3104 3567 4279 8450 8501 
+	}
+	manpower=1007120
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,35 @@
+﻿capital = 573
+
+set_convoys = 32
+set_stability = 0.6
+set_war_support = 0.2
+
+set_research_slots = 0
+
+add_ideas = {
+	uncivilized_nation
+	carnivorous
+	tolerance
+}
+set_popularities={
+		communism = 3
+		neutrality = 97
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Hussein Bel Ali"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

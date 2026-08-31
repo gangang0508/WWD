@@ -1,0 +1,19 @@
+objectTypes = {
+	pdxmesh = {
+		name = "theropod_mesh"
+		file = "gfx/models/units/theropod.mesh"
+		scale = 1
+		
+		animation = { id = "idle"	type = "theropod_idle_anim" }
+		animation = { id = "move" type = "theropod_move_anim" }
+
+		meshsettings = {
+			name = "jorodoxShape"
+			index = 0
+			texture_diffuse = "theropod_diffuse.dds"
+			texture_normal = "nonormal.dds"
+			texture_specular = "theropod_spec.dds"
+			shader = "PdxMeshAdvanced"
+		}
+	}
+}

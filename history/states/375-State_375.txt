@@ -1,0 +1,35 @@
+
+state={
+	id=375
+	name="STATE_375"
+	resources = {
+		aluminium = 2
+		steel = 4
+	}
+	history={
+		owner = XIA
+		add_core_of = XIA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			297 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			297 8
+		}
+		victory_points = {
+			855 3
+		}
+
+	}
+
+	provinces={
+		297 665 1969 2233 2577 5032 5827 5864 5883 5927 5967 17347 
+	}
+	manpower=4181210
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

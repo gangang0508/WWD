@@ -1,0 +1,20 @@
+
+state={
+	id=271
+	name="STATE_271"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		104 159 322 360 400 998 1212 1417 1501 1598 1711 2026 2571 3739 4969 5210 5231 5232 5268 5317 
+	}
+	manpower=105850
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=695
+	name="STATE_695"
+	resources = {
+		steel = 2
+	}
+	history = {
+		owner = SUC
+		add_core_of = SUC
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 5
+		}
+	}
+	provinces={
+		2173 18106 18107 18141 18144 18145 18147 
+	}
+	manpower=4912756
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

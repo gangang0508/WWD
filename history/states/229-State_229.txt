@@ -1,0 +1,32 @@
+
+state={
+	id=229
+	name="STATE_229"
+	resources = { 
+		steel = 4
+	}
+	history = {
+		owner = MAM
+		add_core_of = MAM
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 1
+			dockyard = 1
+			2546 = {
+				naval_base = 6
+			}
+			4654 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 2546 20 }
+		victory_points = { 4654 6 }
+	}
+	provinces={
+		1195 2546 2956 3442 3549 3974 4654 4874 5104 7437 7447 7456 7464 7467 7474 
+	}
+	manpower=3144950
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

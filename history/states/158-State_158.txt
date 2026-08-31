@@ -1,0 +1,18 @@
+
+state={
+	id=158
+	name="STATE_158"
+
+	history={
+		owner = YAG
+		add_core_of = YAG
+
+	}
+
+	provinces={
+		2588 3632 4663 4847 4956 5082 5114 7436 7443 7452 7462 7477 7512 7524 7528 7541 
+	}
+	manpower=1567120
+	buildings_max_level_factor=1.000
+	state_category=town
+}

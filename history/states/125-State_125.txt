@@ -1,0 +1,28 @@
+
+state={
+	id=125
+	name="STATE_125"
+	resources = {
+		aluminium = 10
+		oil = 60
+	}
+	history={
+		owner = ALL
+		add_core_of = ALL
+		add_core_of = APA
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 2
+			infrastructure = 5
+		}
+		victory_points = { 615 7 }
+		victory_points = { 668 2 }
+	}
+
+	provinces={
+		392 615 668 4362 6771 6800 6847 17584 
+	}
+	manpower=2845050
+	buildings_max_level_factor=1.000
+	state_category=town
+}

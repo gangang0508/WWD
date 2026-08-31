@@ -1,0 +1,21 @@
+
+state={
+	id=61
+	name="STATE_61"
+
+	history={
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 1521 2 }
+	}
+
+	provinces={
+		1521 1977 2505 2808 3265 3363 3426 5802 5902 17695 
+	}
+	manpower=675980
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,26 @@
+state={
+	id=71
+	name="STATE_71"
+	history = {
+		owner = AVI
+		add_core_of = AVI	
+		add_core_of = DNN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			6767 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 6767 3 }
+		victory_points = { 77 1 }
+	}
+	provinces={
+		77 772 3659 3980 4196 6664 6677 6706 6767 6791 
+	}
+	manpower=1267412
+	state_category = town
+	buildings_max_level_factor=1.000
+}

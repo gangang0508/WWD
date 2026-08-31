@@ -1,0 +1,18 @@
+
+state={
+	id=614
+	name="STATE_614"
+
+	history={
+		owner = AGN
+		add_core_of = AGN
+
+	}
+
+	provinces={
+		564 951 1522 1605 1951 2424 2616 3812 8266 8280 8291 
+	}
+	manpower=1733910
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=121
+	name="STATE_121"
+
+	history={
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 3
+			5143 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			5143 5 
+		}
+		victory_points = {
+			6109 2 
+		}
+
+	}
+
+	provinces={
+		619 1632 3270 3279 4283 5019 5143 5993 6104 6109 6129 6154 6190 
+	}
+	manpower=2441500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=526
+	name="STATE_526"
+
+	history={
+		owner = AEG
+		add_core_of = AEG
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			18262 5
+		}
+		victory_points = {
+			18261 2
+		}
+	}
+
+	provinces={
+		253 1268 3433 7430 18228 18230 18233 18240 18244 18250 18251 18260 18261 18262 
+	}
+	manpower=741250
+	buildings_max_level_factor=1.000
+	state_category=town
+}

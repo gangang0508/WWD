@@ -1,0 +1,18 @@
+
+state={
+	id=422
+	name="STATE_422"
+
+	history={
+		owner = PLI
+		add_core_of = PLI
+
+	}
+
+	provinces={
+		894 1058 1573 2370 3301 3325 3898 4805 4953 5020 7872 7899 7921 7985 
+	}
+	manpower=2139120
+	buildings_max_level_factor=1.000
+	state_category=town
+}

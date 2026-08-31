@@ -1,0 +1,27 @@
+
+state={
+	id=160
+	name="STATE_160"
+	resources = {
+		rubber = 124
+		oil = 4
+		aluminium = 4
+	}
+	history={
+		owner = MAI
+		add_core_of = MAI
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = { 7598 10 }
+	}
+
+	provinces={
+		1594 3040 3070 7564 7566 7585 7598 7602 7622 
+	}
+	manpower=15490618
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

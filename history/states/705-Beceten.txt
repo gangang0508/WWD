@@ -1,0 +1,21 @@
+state={
+	id=705
+	name="STATE_705"
+	history = {
+		owner = SUC
+		add_core_of = SUC
+		add_core_of = SPT
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			18153 2
+		}
+	}
+	provinces={
+		18085 18153 
+	}
+	manpower=501927
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

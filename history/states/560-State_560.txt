@@ -1,0 +1,15 @@
+
+state={
+	id=560
+	name="STATE_560"
+	history = {
+		owner = STR
+		add_core_of = TNI
+	}
+	provinces={
+		293 2772 4581 7662 7679 7692 7699 7712 7721 7722 7725 7726 7732 7744 
+	}
+	manpower=5129587
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

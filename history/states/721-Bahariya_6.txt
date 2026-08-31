@@ -1,0 +1,25 @@
+
+state={
+	id=721
+	name="STATE_721"
+	resources = {
+		steel = 4
+	}
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			2666 5
+		}
+	}
+	provinces={
+		2666 3119 7454 18227 18232 18239 18246 18247 18253 18268 18269 18270 
+	}
+	manpower=1120611
+	state_category = town
+	buildings_max_level_factor=1.000
+}

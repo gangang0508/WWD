@@ -1,0 +1,20 @@
+state={
+	id=659
+	name="STATE_659"
+	history = {
+		owner = ALL
+		add_core_of = ALL
+		add_core_of = APA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+		}
+		victory_points = { 17562 20 }
+	}
+	provinces={
+		1201 2182 4421 7025 17535 17538 17544 17554 17562 17565 17569 
+	}
+	manpower=1461262
+	state_category = town
+	buildings_max_level_factor=1.000
+}

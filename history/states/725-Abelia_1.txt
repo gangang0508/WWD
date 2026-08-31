@@ -1,0 +1,24 @@
+state={
+	id=725
+	name="STATE_725"
+	resources = {
+		oil = 8
+		steel = 2
+	}
+	history = {
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			7715 2
+		}
+	}
+	provinces={
+		1732 2121 3421 7696 7715 7797 
+	}
+	manpower=243912
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

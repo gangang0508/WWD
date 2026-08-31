@@ -1,0 +1,20 @@
+
+state={
+	id=416
+	name="STATE_416"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = { 1592 2 }
+	}
+	provinces={
+		270 333 1019 1244 1592 1600 2716 4250 4681 4842 5000 6138 
+	}
+	manpower=2133671
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

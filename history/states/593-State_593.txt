@@ -1,0 +1,18 @@
+
+state={
+	id=593
+	name="STATE_593"
+
+	history={
+		owner = VUL
+		add_core_of = VUL
+
+	}
+
+	provinces={
+		458 703 979 1626 2006 2087 2237 2245 2302 2337 2660 3815 8102 8119 8129 8135 8156 8164 18020 18023 18025 18030 18038 18040 18041 
+	}
+	manpower=3176120
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

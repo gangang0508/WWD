@@ -1,0 +1,18 @@
+
+state={
+	id=565
+	name="STATE_565"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		200 775 1032 2460 3235 3466 4113 4613 4715 7806 7823 7862 7893 7916 18288 18289 
+	}
+	manpower=1071203
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

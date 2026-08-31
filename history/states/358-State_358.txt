@@ -1,0 +1,24 @@
+
+state={
+	id=358
+	name="STATE_358"
+
+	history={
+		owner = RIA
+		add_core_of = RIA
+		buildings = { 
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		victory_points = { 3225 3 }
+		victory_points = { 5717 1 }
+	}
+
+	provinces={
+		896 1810 2297 3114 3225 3384 4748 5675 5717 5739 5745 5754 5798 5866 
+	}
+	manpower=6859010
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=573
+	name="STATE_573"
+	resources = {
+		steel = 12
+	}
+	history={
+		owner = MDR
+		add_core_of = MDR
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 4
+			4986 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4986 2
+		}
+		victory_points = {
+			2725 4
+		}
+	}
+
+	provinces={
+		883 1184 1423 2725 2960 3061 4213 4227 4986 7937 7947 7967 7971 7972 7995 8002 8006 17970 17971 
+	}
+	manpower=1259012
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=520
+	name="STATE_520"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		add_claim_by = MAM
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 3
+			infrastructure = 6
+
+		}
+		victory_points = {
+			7354 30 
+		}
+		victory_points = {
+			1036 20 
+		}
+
+	}
+
+	provinces={
+		1036 2242 4061 7331 7332 7340 7346 7354 7371 7377 7395 17858 
+	}
+	manpower=16184580
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=31
+	name="STATE_31"
+	history = {
+		owner = SIB
+		add_core_of = SIB
+		buildings = {
+			infrastructure = 2
+			795 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 795 1 }
+	}
+	provinces={
+		722 795 1620 5715 
+	}
+	manpower=10126
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

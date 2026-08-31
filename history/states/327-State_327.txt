@@ -1,0 +1,28 @@
+
+state={
+	id=327
+	name="STATE_327"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			1051 2 
+		}
+
+	}
+
+	provinces={
+		859 1051 1098 2621 3033 4154 4518 5022 5034 5386 5396 5448 5479 5491 5506 5517 
+	}
+	manpower=1095810
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

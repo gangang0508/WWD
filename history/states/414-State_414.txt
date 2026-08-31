@@ -1,0 +1,39 @@
+
+state={
+	id=414
+	name="STATE_414"
+	resources={
+		tungsten=14.000
+		steel=40.000
+		chromium=4.000
+	}
+
+	history={
+		owner = DIL
+		add_core_of = DIL
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 1
+			infrastructure = 5
+			6173 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			3956 5 
+		}
+		victory_points = {
+			2148 3 
+		}
+
+	}
+
+	provinces={
+		1750 2148 2272 3956 4392 5972 5977 6001 6012 6017 6060 6092 6135 6160 6173 6208 
+	}
+	manpower=2143295
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

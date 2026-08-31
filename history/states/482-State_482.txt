@@ -1,0 +1,20 @@
+
+state={
+	id=482
+	name="STATE_482"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 6962 1 }
+		victory_points = { 6769 1 }
+	}
+	provinces={
+		448 988 2095 2323 2806 3501 3714 3869 4183 6769 6802 6869 6930 6944 6962 
+	}
+	manpower=1000512
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

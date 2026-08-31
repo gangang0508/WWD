@@ -1,0 +1,72 @@
+﻿capital = 55
+
+set_convoys = 80
+add_ideas = {
+	herbivorous
+	tolerance
+}
+
+set_popularities={
+		democratic = 60
+		communism = 35
+		fascism = 5
+		neutrality = 0
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	#improved_light_tank = 1  # PLACEHOLDER
+	#basic_heavy_tank = 1  # PLACEHOLDER
+	#basic_medium_tank = 1 # PLACEHOLDER
+	early_fighter = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	CAS1 = 1
+	
+	trench_warfare = 1
+
+	electronic_mechanical_engineering = 1
+	radio = 1
+	radio_detection = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+
+create_country_leader = {
+	name = "George Keras"
+	desc = ""
+	picture = "Portrait_Tripartite_George_Keras.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "Scannell Trikeras"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = rexism
+	traits = {
+		#
+	}
+}

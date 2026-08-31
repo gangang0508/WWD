@@ -1,0 +1,21 @@
+
+state={
+	id=304
+	name="STATE_304"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		1242 2114 3086 3515 3728 4718 5058 6228 6304 17322 17333 17337 17376 
+	}
+	manpower=1331500
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

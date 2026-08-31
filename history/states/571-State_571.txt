@@ -1,0 +1,32 @@
+
+state={
+	id=571
+	name="STATE_571"
+	resources = {
+		oil = 8
+	}
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+			18273 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			18273 3 
+		}
+
+	}
+
+	provinces={
+		717 1378 1657 4029 7666 7677 18273 18303 
+	}
+	manpower=714120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

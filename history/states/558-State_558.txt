@@ -1,0 +1,20 @@
+
+state={
+	id=558
+	name="STATE_558"
+
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		33 438 800 995 2280 2381 2416 2608 3307 4936 5153 7646 7651 7686 
+	}
+	manpower=41025
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

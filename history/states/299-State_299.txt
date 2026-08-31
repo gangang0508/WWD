@@ -1,0 +1,18 @@
+
+state={
+	id=299
+	name="STATE_299"
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		895 1633 1812 2147 2328 2643 3280 3349 3449 3545 3837 5310 5313 5324 5326 5330 5332 
+	}
+	manpower=10703
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=244
+	name="STATE_244"
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 2
+			4268 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 4268 2 }
+	}
+	
+	provinces={
+		2354 3910 4217 4268 4755 8142 8144 8146 8152 8160 8172 8179 8193 8194 
+	}
+	manpower=9171
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

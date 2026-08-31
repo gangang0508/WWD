@@ -1,0 +1,25 @@
+
+state={
+	id=390
+	name="STATE_390"
+
+	history={
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			5914 5 
+		}
+
+	}
+
+	provinces={
+		23 4149 4592 4778 5097 5811 5890 5914 17430 
+	}
+	manpower=872520
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

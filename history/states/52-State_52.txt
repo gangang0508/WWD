@@ -1,0 +1,46 @@
+
+state={
+	id=52
+	name="STATE_52"
+	resources={
+		steel=95.000
+		tungsten=16.000
+	}
+
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 3
+			17118 = {
+				naval_base = 10
+
+			}
+			17115 = {
+				naval_base = 8
+
+			}
+
+		}
+		victory_points = {
+			6490 50 
+		}
+		victory_points = {
+			17115 5 
+		}
+		victory_points = {
+			17118 20 
+		}
+
+	}
+
+	provinces={
+		1105 4501 6490 6546 17118 17119 17124 
+	}
+	manpower=11854700
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

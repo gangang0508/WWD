@@ -1,0 +1,18 @@
+
+state={
+	id=528
+	name="STATE_528"
+
+	history={
+		owner = CHX
+		add_core_of = CHX
+
+	}
+
+	provinces={
+		441 2640 3260 4473 4682 4791 7411 7414 7420 7425 7446 
+	}
+	manpower=4149120
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,121 @@
+unite_irhazia_category = {
+	form_gobero = {
+		allowed = {
+			OR = {
+				original_tag = OUR
+				original_tag = SPP
+				original_tag = JOB
+				original_tag = ELR
+				original_tag = CHE
+			}
+		}
+		available = {
+			is_subject = no
+			has_idea = herbivorous
+			controls_state = 707
+			controls_state = 703
+			controls_state = 699
+			controls_state = 696
+			controls_state = 527
+		}
+
+		fire_only_once = yes
+
+		ai_will_do = {
+			factor = 200
+		}
+		complete_effect = {
+			add_political_power = 100
+			522 = { add_core_of = ROOT }
+			527 = { add_core_of = ROOT }
+			540 = { add_core_of = ROOT }
+			695 = { add_core_of = ROOT }
+			696 = { add_core_of = ROOT }
+			697 = { add_core_of = ROOT }
+			698 = { add_core_of = ROOT }
+			699 = { add_core_of = ROOT }
+			700 = { add_core_of = ROOT }
+			701 = { add_core_of = ROOT }
+			702 = { add_core_of = ROOT }
+			703 = { add_core_of = ROOT }
+			704 = { add_core_of = ROOT }
+			705 = { add_core_of = ROOT }
+			706 = { add_core_of = ROOT }
+			707 = { add_core_of = ROOT }
+			708 = { add_core_of = ROOT }
+			set_cosmetic_tag = GOB_UNIFIED
+		}
+	}
+	form_irhazia = {
+		allowed = {
+			OR = {
+				original_tag = CCH
+				original_tag = CRI
+				original_tag = SUC
+				original_tag = SPT
+				original_tag = AFR
+			}
+		}
+		available = {
+			is_subject = no
+			has_idea = carnivorous
+			controls_state = 701
+			controls_state = 695
+			controls_state = 698
+			controls_state = 700
+			controls_state = 696
+		}
+
+		fire_only_once = yes
+
+		ai_will_do = {
+			factor = 200
+		}
+		complete_effect = {
+			add_political_power = 100
+			522 = { add_core_of = ROOT }
+			527 = { add_core_of = ROOT }
+			540 = { add_core_of = ROOT }
+			695 = { add_core_of = ROOT }
+			696 = { add_core_of = ROOT }
+			697 = { add_core_of = ROOT }
+			698 = { add_core_of = ROOT }
+			699 = { add_core_of = ROOT }
+			700 = { add_core_of = ROOT }
+			701 = { add_core_of = ROOT }
+			702 = { add_core_of = ROOT }
+			703 = { add_core_of = ROOT }
+			704 = { add_core_of = ROOT }
+			705 = { add_core_of = ROOT }
+			706 = { add_core_of = ROOT }
+			707 = { add_core_of = ROOT }
+			708 = { add_core_of = ROOT }
+			set_cosmetic_tag = IRH_UNIFIED
+		}
+	}
+}
+raise_the_adidsoshas_category = { #I DONT KNOW HOW TO DO THIS HIDE IT HIDE IT FROM SOCIETY
+	raise_the_adidsoshas = {
+		allowed = {
+			original_tag = AFR
+		}
+		visible = {
+			always = no
+		}
+		available = {
+			any_owned_state = {
+				is_core_of = AFR
+				is_controlled_by = AFR
+				NOT = {
+					has_state_flag = adidsoshas_raised
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 200
+		}
+		complete_effect = {
+		
+		}
+	}
+}

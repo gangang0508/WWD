@@ -1,0 +1,24 @@
+
+state={
+	id=335
+	name="STATE_335"
+	resources = {
+		aluminium = 4
+	}
+	history = {
+		owner = DAN
+		add_core_of = DAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		victory_points = { 2398 5 }
+	}
+	provinces={
+		2398 2738 3479 3963 4850 5228 6098 6183 6213 6268 6285 6324 
+	}
+	manpower=1147630
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

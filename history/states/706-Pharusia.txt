@@ -1,0 +1,17 @@
+state={
+	id=706
+	name="STATE_706"
+	history = {
+		owner = CCH
+		add_core_of = CCH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		21 565 4675 
+	}
+	manpower=46120
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

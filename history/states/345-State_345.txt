@@ -1,0 +1,30 @@
+
+state={
+	id=345
+	name="STATE_345"
+	resources = {
+		steel = 6
+	}
+	history = {
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 7
+ 			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 1
+			5487 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 5487 2 }
+		victory_points = { 4084 3 }
+		victory_points = { 5524 1 }
+	}
+	provinces={
+		409 724 1097 1561 3100 3587 3942 4084 4595 5098 5487 5511 5514 5524 5572 5573 5584 5601 5602 5658 5659 5703 5735 
+	}
+	manpower=3418520
+	state_category = city
+	buildings_max_level_factor=1.000
+}

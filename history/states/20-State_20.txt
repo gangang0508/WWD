@@ -1,0 +1,24 @@
+
+state={
+	id=20
+	name="STATE_20"
+
+	history={
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		884 927 1069 1222 1262 1396 2954 3538 3952 3986 4000 4083 4124 4915 5145 8448 8449 8467 8513 
+	}
+	manpower=2415950
+	buildings_max_level_factor=1.000
+	state_category=town
+}

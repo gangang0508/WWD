@@ -1,0 +1,30 @@
+
+state={
+	id=355
+	name="STATE_355"
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 5
+			arms_factory = 2
+
+		}
+		victory_points = {
+			4849 25 
+		}
+		victory_points = {
+			3607 5 
+		}
+
+	}
+
+	provinces={
+		180 1435 2342 2395 2448 2987 3607 3882 4157 4749 4849 5148 5651 5693 5712 5744 5769 5791 5810 5845 5898 
+	}
+	manpower=4176952
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

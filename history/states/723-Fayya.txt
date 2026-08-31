@@ -1,0 +1,20 @@
+state={
+	id=723
+	name="STATE_723"
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			18245 2
+		}
+	}
+	provinces={
+		2975 18223 18225 18235 18238 18245 
+	}
+	manpower=581250
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

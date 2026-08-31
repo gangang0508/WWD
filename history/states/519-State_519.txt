@@ -1,0 +1,36 @@
+
+state={
+	id=519
+	name="STATE_519"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		add_core_of = CHX
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+			2273 = {
+				naval_base = 2
+
+			}
+			1542 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			2773 5 
+		}
+
+	}
+
+	provinces={
+		604 972 1542 2273 2990 3211 3556 4243 4719 7314 17083 17769 17770 17771 
+	}
+	manpower=2613950
+	buildings_max_level_factor=1.000
+	state_category=town
+}

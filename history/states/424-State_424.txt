@@ -1,0 +1,27 @@
+
+state={
+	id=424
+	name="STATE_424"
+	resources = {
+		oil = 4
+		steel = 4
+		tungsten = 2
+	}
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			3777 3
+		}
+	}
+
+	provinces={
+		1757 1790 2206 2911 3252 3777 7762 7777 7809 7816 7833 7857 
+	}
+	manpower=512150
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

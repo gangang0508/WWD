@@ -1,0 +1,24 @@
+
+state={
+	id=246
+	name="STATE_246"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		add_claim_by = YIL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 4082 3 }
+		victory_points = { 968 1 }
+	}
+
+	provinces={
+		577 968 1678 4082 5938 17341 
+	}
+	manpower=1973015
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

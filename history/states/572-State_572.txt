@@ -1,0 +1,27 @@
+
+state={
+	id=572
+	name="STATE_572"
+	resources = {
+		steel = 2
+	}
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			18271 4 
+		}
+
+	}
+
+	provinces={
+		947 1789 1898 2085 2921 7818 7825 7839 7845 7846 18271 18301 
+	}
+	manpower=729120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

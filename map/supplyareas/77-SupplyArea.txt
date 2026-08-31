@@ -1,0 +1,9 @@
+
+supply_area={
+	id=77
+	name="SUPPLYAREA_21"
+	value=1
+	states={
+		580 542 587 
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=258
+	name="STATE_258"
+	resources = {
+		aluminium = 6
+		steel = 8
+	}
+	history={
+		owner = BET
+		add_core_of = BET
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			6257 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 6257 5 }
+		victory_points = { 6245 3 }
+	}
+
+	provinces={
+		2300 3475 6245 6257 17138 17139 17141 
+	}
+	manpower=2236721
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

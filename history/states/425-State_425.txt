@@ -1,0 +1,30 @@
+
+state={
+	id=425
+	name="STATE_425"
+	resources = {
+		steel = 64
+		aluminium = 168
+	}
+	history={
+		owner = STR
+		add_core_of = STR
+		victory_points = { 6365 4 }
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			6365 = {
+				naval_base = 6
+			}
+		}
+
+	}
+
+	provinces={
+		2730 4044 4064 6244 6297 6325 6349 6365 
+	}
+	manpower=7147500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

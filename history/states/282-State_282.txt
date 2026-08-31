@@ -1,0 +1,24 @@
+
+state={
+	id=282
+	name="STATE_282"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			4989 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 4989 3 }
+		victory_points = { 3093 1 }
+	}
+	provinces={
+		7 242 1087 2533 3093 3855 4989 6520 6617 6622 6697 6810 6884 6968 
+	}
+	manpower=1447120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

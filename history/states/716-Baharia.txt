@@ -1,0 +1,25 @@
+
+state={
+	id=716
+	name="STATE_716"
+	resources = {
+		oil = 4
+	}
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			arms_factory = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			18210 5
+		}
+	}
+	provinces={
+		102 18205 18206 18210 18214 18215 18219 18224 
+	}
+	manpower=1201601
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

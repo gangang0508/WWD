@@ -1,0 +1,22 @@
+
+state={
+	id=115
+	name="STATE_115"
+	history = {
+		owner = MNK
+		add_core_of = MNK
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 2
+			infrastructure = 5
+		}
+		victory_points = { 7211 30 }
+		victory_points = { 4596 2 }
+	}
+	provinces={
+		59 1874 2614 4596 4711 7195 7211 7231 7239 
+	}
+	manpower=1765450
+	state_category = city
+	buildings_max_level_factor=1.000
+}

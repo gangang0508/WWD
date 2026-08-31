@@ -1,0 +1,33 @@
+
+state={
+	id=11
+	name="STATE_11"
+	resources={
+		chromium=8.000
+	}
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 4
+
+		}
+		victory_points = {
+			1854 5 
+		}
+		victory_points = {
+			6093 3 
+		}
+
+	}
+
+	provinces={
+		926 1176 1854 1993 2033 2749 4261 4722 5028 5934 5981 6013 6036 6050 6093 
+	}
+	manpower=977850
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

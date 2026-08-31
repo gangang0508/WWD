@@ -1,0 +1,23 @@
+
+state={
+	id=55
+	name="STATE_55"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { 17671 30 }
+	}
+
+	provinces={
+		3918 17661 17662 17663 17664 17665 17667 17668 17669 17670 17671 17673 17675 17676 
+	}
+	manpower=4859800
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,70 @@
+﻿
+add_namespace = siberya
+
+#State Changes Allegiance SAR event
+country_event = {
+	id = siberya.1
+	title = siberya.1.t
+	desc = siberya.1.d
+	picture = GFX_report_event_chinese_soldiers
+	trigger = {
+		has_idea = SAR_yearn_for_the_tsaur
+		original_tag = SAR
+		neutrality > 0.20
+		is_neighbor_of = SIB
+	}
+	mean_time_to_happen = {
+		days = 365
+		modifier = {
+			factor = 0.5
+			neutrality > 0.30
+		}
+	}
+	
+	immediate = {
+		hidden_effect = {
+			random_owned_controlled_state = {
+				limit = {
+					any_neighbor_state = {
+						owner = { tag = SIB }
+					}
+				}
+				save_event_target_as = SIB_neutral_state
+			}
+		}
+	}
+	
+	option = {
+		name = siberya.1.a
+		SIB = {
+			transfer_state = event_target:SIB_neutral_state
+			country_event = { id = siberya.2 days = 1 }
+		}
+		add_popularity = {
+			ideology = neutrality
+			popularity = -0.15
+		}
+	}
+}
+
+#State changes allegiance SIB event
+country_event = {
+	id = siberya.2
+	title = siberya.2.t
+	desc = siberya.2.d
+	picture = GFX_report_event_chinese_soldiers
+
+	is_triggered_only = yes
+
+	option = {
+		name = siberya.2.a
+		effect_tooltip = {
+			SAR = {
+				add_popularity = {
+					ideology = neutrality
+					popularity = -0.15
+				}		
+			}
+		}
+	}
+}

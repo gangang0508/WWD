@@ -1,0 +1,28 @@
+
+state={
+	id=487
+	name="STATE_487"
+	resources = {
+		tungsten = 24
+		steel = 36
+		chromium = 6
+	}
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 1
+		}
+		victory_points = { 17501 3 }
+		victory_points = { 5009 10 }
+	}
+
+	provinces={
+		229 3779 5009 7050 7101 17488 17494 17495 17501 17506 17508 
+	}
+	manpower=21854060
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

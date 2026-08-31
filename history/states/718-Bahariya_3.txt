@@ -1,0 +1,21 @@
+
+state={
+	id=718
+	name="STATE_718"
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			18257 4
+		}
+	}
+	provinces={
+		3200 18185 18189 18256 18257 
+	}
+	manpower=1011209
+	state_category = town
+	buildings_max_level_factor=1.000
+}

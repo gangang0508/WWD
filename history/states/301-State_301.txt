@@ -1,0 +1,36 @@
+
+state={
+	id=301
+	name="STATE_301"
+	resources={
+		steel=24.000
+	}
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			3732 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			5478 5 
+		}
+		victory_points = {
+			3732 7 
+		}
+
+	}
+
+	provinces={
+		1583 2251 3158 3732 4263 5401 5437 5456 5463 5478 5483 5490 5504 5535 
+	}
+	manpower=2198650
+	buildings_max_level_factor=1.000
+	state_category=city
+}

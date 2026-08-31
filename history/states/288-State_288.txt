@@ -1,0 +1,23 @@
+
+state={
+	id=288
+	name="STATE_288"
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			2700 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 2700 3 }
+	}
+	provinces={
+		342 931 1102 1133 1211 1246 1321 1540 1964 2175 2179 2333 2389 2500 2700 2833 2934 3006 3151 3380 3828 3832 3990 4223 5263 5265 5267 5273 5274 5277 5281 5290 5295 5300 5315 5336 5337 5342 5348 
+	}
+	manpower=131950
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

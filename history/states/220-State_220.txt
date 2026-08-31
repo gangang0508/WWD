@@ -1,0 +1,25 @@
+
+state={
+	id=220
+	name="STATE_220"
+	history = {
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			4099 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 7623 10 }
+		victory_points = { 4099 2 }
+	}
+	provinces={
+		1791 4099 7572 7577 7588 7604 7616 7623 7626 7636 
+	}
+	manpower=13855950
+	state_category = town
+	buildings_max_level_factor=1.000
+}

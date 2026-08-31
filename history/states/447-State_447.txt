@@ -1,0 +1,23 @@
+
+state={
+	id=447
+	name="STATE_447"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+		victory_points = { 6527 4 }
+		victory_points = { 4960 1 }
+	}
+
+	provinces={
+		257 690 1055 1492 1520 1887 3967 4357 4960 6527 6557 6583 6641 6694 6738 6739 
+	}
+	manpower=3188910
+	buildings_max_level_factor=1.000
+	state_category=town
+}

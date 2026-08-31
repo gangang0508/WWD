@@ -1,0 +1,30 @@
+
+state={
+	id=498
+	name="STATE_498"
+	resources = {
+		oil = 34
+	}
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			1506 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 1506 10 }
+		victory_points = { 7119 1 }
+		victory_points = { 3961 1 }
+	}
+	provinces={
+		1185 1506 2504 2662 3353 3618 3961 4285 4369 4600 4677 7119 7155 7184 7185 
+	}
+	manpower=3761612
+	state_category = city
+	buildings_max_level_factor=1.000
+}

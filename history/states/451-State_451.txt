@@ -1,0 +1,23 @@
+
+state={
+	id=451
+	name="STATE_451"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			4709 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 4709 2 }
+	}
+	provinces={
+		892 990 1637 2408 2636 3401 4008 4709 4939 4992 6505 6531 6603 6616 6630 6653 6658 6693 6713 6732 6733 6768 
+	}
+	manpower=2755120
+	state_category = town
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=378
+	name="STATE_378"
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 2
+			infrastructure = 6
+
+		}
+		victory_points = {
+			4261 10 
+		}
+		victory_points = {
+			4910 3 
+		}
+
+	}
+
+	provinces={
+		482 2743 3896 4752 4774 4910 5797 5834 5860 5876 5921 5939 17427 
+	}
+	manpower=1894320
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

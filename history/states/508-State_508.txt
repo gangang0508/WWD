@@ -1,0 +1,23 @@
+
+state={
+	id=508
+	name="STATE_508"
+	history = {
+		owner = CHN
+		add_core_of = CHN
+		buildings = {
+			infrastructure = 3
+			7272 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 7272 1 }
+		victory_points = { 4601 2 }
+	}
+	provinces={
+		2047 2683 3027 3947 4130 4475 4601 4753 4944 7227 7248 7272 7283 7289 7307 7316 7328 7336 
+	}
+	manpower=955840
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

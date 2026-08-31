@@ -1,0 +1,236 @@
+﻿### Siberya OOB ###
+
+division_template = {
+	name = "Strelkovaya Diviziya"		
+	division_names_group = RUSS_INF_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+}
+division_template = {
+	name = "Pogranichnaya Diviziya"		
+	division_names_group = RUSS_GAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+	priority = 0
+}
+division_template = {
+	name = "Kavaleriyskaya Diviziya"		
+	division_names_group = RUSS_CAV_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Gvds. Mekhanizirovanaya Korpus"		
+	division_names_group = RUSS_MOT_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+units = {
+	division = {
+		name = "'Sauringrad' Kavaleriyskaya Diviziya"
+		location = 3973
+		division_template = "Kavaleriyskaya Diviziya"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "'Sauringrad' 2.Kavaleriyskaya Diviziya"
+		location = 3973
+		division_template = "Kavaleriyskaya Diviziya"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1dya Strelkovaya Diviziya"
+		location = 17477
+		division_template = "Strelkovaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1dya Strelkovaya Diviziya"
+		location = 5580
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "2dya Strelkovaya Diviziya"
+		location = 17440
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "3dya Strelkovaya Diviziya"
+		location = 3633
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "4dya Strelkovaya Diviziya"
+		location = 2244
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "5dya Strelkovaya Diviziya"
+		location = 5531
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "6dya Strelkovaya Diviziya"
+		location = 5473
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "7dya Strelkovaya Diviziya"
+		location = 1619
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "8dya Strelkovaya Diviziya"
+		location = 17445
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "9dya Strelkovaya Diviziya"
+		location = 5433
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "10dya Strelkovaya Diviziya"
+		location = 5472
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "11dya Strelkovaya Diviziya"
+		location = 5473
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "12dya Strelkovaya Diviziya"
+		location = 5495
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "13dya Strelkovaya Diviziya"
+		location = 1619
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "14dya Strelkovaya Diviziya"
+		location = 5531
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "15dya Strelkovaya Diviziya"
+		location = 2244
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "16dya Strelkovaya Diviziya"
+		location = 5704
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "17dya Strelkovaya Diviziya"
+		location = 5621
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "18dya Strelkovaya Diviziya"
+		location = 5646
+		division_template = "Pogranichnaya Diviziya"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "VGA"
+		}
+		requested_factories = 4
+		progress = 0.5
+		efficiency = 50
+	}
+
+}
+
+#################################

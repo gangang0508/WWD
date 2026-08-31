@@ -1,0 +1,28 @@
+
+state={
+	id=138
+	name="STATE_138"
+	resources = {
+		rubber = 62
+	}
+	history = {
+		owner = DIN
+		add_core_of = DIN
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 1
+			infrastructure = 6
+			dockyard = 1
+			7489 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 7489 10 }
+	}
+	provinces={
+		2928 3015 7489 7497 7503 7519 
+	}
+	manpower=8845050
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

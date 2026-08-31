@@ -1,0 +1,27 @@
+
+state={
+	id=652
+	name="STATE_652"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+			17607 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 17607 20 }
+		victory_points = { 6320 3 }
+	}
+
+	provinces={
+		2649 4578 6256 6320 17607 17608 
+	}
+	manpower=3671026
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=216
+	name="STATE_216"
+	resources = {
+		rubber = 3
+		steel = 6
+	}
+	history={
+		owner = LAN
+		add_core_of = LAN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		victory_points = { 462 3 }
+		victory_points = { 7427 2 }
+	}
+
+	provinces={
+		462 986 1713 4580 4623 7427 7450 7457 
+	}
+	manpower=4885900
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

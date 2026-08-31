@@ -1,0 +1,24 @@
+
+state={
+	id=177
+	name="STATE_177"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 5
+		}
+		victory_points = { 3745 2 }
+		victory_points = { 1909 1 }
+	}
+
+	provinces={
+		1012 1062 1909 2903 3044 3595 3724 3745 4796 6399 6569 
+	}
+	manpower=2512712
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

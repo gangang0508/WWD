@@ -1,0 +1,22 @@
+state={
+	id=646
+	name="STATE_646"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			2811 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 2811 3 }
+	}
+	provinces={
+		2811 4521 7143 17289 
+	}
+	manpower=4621701
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

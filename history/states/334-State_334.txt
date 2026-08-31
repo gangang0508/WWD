@@ -1,0 +1,22 @@
+
+state={
+	id=334
+	name="STATE_334"
+
+	history={
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+		}
+		victory_points = { 421 3 }
+	}
+
+	provinces={
+		421 450 496 2053 2704 3319 3993 5928 17698 
+	}
+	manpower=975890
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

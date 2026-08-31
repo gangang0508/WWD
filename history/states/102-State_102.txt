@@ -1,0 +1,27 @@
+
+state={
+	id=102
+	name="STATE_102"
+
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+			air_base = 8
+			17115 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 17115 20 }
+		victory_points = { 2077 6 }
+	}
+
+	provinces={
+		2077 2888 3092 6543 6595 17110 17114 17115 17117 
+	}
+	manpower=4106120
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

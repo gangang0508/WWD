@@ -1,0 +1,15 @@
+
+state={
+	id=602
+	name="STATE_602"
+	history = {
+		owner = HND
+		add_core_of = HND
+	}
+	provinces={
+		2238 2341 2351 2997 3444 3929 3970 4118 4152 4855 5040 8178 8190 8203 8208 8223 
+	}
+	manpower=2113050
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

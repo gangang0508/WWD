@@ -1,0 +1,21 @@
+state={
+	id=667
+	name="STATE_667"
+	resources = {
+		steel = 52
+	}
+	history = {
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 349 1 }
+	}
+	provinces={
+		349 560 1196 1515 6475 17589 17604 
+	}
+	manpower=966121
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

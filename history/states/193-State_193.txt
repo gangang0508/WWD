@@ -1,0 +1,18 @@
+
+state={
+	id=193
+	name="STATE_193"
+
+	history={
+		owner = YAG
+		add_core_of = YAG
+
+	}
+
+	provinces={
+		746 2020 4996 7606 7611 7627 7638 7641 7657 7667 7687 7707 8775 8776 8777 8778 
+	}
+	manpower=67210
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=295
+	name="STATE_295"
+	resources = {
+		tungsten = 4
+		steel = 34
+	}
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		buildings = {
+			infrastructure = 8
+			arms_factory = 1
+			dockyard = 2
+			1582 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 1582 25 }
+		victory_points = { 3203 2 }
+	}
+	provinces={
+		1582 3203 3584 4945 7066 7081 7103 7117 7125 
+	}
+	manpower=3241200
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

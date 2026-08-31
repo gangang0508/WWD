@@ -1,0 +1,31 @@
+
+state={
+	id=385
+	name="STATE_385"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		victory_points = {
+			5615 10 
+		}
+		victory_points = {
+			1189 3 
+		}
+		victory_points = {
+			5964 3 
+		}
+
+	}
+
+	provinces={
+		67 1189 1239 1448 2199 2222 2435 2952 4489 5832 5964 6035 6053 17073 17475 17476 
+	}
+	manpower=3145925
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

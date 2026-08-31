@@ -1,0 +1,18 @@
+
+state={
+	id=551
+	name="STATE_551"
+
+	history={
+		owner = LAQ
+		add_core_of = LAQ
+
+	}
+
+	provinces={
+		842 981 1060 1535 1636 1663 1787 2452 3271 4026 4319 4406 4454 4823 7491 7494 7506 7510 7518 7525 7530 7532 7547 7613 
+	}
+	manpower=2197120
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

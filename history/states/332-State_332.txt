@@ -1,0 +1,27 @@
+
+state={
+	id=332
+	name="STATE_332"
+
+	history={
+		owner = THA
+		add_core_of = THA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			dockyard = 2
+			3448 = {
+				naval_base = 5
+			}
+		}
+		victory_points = { 3890 2 }
+		victory_points = { 3448 4 }
+	}
+
+	provinces={
+		936 1180 1354 1631 2163 3052 3404 3448 3890 4330 4368 5039 6795 6827 6860 6865 6898 6929 6971 17556 17563 
+	}
+	manpower=4113460
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,24 @@
+state={
+	id=700
+	name="STATE_700"
+	resources = {
+		oil = 2
+	}
+	history = {
+		owner = CRI
+		add_core_of = CRI
+		buildings = {
+			arms_factory = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			18157 3
+		}
+	}
+	provinces={
+		18156 18157 18158 18159 
+	}
+	manpower=967212
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

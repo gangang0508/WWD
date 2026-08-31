@@ -1,0 +1,28 @@
+
+state={
+	id=724
+	name="STATE_724"
+	resources = {
+		oil = 18
+	}
+	history={
+		owner = SUQ
+		add_core_of = SUQ
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+
+		}
+		victory_points = {
+			18272 7 
+		}
+
+	}
+
+	provinces={
+		336 1341 2531 2535 7761 18272 18302 
+	}
+	manpower=1257125
+	buildings_max_level_factor=1.000
+	state_category=town
+}

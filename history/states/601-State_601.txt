@@ -1,0 +1,22 @@
+
+state={
+	id=601
+	name="STATE_601"
+	history = {
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			8182 = {
+				naval_base = 3
+			}
+		}	
+	}
+	provinces={
+		274 2283 2690 3978 4231 4419 4602 4609 4905 4920 8182 8221 
+	}
+	manpower=13785020
+	state_category = city
+	buildings_max_level_factor=1.000
+}

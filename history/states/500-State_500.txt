@@ -1,0 +1,29 @@
+
+state={
+	id=500
+	name="STATE_500"
+	resources = {
+		oil = 154
+	}
+	history={
+		owner = ALL
+		add_core_of = ALL
+		add_core_of = APA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			3038 5 
+		}
+
+	}
+
+	provinces={
+		1217 2255 4818 7106 17521 17523 17530 
+	}
+	manpower=587590
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

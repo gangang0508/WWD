@@ -1,0 +1,31 @@
+
+state={
+	id=516
+	name="STATE_516"
+	resources = {
+		oil = 185
+		aluminium = 21
+	}
+	history={
+		owner = TYR
+		add_core_of = TYR
+		add_core_of = ALA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			2059 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 915 20 }
+		victory_points = { 2059 3 }
+	}
+
+	provinces={
+		22 32 326 915 2059 2663 7187 7202 7240 7270 7308 
+	}
+	manpower=3119750
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,14 @@
+state={
+	id=651
+	name="STATE_651"
+	history = {
+		owner = FCR
+		add_core_of = FCR
+	}
+	provinces={
+		1877 1990 2859 3036 3063 3072 5021 6281 6342 6352 6402 6408 6458 6462 
+	}
+	manpower=2601267
+	state_category = town
+	buildings_max_level_factor=1.000
+}

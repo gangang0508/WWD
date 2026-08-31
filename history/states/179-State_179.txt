@@ -1,0 +1,20 @@
+
+state={
+	id=179
+	name="STATE_179"
+
+	history={
+		owner = VGA
+		add_core_of = VGA
+		buildings = {
+			infrastructure = 6
+		}
+	}
+
+	provinces={
+		2437 3030 4386 4846 5637 5650 5656 5688 5731 5772 17434 
+	}
+	manpower=1314712
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

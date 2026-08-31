@@ -1,0 +1,33 @@
+
+state={
+	id=402
+	name="STATE_402"
+
+	history={
+		owner = CAU
+		add_core_of = CAU
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			6057 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			6057 5 
+		}
+		victory_points = {
+			6090 3 
+		}
+
+	}
+
+	provinces={
+		1553 1895 2796 2968 3291 3827 3992 4680 4877 6005 6024 6047 6057 6062 6090 6095 6150 
+	}
+	manpower=1335920
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

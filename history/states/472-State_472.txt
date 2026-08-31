@@ -1,0 +1,19 @@
+
+state={
+	id=472
+	name="STATE_472"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 90 1 }
+	}
+	provinces={
+		90 841 1332 2088 2247 2492 2620 3893 4898 6831 6874 6895 6927 6956 6967 6985 7006 7040 7043 7047 7054 
+	}
+	manpower=1007365
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

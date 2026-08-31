@@ -1,0 +1,19 @@
+
+state={
+	id=561
+	name="STATE_561"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+		add_core_of = LAQ
+
+	}
+
+	provinces={
+		65 1716 2123 2634 3811 4758 7772 7786 7796 7866 
+	}
+	manpower=2117024
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

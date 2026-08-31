@@ -1,0 +1,15 @@
+
+state={
+	id=619
+	name="STATE_619"
+	history = {
+		owner = AGN
+		add_core_of = AGN
+	}
+	provinces={
+		209 459 1101 1525 4313 8287 
+	}
+	manpower=1701200
+	state_category = town
+	buildings_max_level_factor=1.000
+}

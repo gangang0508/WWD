@@ -1,0 +1,18 @@
+
+state={
+	id=623
+	name="STATE_623"
+
+	history={
+		owner = HND
+		add_core_of = HND
+
+	}
+
+	provinces={
+		176 302 607 674 850 960 1013 1142 2003 2030 2252 3065 3345 3422 3841 4333 7727 8315 8341 8371 16699 
+	}
+	manpower=21878500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

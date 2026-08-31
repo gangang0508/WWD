@@ -1,0 +1,24 @@
+state={
+	id=661
+	name="STATE_661"
+	resources = {
+		oil = 30
+		aluminium = 20
+	}
+	history = {
+		add_core_of = APA
+		owner = APA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = { 3621 5 }
+		victory_points = { 5179 2 }
+	}
+	provinces={
+		1418 3621 5179 7284 17516 17518 
+	}
+	manpower=5120867
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

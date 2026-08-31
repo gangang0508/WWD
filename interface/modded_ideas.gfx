@@ -1,0 +1,85 @@
+spriteTypes = {	
+
+
+
+	SpriteType = {
+		name = "GFX_idea_traits_strip"
+		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
+		noOfFrames = 14		
+	}
+
+	###modded ideas
+
+	spriteType = {
+		name = "GFX_idea_siberyan_civil_war"
+		texturefile = "gfx/interface/ideas/idea_siberyan_civil_war.dds"
+	}		
+	spriteType = {
+		name = "GFX_idea_tsaurdom_sympathizers"
+		texturefile = "gfx/interface/ideas/idea_tsaurdom_sympathizers.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_mourn_for_the_empersaur"
+		texturefile = "gfx/interface/ideas/idea_mourn_for_the_empersaur.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_fu_xi_defiant"
+		texturefile = "gfx/interface/ideas/idea_fu_xi_defiant.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_court_declares_illegitimate"
+		texturefile = "gfx/interface/ideas/idea_court_declares_illegitimate.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ineffective_draft"
+		texturefile = "gfx/interface/ideas/idea_ineffective_draft.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_sanjeng_industries"
+		texturefile = "gfx/interface/ideas/idea_sanjeng_industries.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_fu_xi"
+		texturefile = "gfx/interface/ideas/idea_fu_xi.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_chaiyou_huang"
+		texturefile = "gfx/interface/ideas/idea_chaiyou_huang.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_herbivorous"
+		texturefile = "gfx/interface/ideas/idea_herbivorous.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_omnivorous"
+		texturefile = "gfx/interface/ideas/idea_omnivorous.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_carnivorous"
+		texturefile = "gfx/interface/ideas/idea_carnivorous.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_extermination"
+		texturefile = "gfx/interface/ideas/idea_extermination.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_active_persecution"
+		texturefile = "gfx/interface/ideas/idea_active_persecution.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_segregation_and_exclusion"
+		texturefile = "gfx/interface/ideas/idea_segregation_and_exclusion.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_tolerance"
+		texturefile = "gfx/interface/ideas/idea_tolerance.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_true_equality"
+		texturefile = "gfx/interface/ideas/idea_true_equality.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_lanca_accords"
+		texturefile = "gfx/interface/ideas/idea_lanca_accords.dds"
+	}
+}

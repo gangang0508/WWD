@@ -1,0 +1,25 @@
+
+state={
+	id=184
+	name="STATE_184"
+	resources={
+		oil=4.000
+		rubber=42.000
+	}
+
+	history={
+		owner = BET
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		485 4727 4852 5045 7645 7650 7659 7660 7678 7697 7708 7724 
+	}
+	manpower=2506100
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

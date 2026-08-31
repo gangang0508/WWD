@@ -1,0 +1,30 @@
+
+state={
+	id=70
+	name="STATE_70"
+	resources = {
+		steel = 36
+	}
+
+	history={
+		owner = HER
+		add_core_of = HER
+		victory_points = { 4913 10 }
+		victory_points = { 6468 3 }
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 2
+			6468 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		1585 2932 3233 3838 4913 6377 6419 6445 6468 
+	}
+	manpower=6714850
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

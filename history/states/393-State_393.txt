@@ -1,0 +1,34 @@
+
+state={
+	id=393
+	name="STATE_393"
+	resources={
+		steel=6.000
+		chromium=4.000
+	}
+
+	history={
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			4329 6 
+		}
+		victory_points = {
+			4592 3 
+		}
+
+	}
+
+	provinces={
+		1191 2481 2653 4156 5163 5183 5857 5922 5932 5966 5974 5990 5991 17419 17420 17421 17424 
+	}
+	manpower=1592520
+	buildings_max_level_factor=1.000
+	state_category=town
+}

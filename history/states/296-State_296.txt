@@ -1,0 +1,22 @@
+
+state={
+	id=296
+	name="STATE_296"
+
+	history={
+		owner = KIL
+		add_core_of = KIL
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		207 276 289 754 1073 1403 1524 1570 1826 1933 1980 2062 2104 2494 3411 4783 4822 5136 5254 5257 5294 5323 5329 5371 
+	}
+	manpower=340
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

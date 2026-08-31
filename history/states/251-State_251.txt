@@ -1,0 +1,17 @@
+
+state={
+	id=251
+	name="STATE_251"
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		134 1352 2035 2495 3185 3446 3774 4366 5029 8496 
+	}
+	manpower=944120
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=423
+	name="STATE_423"
+	resources = {
+		aluminium = 10
+		steel = 4
+	}
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = { 6172 10 }
+	}
+	provinces={
+		147 280 358 532 825 1029 1394 1498 1558 2037 2099 2203 2715 3169 4197 4215 4467 4537 4572 5673 5859 5925 5965 6000 6020 6080 6119 6127 6159 6172 
+	}
+	manpower=1075950
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

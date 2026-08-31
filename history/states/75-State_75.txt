@@ -1,0 +1,30 @@
+
+state={
+	id=75
+	name="STATE_75"
+	resources = {
+		steel = 60
+		tungsten = 4
+	}
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			17100 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 17100 10 }
+	}
+
+	provinces={
+		1614 5105 6751 6752 6790 17096 17097 17098 17099 17100 
+	}
+	manpower=7344580
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

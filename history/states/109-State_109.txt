@@ -1,0 +1,24 @@
+state={
+	id=109
+	name="STATE_109"
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 1
+			831 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 831 4 }
+		victory_points = { 7182 1 }
+	}
+	provinces={
+		831 3588 7149 7157 7176 7182 
+	}
+	manpower=2221272
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

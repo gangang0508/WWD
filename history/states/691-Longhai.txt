@@ -1,0 +1,22 @@
+
+state={
+	id=691
+	name="STATE_691"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+		}
+		victory_points = { 1117 20 }
+	}
+	provinces={
+		155 1117 2520 2813 17926 17927 17928 17929 17930 17931 17933 17934 
+	}
+	manpower=10761221
+	state_category = city
+	buildings_max_level_factor=1.000
+}

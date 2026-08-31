@@ -1,0 +1,33 @@
+
+state={
+	id=417
+	name="STATE_417"
+	resources = {
+		tungsten = 3
+		steel = 22
+	}
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			310 5 
+		}
+		victory_points = {
+			1188 3 
+		}
+		victory_points = {
+			5826 3 
+		}
+
+	}
+
+	provinces={
+		261 362 636 1188 1207 1652 1806 2012 2650 3282 5826 6097 17245 
+	}
+	manpower=2101211
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

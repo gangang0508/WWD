@@ -1,0 +1,15 @@
+
+state={
+	id=606
+	name="STATE_606"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		602 1214 1544 1555 1759 1864 2270 2388 2418 2962 3883 4248 4788 8609 8613 8645 8646 
+	}
+	manpower=1276743
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

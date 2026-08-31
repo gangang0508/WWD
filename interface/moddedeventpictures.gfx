@@ -1,0 +1,22 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_meteorite_sighted"
+		texturefile = "gfx/event_pictures/report_event_meteorite_sighted.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_pinghai_rebellion"
+		texturefile = "gfx/event_pictures/report_event_pinghai_rebellion.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_long_succession"
+		texturefile = "gfx/event_pictures/report_event_long_succession.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_missing_image"
+		texturefile = "gfx/event_pictures/report_event_missing_image.dds"
+	}
+}
+	
+	
+	

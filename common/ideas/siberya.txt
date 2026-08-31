@@ -1,0 +1,68 @@
+ideas = {
+	country = {
+		SIB_belogvardyetsi_alliance = {
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = anti_soviet_pact
+
+			modifier = {
+				neutrality_drift = 0.02
+				neutrality_acceptance = 120
+			}
+			targeted_modifier = {
+					tag = SAR
+					attack_bonus_against = 0.1
+					defense_bonus_against = 0.1
+			}
+		}
+		SAR_yearn_for_the_tsaur = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = generic_neutrality_drift_bonus
+			
+			modifier = {
+				neutrality_drift = 0.05
+				stability_factor = -0.05
+				war_support_factor = -0.30
+			}
+		}
+		SAR_siberyan_civil_war = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = siberyan_civil_war
+			
+			modifier = {
+				stability_factor = -0.1
+				war_support_factor = 0.05
+				join_faction_tension = -0.8
+			}
+		}
+		SAR_tsaurdomist_sympathies = {
+			allowed = {
+				always = no
+			}
+			
+			removal_cost = -1
+			
+			picture = tsaurdom_sympathizers
+			
+			targeted_modifier = {
+					tag = SIB
+					attack_bonus_against = -0.2
+					defense_bonus_against = -0.2
+			}
+		}
+	}
+}

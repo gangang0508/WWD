@@ -1,0 +1,20 @@
+
+state={
+	id=156
+	name="STATE_156"
+
+	history={
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		5059 6578 17368 17371 
+	}
+	manpower=261771
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=625
+	name="STATE_625"
+
+	history={
+		owner = AGN
+		add_core_of = AGN
+
+	}
+
+	provinces={
+		141 186 1052 1494 1622 1717 2116 2411 3110 3111 4046 8310 8316 8345 8348 8353 8360 8363 8374 8382 
+	}
+	manpower=2125190
+	buildings_max_level_factor=1.000
+	state_category=town
+}

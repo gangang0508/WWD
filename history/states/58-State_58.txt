@@ -1,0 +1,19 @@
+
+state={
+	id=58
+	name="STATE_58"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 6492 1 }
+	}
+	provinces={
+		2963 3535 3775 3842 3920 4007 4299 4308 6492 6506 6507 6540 6573 6599 6618 6654 
+	}
+	manpower=1151141
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

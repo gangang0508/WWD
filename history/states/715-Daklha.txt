@@ -1,0 +1,17 @@
+state={
+	id=715
+	name="STATE_715"
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		4078 18192 18194 18195 18198 18199 18203 
+	}
+	manpower=41590
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

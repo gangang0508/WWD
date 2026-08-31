@@ -1,0 +1,18 @@
+
+state={
+	id=534
+	name="STATE_534"
+
+	history={
+		owner = NIE
+		add_core_of = NIE
+
+	}
+
+	provinces={
+		1398 2301 2697 4013 4191 4434 7557 7583 18104 18105 18124 
+	}
+	manpower=4123080
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

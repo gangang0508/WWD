@@ -1,0 +1,27 @@
+
+state={
+	id=9
+	name="STATE_9"
+	resources = {
+		oil = 34
+		tungsten = 6
+	}
+	history = {
+		owner = ELA
+		add_core_of = ELA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			2267 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 2267 1 }
+	}
+	provinces={
+		157 688 2267 2610 3007 3213 3706 3746 4219 4974 5125 5249 5250 5255 5279 5293 5298 5306 5335 5339 5349 5353 5360 
+	}
+	manpower=227125
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

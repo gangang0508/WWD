@@ -1,0 +1,19 @@
+
+state={
+	id=365
+	name="STATE_365"
+	resources = {
+		steel = 30
+		chromium = 46
+	}
+	history = {
+		owner = DON
+		add_core_of = DON
+	}
+	provinces={
+		1272 1630 2100 3320 3694 5010 5074 5225 5676 5684 5685 5718 5720 5726 5755 5760 5761 5778 5783 5812 5852 5861 
+	}
+	manpower=848900
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

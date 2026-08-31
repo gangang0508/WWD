@@ -1,0 +1,21 @@
+state={
+	id=713
+	name="STATE_713"
+	history = {
+		owner = TIA
+		add_core_of = TIA
+		buildings = {
+			arms_factory = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			18236 4
+		}
+	}
+	provinces={
+		18231 18234 18236 
+	}
+	manpower=1129651
+	state_category = town
+	buildings_max_level_factor=1.000
+}

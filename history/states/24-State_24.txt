@@ -1,0 +1,27 @@
+
+state={
+	id=24
+	name="STATE_24"
+	resources = {
+		steel = 5
+	}
+	history = {
+		owner = ELA
+		add_core_of = ELA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			5485 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 5485 7 }
+	}
+	provinces={
+		136 600 4269 4731 4938 5413 5414 5425 5434 5435 5445 5452 5453 5454 5460 5461 5464 5471 5482 5485 5488 
+	}
+	manpower=355121
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

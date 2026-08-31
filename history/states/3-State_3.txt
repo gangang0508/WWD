@@ -1,0 +1,18 @@
+
+state={
+	id=3
+	name="STATE_3"
+	history = {
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1 363 2135 2304 2810 2945 3246 3281 4417 4584 8671 8688 8689 8737 8745 8747 
+	}
+	manpower=871250
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

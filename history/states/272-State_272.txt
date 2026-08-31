@@ -1,0 +1,23 @@
+
+state={
+	id=272
+	name="STATE_272"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		victory_points = { 1953 3 }
+		victory_points = { 1192 1 }
+	}
+
+	provinces={
+		1045 1192 1953 2334 2624 3199 3662 4306 4831 4862 5144 6305 6347 6362 17310 17367 17375 
+	}
+	manpower=6530101
+	buildings_max_level_factor=1.000
+	state_category=town
+}

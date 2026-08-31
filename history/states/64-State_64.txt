@@ -1,0 +1,30 @@
+
+state={
+	id=64
+	name="STATE_64"
+
+	history={
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			5942 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			5942 20
+		}
+
+	}
+
+	provinces={
+		103 723 1330 1966 3390 4773 5942 5989 5998 6043 6079 17692 
+	}
+	manpower=1366950
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=650
+	name="STATE_650"
+
+	history={
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 6
+		}
+		victory_points = { 2733 4 }
+		victory_points = { 2615 1 }
+	}
+
+	provinces={
+		1586 2615 2733 6117 6143 17609 17612 17617 
+	}
+	manpower=1261206
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

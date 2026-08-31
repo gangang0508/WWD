@@ -1,0 +1,32 @@
+
+state={
+	id=218
+	name="STATE_218"
+	resources = {
+		rubber = 212
+		oil = 10
+		steel = 12
+	}
+	history={
+		owner = PSI
+		add_core_of = PSI
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			2885 = {
+				naval_base = 7
+			}
+		}
+		victory_points = { 2885 20 }
+		victory_points = { 2780 3 }
+	}
+
+	provinces={
+		1628 1942 2780 2885 7548 7567 7571 7575 7587 
+	}
+	manpower=5866940
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

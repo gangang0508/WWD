@@ -1,0 +1,19 @@
+
+state={
+	id=317
+	name="STATE_317"
+	history = {
+		owner = ELA
+		add_core_of = ELA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 3480 2 }
+	}
+	provinces={
+		707 2980 3480 4556 4671 4762 4857 5008 5051 5412 5416 5419 5424 5430 5439 5442 5444 5450 5451 
+	}
+	manpower=96125
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

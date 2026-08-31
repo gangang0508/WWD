@@ -1,0 +1,24 @@
+
+state={
+	id=199
+	name="STATE_199"
+	resources = {
+		steel = 12
+		rubber = 180
+	}
+	history = {
+		owner = BET
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 4
+		}
+		victory_points = { 7824 3 }
+	}
+	provinces={
+		2457 3833 5038 5222 7801 7824 7837 7841 7844 7847 7860 7883 
+	}
+	manpower=10131290
+	state_category = town
+	buildings_max_level_factor=1.000
+}

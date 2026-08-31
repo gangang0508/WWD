@@ -1,0 +1,24 @@
+
+state={
+	id=453
+	name="STATE_453"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		victory_points = { 3902 3 }
+		victory_points = { 7027 8 }
+	}
+
+	provinces={
+		383 417 1170 1811 2194 2680 2858 3140 3646 3818 3902 6655 6680 6721 6728 6776 6863 7027 17465 
+	}
+	manpower=2189700
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

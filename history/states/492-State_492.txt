@@ -1,0 +1,26 @@
+
+state={
+	id=492
+	name="STATE_492"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = { 
+			7216 = {
+				naval_base = 3
+			}
+			infrastructure = 3
+			dockyard = 1
+		}
+		victory_points = { 7216 3 }
+		victory_points = { 3249 1 }
+	}
+
+	provinces={
+		1608 2869 3214 3249 3504 5024 5054 5147 7038 7080 7086 7089 7096 7102 7105 7112 7127 7144 7172 7178 7194 7216 
+	}
+	manpower=1441261
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

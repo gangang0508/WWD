@@ -1,0 +1,25 @@
+
+state={
+	id=114
+	name="STATE_114"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 6
+
+		}
+		victory_points = {
+			5539 2 
+		}
+
+	}
+
+	provinces={
+		237 414 698 726 2314 2466 2526 2883 3369 4137 4258 5071 5365 5392 5409 5440 5539 5570 
+	}
+	manpower=2849700
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

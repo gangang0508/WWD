@@ -1,0 +1,15 @@
+
+state={
+	id=53
+	name="STATE_53"
+	history = {
+		owner = VUL
+		add_core_of = VUL
+	}
+	provinces={
+		126 194 196 446 583 925 1349 2126 2145 2947 4212 4287 4530 8229 8253 
+	}
+	manpower=1167140
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

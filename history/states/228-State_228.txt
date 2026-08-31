@@ -1,0 +1,15 @@
+
+state={
+	id=228
+	name="STATE_228"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		92 145 338 546 633 684 908 1572 1596 1692 2109 2766 3431 3807 3895 8311 8321 8328 8329 8336 8355 8399 
+	}
+	manpower=2176152
+	state_category = town
+	buildings_max_level_factor=1.000
+}

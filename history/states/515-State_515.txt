@@ -1,0 +1,18 @@
+
+state={
+	id=515
+	name="STATE_515"
+
+	history={
+		owner = ANT
+		add_core_of = ANT
+
+	}
+
+	provinces={
+		938 974 1041 1342 2133 2689 2826 3277 3959 4135 5110 8626 8633 8655 8657 8661 
+	}
+	manpower=1006126
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

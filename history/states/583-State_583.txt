@@ -1,0 +1,18 @@
+
+state={
+	id=583
+	name="STATE_583"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		72 151 356 1048 1662 1699 1802 2063 2241 2444 2541 2544 4866 8084 8098 8124 
+	}
+	manpower=812030
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=635
+	name="STATE_635"
+
+	history={
+		owner = HND
+		add_core_of = HND
+
+	}
+
+	provinces={
+		225 554 598 697 735 1655 3171 3376 3413 3759 8326 8334 
+	}
+	manpower=10778500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

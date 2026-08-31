@@ -1,0 +1,22 @@
+
+state={
+	id=105
+	name="STATE_105"
+	history = {
+		owner = TIK
+		add_core_of = TIK
+		buildings = {
+			infrastructure = 2
+			3806 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 3806 1 }
+	}
+	provinces={
+		3781 3806 7100 
+	}
+	manpower=41150
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

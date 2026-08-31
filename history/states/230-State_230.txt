@@ -1,0 +1,14 @@
+
+state={
+	id=230
+	name="STATE_230"
+	history = {
+		owner = BET
+	}
+	provinces={
+		4378 4803 8041 8046 8057 8061 8066 8067 8069 8073 8081 
+	}
+	manpower=30431
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=108
+	name="STATE_108"
+	history = {
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			7254 = {
+				naval_base = 1
+			}
+			7181 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 7254 1 }
+		victory_points = { 7181 3 }
+	}
+	provinces={
+		2563 3701 7141 7163 7168 7181 7186 7203 7207 7254 
+	}
+	manpower=1661265
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

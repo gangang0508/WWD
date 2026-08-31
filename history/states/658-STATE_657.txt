@@ -1,0 +1,20 @@
+state={
+	id=658
+	name="STATE_658"
+	history = {
+		add_core_of = APA
+		owner = APA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = { 17524 2 }
+		victory_points = { 17519 4 }
+	}
+	provinces={
+		162 627 1043 3933 17517 17519 17520 17524 17527 17529 
+	}
+	manpower=3068271
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

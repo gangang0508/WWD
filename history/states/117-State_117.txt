@@ -1,0 +1,19 @@
+
+state={
+	id=117
+	name="STATE_117"
+	history = {
+		owner = MNK
+		add_core_of = MNK
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 3620 1 }
+	}
+	provinces={
+		464 3620 7226 7252 7256 7258 7271 17081 
+	}
+	manpower=256460
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

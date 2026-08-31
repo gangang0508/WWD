@@ -1,0 +1,29 @@
+
+state={
+	id=523
+	name="STATE_523"
+
+	history={
+		owner = MAM
+		add_core_of = MAM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+
+		}
+		victory_points = {
+			7345 5 
+		}
+		victory_points = {
+			1995 1 
+		}
+
+	}
+
+	provinces={
+		320 1209 1995 7282 7319 7338 7345 17284 17877 17878 17879 17880 17881 17883 17887 17896 17899 
+	}
+	manpower=3879950
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

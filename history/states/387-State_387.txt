@@ -1,0 +1,21 @@
+
+state={
+	id=387
+	name="STATE_387"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		78 1688 2296 2612 3180 4998 6094 6152 6158 6210 6211 6289 6308 17323 17325 17328 17338 17383 
+	}
+	manpower=3185900
+	buildings_max_level_factor=1.000
+	state_category=town
+}

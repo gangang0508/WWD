@@ -1,0 +1,23 @@
+state={
+	id=680
+	name="STATE_680"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 1
+			17790 = {
+				naval_base = 8
+			}
+		}
+		victory_points = { 17790 20 }
+	}
+	provinces={
+		1014 17787 17790 17792 17796 17800 17806 17808 17814 
+	}
+	manpower=7219856
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

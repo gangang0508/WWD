@@ -1,0 +1,25 @@
+
+state={
+	id=319
+	name="STATE_319"
+	resources = {
+		steel = 12
+	}
+	history={
+		owner = OLO
+		add_core_of = OLO
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = { 1670 3 }
+	}
+
+	provinces={
+		120 375 553 656 903 944 1035 1149 1263 1363 1670 1752 1831 3795 4579 5481 5496 5540 5563 5574 5626 5662 
+	}
+	manpower=3546010
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

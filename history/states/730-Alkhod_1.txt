@@ -1,0 +1,24 @@
+
+state={
+	id=730
+	name="STATE_730"
+
+	history={
+		owner = AKH
+		add_core_of = AKH
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			3689 2
+		}
+	}
+
+	provinces={
+		403 870 3689 7876 7994 8010 8011 8023 8025 
+	}
+	manpower=412120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

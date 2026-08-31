@@ -1,0 +1,14 @@
+
+state={
+	id=524
+	name="STATE_524"
+	history = {
+		owner = HER
+	}
+	provinces={
+		26 226 285 291 529 578 667 762 1920 2523 2706 2902 3339 3437 3871 4533 4824 5094 8274 8282 8284 8292 8302 8306 
+	}
+	manpower=5912760
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

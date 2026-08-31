@@ -1,0 +1,24 @@
+state={
+	id=734
+	name="STATE_734"
+	history = {
+		owner = MDR
+		add_core_of = MDR
+	 	buildings = {
+			arms_factory = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			2262 2
+		}
+		victory_points = {
+			8000 1
+		}
+	}
+	provinces={
+		2262 2421 2675 3829 5066 5165 7975 7986 8000 8024 
+	}
+	manpower=979125
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

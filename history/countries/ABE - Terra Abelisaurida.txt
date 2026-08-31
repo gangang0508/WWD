@@ -1,0 +1,48 @@
+﻿capital = 283
+
+set_popularities={
+		democratic = 2
+		neutrality = 98
+}
+
+set_convoys = 40
+set_stability = 0.4
+set_war_support = 0.45
+
+set_research_slots = 0
+
+add_ideas = {
+	ABE_lanca_accords
+	carnivorous
+	segregation_and_exclusion
+	uncivilized_nation
+}
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_faction = ABE_alianca_lanca
+add_to_faction = CHX
+add_to_faction = LAQ	
+add_to_faction = PLI
+add_to_faction = AGN
+add_to_faction = UNA
+add_to_faction = VUL
+add_to_faction = NIE
+add_to_faction = ABL
+
+create_country_leader = {
+	name = "Cuoro Grosso"
+	desc = ""
+	picture = "Portrait_Abelisaurida_Cuoro_Grosso.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=60
+	name="STATE_60"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 2
+			6643 = {
+				naval_base = 2
+			}
+			2553 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 6643 1 }
+		victory_points = { 2553 1 }
+	}
+
+	provinces={
+		913 1275 1421 2553 2727 3524 4031 4408 4474 4918 6414 6449 6536 6584 6593 6613 6624 6643 6644 6712 6779 6826 8768 
+	}
+	manpower=382441
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

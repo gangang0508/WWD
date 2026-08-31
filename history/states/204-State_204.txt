@@ -1,0 +1,21 @@
+
+state={
+	id=204
+	name="STATE_204"
+	resources = {
+		rubber = 40
+	}
+	history = {
+		owner = BET
+		buildings = {
+			industrial_complex = 1
+		}
+		victory_points = { 7925 5 }
+	}
+	provinces={
+		1783 1968 2376 5027 7877 7878 7901 7913 7925 7950 7956 7961 7973 
+	}
+	manpower=6197610
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

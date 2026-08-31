@@ -1,0 +1,35 @@
+
+state={
+	id=23
+	name="STATE_23"
+	resources={
+		steel=10.000
+		aluminium=12.000
+		chromium=20.000
+	}
+
+	history={
+		owner = JAX
+		add_core_of = JAX
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			68 10 
+		}
+		victory_points = {
+			6175 3 
+		}
+
+	}
+
+	provinces={
+		68 368 582 1575 2881 3161 3245 6009 6099 6175 6176 6294 
+	}
+	manpower=6259600
+	buildings_max_level_factor=1.000
+	state_category=city
+}

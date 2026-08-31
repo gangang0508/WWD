@@ -1,0 +1,23 @@
+
+state={
+	id=154
+	name="STATE_154"
+	resources = {
+		oil = 16
+	}
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 1178 2 }
+	}
+	provinces={
+		110 805 1178 1611 1768 3244 3476 3635 4198 4687 4993 7010 7055 7070 7082 7095 7109 7114 
+	}
+	manpower=1451260
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

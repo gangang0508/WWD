@@ -1,0 +1,34 @@
+
+state={
+	id=106
+	name="STATE_106"
+
+	history={
+		owner = BET
+		add_core_of = BET
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 2
+			6128 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			4092 20 
+		}
+		victory_points = {
+			6128 3
+		}
+	}
+
+	provinces={
+		258 2557 4092 4358 6128 6188 17140 17142 17143 
+	}
+	manpower=4941405
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		56 129 1025 1166 1774 1781 2171 2289 2393 2529 2671 3968 4432 4981 8622 8647 8701 8715 8718 8728 8733 8738 
+	}
+	manpower=918540
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

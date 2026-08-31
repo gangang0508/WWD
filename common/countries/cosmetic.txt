@@ -1,0 +1,12 @@
+TIA_UNIFIED = {
+	color = rgb { 0 155 217 }
+	color_ui = rgb { 0 155 217 }
+}
+GOB_UNIFIED = {
+	color = rgb { 27 196 12 }
+	color_ui = rgb { 27 196 12 }
+}
+IRH_UNIFIED = {
+	color = rgb { 140 10 10 }
+	color_ui = rgb { 140 10 10 }
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=693
+	name="STATE_693"
+
+	history={
+		owner = SPI
+		add_core_of = SPI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			3188 3 
+		}
+
+	}
+
+	provinces={
+		313 1820 3188 4193 15982 18064 18065 18068 18069 
+	}
+	manpower=1441250
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

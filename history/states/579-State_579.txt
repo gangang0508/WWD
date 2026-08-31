@@ -1,0 +1,27 @@
+
+state={
+	id=579
+	name="STATE_579"
+
+	history={
+		owner = AKH
+		add_core_of = AKH
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		victory_points = {
+			7941 1
+		}
+		victory_points = {
+			7938 2
+		}
+	}
+
+	provinces={
+		58 1410 1742 4093 7938 7941 7948 7949 7958 7960 7964 7968 7976 7981 7987 7992 8022 
+	}
+	manpower=912651
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

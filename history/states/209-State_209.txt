@@ -1,0 +1,17 @@
+
+state={
+	id=209
+	name="STATE_209"
+
+	history={
+		owner = BET
+
+	}
+
+	provinces={
+		572 705 744 2285 2825 4367 4422 4505 4949 7863 7898 7907 7909 7926 7931 7936 7939 7946 7951 7965 7969 7988 
+	}
+	manpower=4991250
+	buildings_max_level_factor=1.000
+	state_category=town
+}

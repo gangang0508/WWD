@@ -1,0 +1,27 @@
+state={
+	id=675
+	name="STATE_675"
+	history = {
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			industrial_complex = 4
+			dockyard = 1
+			infrastructure = 7
+			17723 = {
+				naval_base = 8
+			}
+			2566 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 17723 50 }
+		victory_points = { 2566 4 }
+	}
+	provinces={
+		2566 7164 17723 
+	}
+	manpower=1277102
+	state_category = city
+	buildings_max_level_factor=1.000
+}

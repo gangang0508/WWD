@@ -1,0 +1,15 @@
+
+state={
+	id=87
+	name="STATE_87"
+	history = {
+		owner = ICH
+		add_core_of = ICH
+	}
+	provinces={
+		4650 6806 6834 6861 
+	}
+	manpower=776120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

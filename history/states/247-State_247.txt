@@ -1,0 +1,20 @@
+
+state={
+	id=247
+	name="STATE_247"
+	resources = {
+		steel = 54
+	}
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		460 1096 1445 1468 3008 3674 3977 4259 8404 8411 8429 8463 8476 
+	}
+	manpower=3771250
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=306
+	name="STATE_306"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 1
+			1578 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			1578 2 
+		}
+		victory_points = {
+			5366 10 
+		}
+
+	}
+
+	provinces={
+		758 962 1578 2118 2838 3705 3962 4125 4222 4438 5366 5367 5369 5370 5379 5382 5385 5397 5398 5428 5477 
+	}
+	manpower=5654150
+	buildings_max_level_factor=1.000
+	state_category=city
+}

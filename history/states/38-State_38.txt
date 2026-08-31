@@ -1,0 +1,35 @@
+
+state={
+	id=38
+	name="STATE_38"
+	resources = {
+		steel = 160
+	}
+	history={
+		owner = HER
+		add_core_of = HER
+		victory_points = { 920 50 }
+		victory_points = { 6316 20 }
+		victory_points = { 6168 1 }
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 4
+			6316 = {
+				naval_base = 8
+			}
+			6168 = {
+				naval_base = 6
+			}
+		}
+			
+	}
+
+	provinces={
+		920 3136 3375 3804 3856 4784 6144 6168 6246 6282 6291 6292 6301 6316 6326 6335 6354 
+	}
+	manpower=13850400
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

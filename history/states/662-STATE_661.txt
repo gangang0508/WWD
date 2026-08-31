@@ -1,0 +1,25 @@
+state={
+	id=662
+	name="STATE_662"
+	resources = {
+		oil = 90
+	}
+	history = {
+		owner = APA
+		add_core_of = APA
+		add_claim_by = ALL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = { 17526 2 }
+		victory_points = { 679 3 }
+		victory_points = { 1625 7 }
+	}
+	provinces={
+		679 1563 1625 3184 4282 5138 7229 17526 17532 
+	}
+	manpower=1221501
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=692
+	name="STATE_692"
+	resources = {
+		aluminium = 10
+		steel = 20
+	}
+	history={
+		owner = SPI
+		add_core_of = SPI
+		add_core_of = CCH
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			18059 5
+		}
+
+	}
+
+	provinces={
+		2017 4056 7320 18059 18060 18061 18063 18067 
+	}
+	manpower=1244125
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,208 @@
+﻿
+YILO_INF_01 = 
+{
+	name = "Infantry Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Yi'long Bubing Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Bubing Shi" }		
+	}
+}
+
+YILO_CAV_01 = 
+{
+	name = "Cavalry Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "cavalry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Yi'long Qibing Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Qibing Shi" }
+	}
+}
+
+YILO_MOT_01 = 
+{
+	name = "Motor Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Yi'long Jidonghua Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Jidonghua Shi" }	
+	}
+}
+
+YILO_MEC_01 = 
+{
+	name = "Mechanized Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Man'chu Jixiehua Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Jixiehua Shi" }	
+	}
+}
+
+YILO_ARM_01 = 
+{
+	name = "Tank Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "Yi'long Zhuangjia Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "Yi'long Zhuangjia Shi" }
+	}
+}
+
+YILO_PAR_01 = 
+{
+	name = "Parachute Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "paratrooper" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "Yi'long Sanbing Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "Yi'long Sanbing Shi" }
+	}
+}
+
+YILO_MAR_01 = 
+{
+	name = "Marine Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "marine" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Yi'long Luzhan Dui Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Luzhan Dui Shi" }
+	}
+}
+
+YILO_MNT_01 = 
+{
+	name = "Mountain Division"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "mountaineers" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Yi'long Bubing Shi"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Yi'long Bubing Shi" }		
+	}
+}
+
+YILO_GAR_01 = 
+{
+	name = "Garrison Unit"
+
+	for_countries = { YIL XIA CAU }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { YILO_INF_01 }
+
+	fallback_name = "%d Qu Jun"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%d Qu Jun" }
+	}
+}
+

@@ -1,0 +1,18 @@
+
+state={
+	id=162
+	name="STATE_162"
+
+	history={
+		owner = LAQ
+		add_core_of = LAQ
+
+	}
+
+	provinces={
+		534 618 704 736 1132 1490 1554 1591 2055 2454 3388 3543 4490 4703 5184 7625 7654 7656 7674 7689 7700 
+	}
+	manpower=3177120
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

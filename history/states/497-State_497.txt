@@ -1,0 +1,25 @@
+
+state={
+	id=497
+	name="STATE_497"
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			7154 = {
+				naval_base = 6
+			}
+		}
+		victory_points = { 7113 1 }
+		victory_points = { 7154 7 }
+		victory_points = { 7167 3 }
+	}
+	provinces={
+		3364 4591 7104 7113 7128 7129 7135 7150 7154 7158 7167 
+	}
+	manpower=3712400
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

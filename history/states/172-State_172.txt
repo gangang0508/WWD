@@ -1,0 +1,21 @@
+
+state={
+	id=172
+	name="STATE_172"
+	history={
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+		}
+		victory_points = { 5546 5 }
+	}
+
+	provinces={
+		508 1504 2016 2692 3514 4104 4458 5522 5546 5550 5591 5619 5629 5632 5636 5674 
+	}
+	manpower=3517120
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

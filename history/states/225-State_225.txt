@@ -1,0 +1,15 @@
+
+state={
+	id=225
+	name="STATE_225"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		442 522 610 663 1018 1094 1167 1679 2065 3164 3221 3899 3924 4416 4463 8605 8641 8654 8660 8673 8682 8683 8697 
+	}
+	manpower=444444
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

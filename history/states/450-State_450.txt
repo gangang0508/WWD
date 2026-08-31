@@ -1,0 +1,19 @@
+
+state={
+	id=450
+	name="STATE_450"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 6699 2 }
+	}
+	provinces={
+		1904 3139 3789 3887 4551 4863 6457 6474 6521 6522 6553 6600 6639 6668 6684 6699 
+	}
+	manpower=1651261
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=22
+	name="STATE_22"
+	history = {
+		owner = AGN
+		add_core_of = AGN
+	}
+	provinces={
+		670 1683 1888 2758 3409 3534 3613 3788 5197 8421 8432 8441 
+	}
+	manpower=741210
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

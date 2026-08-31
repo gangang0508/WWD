@@ -1,0 +1,24 @@
+
+state={
+	id=710
+	name="STATE_710"
+	history = {
+		owner = AEG
+		add_core_of = AEG
+		buildings = {
+			infrastructure = 3
+			18263 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			18263 4
+		}
+	}
+	provinces={
+		1159 4373 7432 18229 18237 18241 18242 18243 18248 18249 18252 18263 
+	}
+	manpower=178125
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

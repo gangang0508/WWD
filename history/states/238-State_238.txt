@@ -1,0 +1,22 @@
+
+state={
+	id=238
+	name="STATE_238"
+	resources = {
+		steel = 44
+		rubber = 60
+	}
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		205 917 961 996 1706 1956 2722 2754 3218 3258 3315 3558 3686 3975 4040 4076 4203 4610 4911 8455 8464 8469 8482 8487 8545 
+	}
+	manpower=3177150
+	state_category = town
+	buildings_max_level_factor=1.000
+}

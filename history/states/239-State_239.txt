@@ -1,0 +1,21 @@
+
+state={
+	id=239
+	name="STATE_239"
+	resources = {
+		oil = 4
+		rubber = 20
+	}
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		89 206 420 1122 1822 2276 2434 2777 2779 2792 3091 3348 3900 4052 4444 8480 8484 8502 8515 8519 8523 8527 8535 8544 
+	}
+	manpower=1097560
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=54
+	name="STATE_54"
+
+	history={
+		owner = VUL
+		add_core_of = VUL
+
+	}
+
+	provinces={
+		398 611 1146 1450 2686 2976 3201 3880 3909 4097 8183 14716 16709 18016 18018 
+	}
+	manpower=977150
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

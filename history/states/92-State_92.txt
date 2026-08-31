@@ -1,0 +1,21 @@
+
+state={
+	id=92
+	name="STATE_92"
+	history = {
+		owner = THA
+		add_core_of = THA
+		buildings = {
+			infrastructure = 6
+			6952 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		6923 6936 6952 6978 
+	}
+	manpower=21590
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

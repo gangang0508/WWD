@@ -1,0 +1,15 @@
+
+state={
+	id=655
+	name="STATE_655"
+	history = {
+		owner = THA
+		add_core_of = THA
+	}
+	provinces={
+		2404 3590 4155 4587 6614 6661 6663 6679 6716 6726 6789 17583 
+	}
+	manpower=2507112
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

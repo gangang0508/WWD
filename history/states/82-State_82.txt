@@ -1,0 +1,23 @@
+
+state={
+	id=82
+	name="STATE_82"
+
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { 6485 3 }
+		victory_points = { 17127 5 }
+	}
+
+	provinces={
+		6438 6439 6485 17122 17123 17127 
+	}
+	manpower=2178812
+	buildings_max_level_factor=1.000
+	state_category=city
+}

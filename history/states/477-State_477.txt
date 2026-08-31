@@ -1,0 +1,39 @@
+
+state={
+	id=477
+	name="STATE_477"
+	resources = {
+		steel = 232
+		aluminium = 90
+	}
+
+	history={
+		owner = STR
+		add_core_of = STR
+		victory_points = {
+			6883 40 
+		}
+		victory_points = {
+			6833 15 
+		}
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 7
+			arms_factory = 1
+			dockyard = 3
+			6833 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1743 2884 6809 6833 6866 6883 6905 6924 
+	}
+	manpower=15750155
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

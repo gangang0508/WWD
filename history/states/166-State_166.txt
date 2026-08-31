@@ -1,0 +1,19 @@
+
+state={
+	id=166
+	name="STATE_166"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+		add_core_of = LAQ
+
+	}
+
+	provinces={
+		2785 2919 3934 4524 4962 7787 7790 7808 
+	}
+	manpower=11192100
+	buildings_max_level_factor=1.000
+	state_category=city
+}

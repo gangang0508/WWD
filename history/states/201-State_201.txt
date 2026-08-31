@@ -1,0 +1,28 @@
+
+state={
+	id=201
+	name="STATE_201"
+	resources = {
+		steel = 4
+		aluminium = 14
+		tungsten = 32
+	}
+	history={
+		owner = PSI
+		add_core_of = PSI
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 4
+		}
+		victory_points = { 7563 3 }
+		victory_points = { 642 2 }
+	}
+
+	provinces={
+		396 642 1668 2004 3682 7522 7534 7543 7544 7554 7555 7563 
+	}
+	manpower=2849860
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

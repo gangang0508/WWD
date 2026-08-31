@@ -1,0 +1,15 @@
+
+state={
+	id=10
+	name="STATE_10"
+	history = {
+		owner = ABE
+		add_core_of = ABE
+	}
+	provinces={
+		541 1361 3372 3470 3627 3766 4400 4668 4813 4961 5080 5166 7810 7842 7858 7875 7915 
+	}
+	manpower=2139010
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

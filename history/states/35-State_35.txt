@@ -1,0 +1,20 @@
+
+state={
+	id=35
+	name="STATE_35"
+
+	history={
+		owner = CLI
+		add_core_of = CLI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		3540 4757 5118 5207 6041 6063 6084 6124 6134 6153 6171 6186 
+	}
+	manpower=748126
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

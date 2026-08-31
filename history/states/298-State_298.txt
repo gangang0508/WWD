@@ -1,0 +1,23 @@
+
+state={
+	id=298
+	name="STATE_298"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		1753 2080 2338 2913 3736 3822 4274 4728 5055 5188 5325 5338 5344 5356 5364 5368 5377 
+	}
+	manpower=1785090
+	buildings_max_level_factor=1.000
+	state_category=town
+}

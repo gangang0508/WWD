@@ -1,0 +1,24 @@
+
+state={
+	id=165
+	name="STATE_165"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { 6856 20 }
+		victory_points = { 17293 2 }
+	}
+
+	provinces={
+		603 2385 2598 4710 6856 6858 6892 6912 6933 17293 17296 17299 17300 
+	}
+	manpower=8712905
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=123
+	name="STATE_123"
+	history = {
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			811 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 811 1 }
+	}
+	provinces={
+		811 2131 7264 7323 8771 
+	}
+	manpower=51255
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

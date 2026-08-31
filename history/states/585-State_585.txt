@@ -1,0 +1,18 @@
+
+state={
+	id=585
+	name="STATE_585"
+
+	history={
+		owner = PLI
+		add_core_of = PLI
+
+	}
+
+	provinces={
+		497 1318 1707 1860 2177 2386 2578 4225 4635 8147 8153 18017 18022 
+	}
+	manpower=519100
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

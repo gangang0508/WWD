@@ -1,0 +1,23 @@
+state={
+	id=608
+	name="STATE_608"
+	history = {
+		victory_points = { 8195 5 }
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			8195 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		1078 1865 2840 2929 3196 4332 4657 4745 5174 8184 8187 8191 8195 8198 8200 8202 8205 8213 8220 
+	}
+	manpower=11840300
+	state_category = town
+	buildings_max_level_factor=1.000
+}

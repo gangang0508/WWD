@@ -1,0 +1,22 @@
+
+state={
+	id=112
+	name="STATE_112"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 3137 2 }
+		victory_points = { 17295 4 }
+	}
+
+	provinces={
+		1882 2558 3019 3137 3288 4075 4414 6710 6711 6714 6792 6817 6864 17075 17076 17295 17298 17301 17302 
+	}
+	manpower=4158000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,25 @@
+state={
+	id=30
+	name="STATE_30"
+	history = {
+		owner = CLI
+		add_core_of = CLI
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			industrial_complex = 1
+			arms_factory = 1
+			885 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 885 5 }
+		victory_points = { 5186 1 }
+	}
+	provinces={
+		885 1500 3533 3885 4335 4552 5186 5790 5840 5847 5851 5870 5895 5903 5906 5919 6008 
+	}
+	manpower=1225126
+	state_category = town
+	buildings_max_level_factor=1.000
+}

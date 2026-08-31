@@ -1,0 +1,22 @@
+
+state={
+	id=323
+	name="STATE_323"
+
+	history={
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = { 657 4 }
+	}
+
+	provinces={
+		197 657 789 1061 2217 3344 3394 3735 4303 5465 5777 17704 
+	}
+	manpower=667950
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

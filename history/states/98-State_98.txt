@@ -1,0 +1,25 @@
+
+state={
+	id=98
+	name="STATE_98"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			3703 2 
+		}
+
+	}
+
+	provinces={
+		1642 2631 2893 3703 4476 5743 5756 5762 5784 
+	}
+	manpower=4189500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

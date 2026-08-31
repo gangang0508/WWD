@@ -1,0 +1,38 @@
+
+state={
+	id=333
+	name="STATE_333"
+	resources = {
+		aluminium = 6
+		steel = 4
+	}
+	history={
+		owner = DAN
+		add_core_of = DAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1	
+			dockyard = 1
+			4800 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			2415 3 
+		}
+		victory_points = {
+			4800 5 
+		}
+
+	}
+
+	provinces={
+		100 2415 3308 3333 3341 4800 6155 6161 6202 
+	}
+	manpower=2187492
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

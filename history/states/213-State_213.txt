@@ -1,0 +1,14 @@
+state={
+	id=213
+	name="STATE_213"
+	history = {
+		owner = STR
+	}
+	state_category = tiny_island
+	provinces={
+		2346 3144 4616 7945 7955 7959 7983 7984 
+	}
+	manpower=37416
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

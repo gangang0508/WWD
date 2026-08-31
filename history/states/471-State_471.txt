@@ -1,0 +1,27 @@
+
+state={
+	id=471
+	name="STATE_471"
+
+	history={
+		owner = APA
+		add_core_of = APA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			5014 5 
+		}
+
+	}
+
+	provinces={
+		812 2227 2906 3229 7042 7107 7116 17528 
+	}
+	manpower=4159520
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

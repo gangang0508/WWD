@@ -1,0 +1,36 @@
+
+state={
+	id=309
+	name="STATE_309"
+	resources={
+		steel=20.000
+		chromium=4.000
+	}
+
+	history={
+		owner = HER
+		add_core_of = HER
+		victory_points = {
+			6477 4 
+		}
+		victory_points = {
+			2066 1
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 6
+			arms_factory = 1
+			2066 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces={
+		2066 4871 6355 6404 6429 6477 6503 17130 17132 17134 17136 17137 
+	}
+	manpower=6512670
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

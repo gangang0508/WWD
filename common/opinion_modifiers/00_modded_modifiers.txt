@@ -1,0 +1,13 @@
+
+opinion_modifiers = {
+
+	siberyan_civil_war = {
+		value = -100
+	}
+	retained_carnivorous_irhazians = {
+		value = 30
+	}
+	expelled_carnivorous_irhazians = {
+		value = -90
+	}
+}	

@@ -1,0 +1,17 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		3548 5262 5269 5271 5282 5288 
+	}
+	history = {
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=305
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

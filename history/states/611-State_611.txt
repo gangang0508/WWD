@@ -1,0 +1,30 @@
+
+state={
+	id=611
+	name="STATE_611"
+
+	history={
+		victory_points = {
+			8246 10 
+		}
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			8246 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		341 474 1532 2041 2330 3028 3105 3733 3884 4957 5050 8210 8218 8222 8228 8231 8233 8236 8237 8246 
+	}
+	manpower=7850393
+	buildings_max_level_factor=1.000
+	state_category=city
+}

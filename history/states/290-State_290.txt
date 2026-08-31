@@ -1,0 +1,24 @@
+
+state={
+	id=290
+	name="STATE_290"	
+	resources = {
+		steel = 22
+	}
+	history={
+		owner = YIL
+		add_core_of = YIL
+		buildings = { 
+			infrastructure = 3
+		}
+		victory_points = { 3696 1 }
+		victory_points = { 2042 2 }
+	}
+
+	provinces={
+		2042 2473 3050 3696 4451 4644 5227 5800 5844 5910 17350 17353 17355 
+	}
+	manpower=4858900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

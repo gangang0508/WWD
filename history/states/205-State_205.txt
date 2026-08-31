@@ -1,0 +1,21 @@
+
+state={
+	id=205
+	name="STATE_205"
+
+	history={
+		owner = HAT
+		add_core_of = HAT
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 6275 3 }
+	}
+
+	provinces={
+		3219 4237 5083 6224 6247 6275 6286 6336 6343 6367 6381 17413 
+	}
+	manpower=2112100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

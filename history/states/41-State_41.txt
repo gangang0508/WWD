@@ -1,0 +1,39 @@
+
+state={
+	id=41
+	name="STATE_41"
+	resources = {
+		tungsten = 32
+		steel = 20
+	}
+	history={
+		owner = CAU
+		add_core_of = CAU
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			445 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			445 20 
+		}
+		victory_points = {
+			1376 3 
+		}
+		victory_points = {
+			6363 5 
+		}
+
+	}
+
+	provinces={
+		445 1376 1965 2940 4509 4632 4679 4837 6179 6312 6313 6331 6348 6412 17318 17320 
+	}
+	manpower=11921200
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

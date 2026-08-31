@@ -1,0 +1,27 @@
+
+state={
+	id=124
+	name="STATE_124"
+	resources = {
+		oil = 212
+	}
+	history = {
+		owner = ALL
+		add_core_of = ALL
+		add_core_of = APA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			101 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 101 3 }
+	}
+	provinces={
+		101 505 849 3365 3537 3575 4379 7121 7148 7255 8772 
+	}
+	manpower=1234567
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

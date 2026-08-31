@@ -1,0 +1,9 @@
+
+animation = {
+	name = "theropod_idle_anim"
+	file = "theropod_idle.anim"
+}
+animation = {
+	name = "theropod_move_anim"
+	file = "theropod_move.anim"
+}

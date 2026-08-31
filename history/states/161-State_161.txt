@@ -1,0 +1,19 @@
+
+state={
+	id=161
+	name="STATE_161"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+		add_core_of = LAQ
+
+	}
+
+	provinces={
+		466 782 1183 1477 2786 4089 4291 4412 4815 5167 7749 7807 7814 8309 
+	}
+	manpower=577102
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

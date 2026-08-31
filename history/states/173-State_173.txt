@@ -1,0 +1,25 @@
+
+state={
+	id=173
+	name="STATE_173"
+	resources = {
+		steel = 12
+		chromium = 80
+	}
+	history = {
+		owner = TIK
+		add_core_of = TIK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = { 5013 1 }
+		victory_points = { 6914 1 }
+	}
+	provinces={
+		1559 3118 4057 4808 5013 6839 6901 6914 6994 7005 
+	}
+	manpower=1774120
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

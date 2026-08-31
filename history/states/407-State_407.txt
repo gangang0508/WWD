@@ -1,0 +1,30 @@
+
+state={
+	id=407
+	name="STATE_407"
+
+	history={
+		owner = JAX
+		add_core_of = JAX
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 2
+
+		}
+		victory_points = {
+			476 2 
+		}
+		victory_points = {
+			484 1 
+		}
+
+	}
+
+	provinces={
+		213 484 753 1093 2685 3678 5984 5997 6052 6137 17252 17253 
+	}
+	manpower=5178950
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

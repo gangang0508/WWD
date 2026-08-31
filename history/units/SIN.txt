@@ -1,0 +1,410 @@
+﻿### SIN OOB ###
+
+division_template = {
+	name = "Juntuán"		
+	division_names_group = SIN_INF_01	# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+}
+division_template = {
+	name = "Qibing Jun"		
+	division_names_group = SIN_CAV_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+}
+
+units = {
+	division = {
+		name = "1d Juntuán"
+		location = 1876
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2d Juntuán"
+		location = 1876
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "3d Juntuán"
+		location = 6269
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "4d Juntuán"
+		location = 6207
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "5d Juntuán"
+		location = 3486
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "6d Juntuán"
+		location = 2775
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "7d Juntuán"
+		location = 6427
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "8d Juntuán"
+		location = 2775
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "9d Juntuán"
+		location = 2965
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "10d Juntuán"
+		location = 6856
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "11d Juntuán"
+		location = 7024
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "12d Juntuán"
+		location = 6911
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "13d Juntuán"
+		location = 6911
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "14d Juntuán"
+		location = 6881
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "17d Juntuán"
+		location = 4030
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "19d Juntuán"
+		location = 17319
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "21d Juntuán"
+		location = 6307
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "31d Juntuán"
+		location = 2183
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "32d Juntuán"
+		location = 5035
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "33d Juntuán"
+		location = 5979
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "35d Juntuán"
+		location = 968
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "36d Juntuán"
+		location = 17450
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "37d Juntuán"
+		location = 5727
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "39d Juntuán"
+		location = 17359
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "40d Juntuán"
+		location = 155
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "41d Juntuán"
+		location = 4851
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "42d Juntuán"
+		location = 7331
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "44d Juntuán"
+		location = 1036
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "45d Juntuán"
+		location = 1036
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "46d Juntuán"
+		location = 7354
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "47d Juntuán"
+		location = 7354
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "48d Juntuán"
+		location = 899
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "49d Juntuán"
+		location = 1949
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "50d Juntuán"
+		location = 17285
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "51d Juntuán"
+		location = 3810
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1d Qibing Jun"
+		location = 17376
+		division_template = "Qibing Jun"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "2d Qibing Jun"
+		location = 6433
+		division_template = "Qibing Jun"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "4d Qibing Jun"
+		location = 3786
+		division_template = "Qibing Jun"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "5d Qibing Jun"
+		location = 17317
+		division_template = "Qibing Jun"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "7d Qibing Jun"
+		location = 17289
+		division_template = "Qibing Jun"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "150d Juntuán"
+		location = 5009
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "151d Juntuán"
+		location = 17288
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "152d Juntuán"
+		location = 2936
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "153d Juntuán"
+		location = 7189
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "154d Juntuán"
+		location = 7189
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "200d 122"
+		location = 7174
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "201d Juntuán"
+		location = 7269
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "213d Juntuán"
+		location = 1513
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "214d Juntuán"
+		location = 7395
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "215d Juntuán"
+		location = 4310
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "231d Juntuán"
+		location = 17278
+		division_template = "Juntuán"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.7
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "SIN"
+		}
+		requested_factories = 12
+		progress = 0.5
+		efficiency = 50
+	}
+
+}
+
+#################################

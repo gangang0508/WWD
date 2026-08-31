@@ -1,0 +1,22 @@
+
+state={
+	id=110
+	name="STATE_110"
+
+	history={
+		owner = ZAL
+		add_core_of = ZAL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		victory_points = { 17179 1 }
+	}
+
+	provinces={
+		1229 4747 7199 7223 7230 7237 7251 8769 17176 17178 17179 17180 17183 
+	}
+	manpower=317130
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

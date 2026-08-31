@@ -1,0 +1,22 @@
+
+state={
+	id=669
+	name="STATE_669"
+	resources = {
+		oil = 7
+	}
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = { 17641 5 }
+	}
+	provinces={
+		17640 17641 17642 17644 17650 17651 17656 17658 17659 17666 
+	}
+	manpower=2501826
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

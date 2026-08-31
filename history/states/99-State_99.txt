@@ -1,0 +1,26 @@
+
+state={
+	id=99
+	name="STATE_99"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		add_core_of = CDR
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			3919 3 
+		}
+
+	}
+
+	provinces={
+		675 1919 2218 3013 3664 4167 4174 4792 5701 11689 17395 
+	}
+	manpower=959840
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

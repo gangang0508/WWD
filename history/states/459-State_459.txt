@@ -1,0 +1,38 @@
+
+state={
+	id=459
+	name="STATE_459"
+	resources={
+		aluminium=40.000
+	}
+
+	history={
+		owner = ALL
+		add_core_of = APA
+		add_core_of = ALL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 4
+			17764 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			17758 20 
+		}
+		victory_points = {
+			17764 4 
+		}
+
+	}
+
+	provinces={
+		727 17741 17743 17744 17745 17746 17747 17748 17749 17750 17751 17752 17753 17756 17757 17758 17761 17763 17764 17765 
+	}
+	manpower=6857500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

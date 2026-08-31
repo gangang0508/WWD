@@ -1,0 +1,28 @@
+
+state={
+	id=454
+	name="STATE_454"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		victory_points = {
+			3044 1 
+		}
+		victory_points = {
+			6545 5 
+		}
+
+	}
+
+	provinces={
+		581 872 1727 2312 3630 3764 6446 6456 6544 6545 6590 6662 17464 17467 
+	}
+	manpower=5167291
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

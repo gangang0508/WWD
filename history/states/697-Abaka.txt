@@ -1,0 +1,22 @@
+state={
+	id=697
+	name="STATE_697"
+	history = {
+		owner = AFR
+		add_core_of = AFR
+		add_core_of = JOB
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+		}
+		victory_points = { 
+			18140 3
+		}
+	}
+	provinces={
+		18135 18137 18138 18140 18143 
+	}
+	manpower=2186512
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=392
+	name="STATE_392"
+
+	history={
+		owner = HEV
+		add_core_of = HEV
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			350 2 
+		}
+		victory_points = {
+			6022 1 
+		}
+
+	}
+
+	provinces={
+		350 1481 1557 1792 1857 2798 3368 3579 4375 5973 5978 6014 6022 6054 6156 17415 17425 
+	}
+	manpower=1447120
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

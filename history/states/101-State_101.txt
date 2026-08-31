@@ -1,0 +1,29 @@
+
+state={
+	id=101
+	name="STATE_101"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		add_core_of = ALA
+		add_core_of = ALL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			4481 3 
+		}
+
+	}
+
+	provinces={
+		513 625 835 1957 2656 4481 4498 4921 6983 7022 17772 17773 17776 
+	}
+	manpower=1089750
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

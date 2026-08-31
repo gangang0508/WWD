@@ -1,0 +1,20 @@
+state={
+	id=735
+	name="STATE_735"
+	history = {
+		owner = SPT
+		add_core_of = SPT
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			18155 2
+		}
+	}
+	provinces={
+		4001 18091 18095 18155 
+	}
+	manpower=185180
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

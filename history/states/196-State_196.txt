@@ -1,0 +1,23 @@
+
+state={
+	id=196
+	name="STATE_196"
+	history = {
+		owner = ACE
+		add_core_of = ACE
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			7122 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 7122 3 }
+	}
+	provinces={
+		1828 2181 2907 4126 7110 7122 7123 
+	}
+	manpower=2849750
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=293
+	name="STATE_293"
+
+	history={
+		owner = CDR
+		add_core_of = CDR
+		add_core_of = DON
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		17186 17187 17188 17189 17192 
+	}
+	manpower=514612
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

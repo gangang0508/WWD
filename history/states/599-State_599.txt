@@ -1,0 +1,22 @@
+
+state={
+	id=599
+	name="STATE_599"
+	history = {
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			8159 = {
+				naval_base = 2
+			}
+		}	
+	}
+	provinces={
+		519 1454 1886 3512 3752 4966 8158 8159 8163 8165 8168 8174 8176 8181 8185 8189 8196 
+	}
+	manpower=6753133
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

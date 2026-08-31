@@ -1,0 +1,17 @@
+
+state={
+	id=181
+	name="STATE_181"
+
+	history={
+		owner = BAR
+
+	}
+
+	provinces={
+		1654 3546 3660 4110 7520 7578 7593 7603 7664 7681 7682 7694 7695 
+	}
+	manpower=34
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=187
+	name="STATE_187"
+	history = {
+		owner = ANT
+		add_core_of = ANT
+	}
+	provinces={
+		1145 1709 1718 1734 1772 1849 2316 2318 3177 3204 3226 3487 3851 3969 4295 5015 8397 
+	}
+	manpower=3716126
+	state_category = town
+	buildings_max_level_factor=1.000
+}

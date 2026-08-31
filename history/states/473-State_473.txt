@@ -1,0 +1,26 @@
+
+state={
+	id=473
+	name="STATE_473"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			industrial_complex = 4
+			infrastructure = 6
+			dockyard = 1
+			6818 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 6818 5 }
+	}
+
+	provinces={
+		1974 4014 4103 4425 6642 6681 6689 6793 6818 
+	}
+	manpower=7630910
+	buildings_max_level_factor=1.000
+	state_category=city
+}

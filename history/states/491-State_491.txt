@@ -1,0 +1,32 @@
+
+state={
+	id=491
+	name="STATE_491"
+	resources = {
+		steel = 20
+		tungsten = 2
+	}
+	history = {
+		owner = SAN
+		add_core_of = SAN
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			dockyard = 1
+			7169 = {
+				naval_base = 4
+			}
+			5100 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 7169 5 }
+		victory_points = { 5100 1 }
+	}
+	provinces={
+		2848 5100 7118 7126 7132 7134 7139 7142 7153 7162 7169 
+	}
+	manpower=8172102
+	state_category = city
+	buildings_max_level_factor=1.000
+}

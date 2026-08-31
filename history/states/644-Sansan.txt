@@ -1,0 +1,18 @@
+state={
+	id=644
+	name="STATE_644"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 2693 1 }
+	}
+	provinces={
+		1664 2693 6551 6605 17363 
+	}
+	manpower=510926
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

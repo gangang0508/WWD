@@ -1,0 +1,27 @@
+
+state={
+	id=152
+	name="STATE_152"
+	resources = {
+		steel = 20
+		tungsten = 34
+	}
+	history={
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			dockyard = 1
+		}
+		victory_points = { 17257 5 }
+		victory_points = { 17265 2 }
+	}
+
+	provinces={
+		5060 7439 7441 7445 17256 17257 17258 17259 17260 17261 17262 17263 17264 17265 17266 
+	}
+	manpower=3208172
+	buildings_max_level_factor=1.000
+	state_category=city
+}

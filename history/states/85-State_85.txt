@@ -1,0 +1,26 @@
+
+state={
+	id=85
+	name="STATE_85"
+	resources = {
+		steel = 12
+		tungsten = 2
+	}
+	history = {
+		owner = REX
+		add_core_of = REX
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 4
+			arms_factory = 1
+		}
+		victory_points = { 17095 4 }
+		victory_points = { 2931 25 }
+	}
+	provinces={
+		2931 3500 6271 6290 6334 17093 17094 17095 
+	}
+	manpower=6712651
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=360
+	name="STATE_360"
+	resources={
+		aluminium=12.000
+		steel=24.000
+	}
+
+	history={
+		owner = PLA
+		add_core_of = PLA
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			5729 1 
+		}
+		victory_points = {
+			5796 3 
+		}
+
+	}
+
+	provinces={
+		1958 2532 3771 4859 5738 5768 5796 5833 5841 5865 17431 
+	}
+	manpower=603250
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

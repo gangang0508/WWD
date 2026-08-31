@@ -1,0 +1,19 @@
+
+state={
+	id=612
+	name="STATE_612"
+	history = {
+		victory_points = { 1250 3 }
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1250 1805 2128 2728 3031 3208 3407 3576 3725 4238 4359 5102 5175 8214 8216 8225 8234 8245 8256 
+	}
+	manpower=7850950
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

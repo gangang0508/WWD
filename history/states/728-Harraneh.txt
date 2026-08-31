@@ -1,0 +1,28 @@
+state={
+	id=728
+	name="STATE_728"
+	resources = {
+		oil = 2
+		steel = 2
+	}
+	history = {
+		owner = AZD
+		add_core_of = AZD
+		buildings = {
+			arms_factory = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			18286 7
+		}
+		victory_points = {
+			18283 4
+		}
+	}
+	provinces={
+		52 898 4771 7486 7540 18280 18282 18283 18284 18285 18286 18287 
+	}
+	manpower=1425712
+	state_category = town
+	buildings_max_level_factor=1.000
+}

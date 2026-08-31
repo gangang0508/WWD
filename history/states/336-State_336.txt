@@ -1,0 +1,25 @@
+
+state={
+	id=336
+	name="STATE_336"
+
+	history = {
+		owner = YIL
+		add_core_of = YIL
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			5609 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 5609 3 }
+	}
+
+	provinces={
+		1537 2770 3160 3684 5523 5541 5556 5566 5582 5604 5608 5609 5638 5648 
+	}
+	manpower=4296210
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=384
+	name="STATE_384"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = { 243 3 }
+	}
+
+	provinces={
+		243 463 1308 2192 2373 2451 4665 5753 5804 5869 5875 5951 5954 5955 6011 17335 17351 17352 17450 
+	}
+	manpower=1185400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

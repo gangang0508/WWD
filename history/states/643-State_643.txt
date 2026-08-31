@@ -1,0 +1,21 @@
+
+state={
+	id=643
+	name="STATE_643"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 17361 1 }
+	}
+
+	provinces={
+		64 778 2793 2812 3343 4073 6632 6722 6764 6798 17361 
+	}
+	manpower=3148500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

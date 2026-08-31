@@ -1,0 +1,35 @@
+
+state={
+	id=252
+	name="STATE_252"
+	resources={
+		steel=30.000
+	}
+
+	history={
+		owner = BAR
+		add_core_of = BAR
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			dockyard = 4
+			17104 = {
+				naval_base = 10
+			}
+		}
+		victory_points = {
+			17104 20 
+		}
+		victory_points = {
+			17110 3 
+		}
+
+	}
+
+	provinces={
+		6580 6634 17104 17105 17106 17107 17108 
+	}
+	manpower=7182671
+	buildings_max_level_factor=1.000
+	state_category=city
+}

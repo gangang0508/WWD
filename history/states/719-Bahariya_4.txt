@@ -1,0 +1,23 @@
+
+state={
+	id=719
+	name="STATE_719"
+	history = {
+		add_core_of = BHR
+		owner = BHR
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			17977 5
+		}
+	}
+	provinces={
+		17974 17977 18202 18258 18265 
+	}
+	manpower=2178612
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

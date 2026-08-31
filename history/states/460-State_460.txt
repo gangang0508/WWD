@@ -1,0 +1,21 @@
+
+state={
+	id=460
+	name="STATE_460"
+
+	history={
+		owner = OIR
+		add_core_of = OIR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 6870 1 }
+	}
+
+	provinces={
+		875 959 1161 1869 2246 2518 4531 4673 6674 6770 6862 6870 6885 
+	}
+	manpower=1377910
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

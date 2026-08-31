@@ -1,0 +1,14 @@
+
+state={
+	id=265
+	name="STATE_265"
+	history = {
+		owner = STR
+	}
+	provinces={
+		748 2478 3440 3568 4761 4812 5065 8756 8757 8758 8760 8762 8763 8764 8765 
+	}
+	manpower=3710
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

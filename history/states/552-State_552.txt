@@ -1,0 +1,23 @@
+
+state={
+	id=552
+	name="STATE_552"
+	resources = {
+		oil = 3
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 4742 1 }
+	}
+
+	provinces={
+		279 1499 2152 2490 4127 4340 4382 4541 4742 7561 7580 7590 7610 7637 
+	}
+	manpower=1145000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

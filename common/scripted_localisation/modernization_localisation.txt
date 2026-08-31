@@ -1,0 +1,21 @@
+defined_text = { #Country
+	name = GetMissionToModernizeDesc
+	text = {
+		trigger = {
+			has_country_flag = begun_modernization
+			check_variable = {
+				modernprogress < 99.99
+			}
+		}
+		localization_key = mission_to_modernize_category_active_desc
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				modernprogress > 99.99
+			}
+		}
+		localization_key = mission_to_modernize_category_finished_desc
+	}
+	text = { localization_key = "mission_to_modernize_category_not_active_desc" }
+}

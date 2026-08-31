@@ -1,0 +1,21 @@
+state={
+	id=17
+	name="STATE_17"
+	history = {
+		owner = ELA
+		add_core_of = ELA
+		buildings = {
+			infrastructure = 2
+			5423 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 5423 1 }
+	}
+	provinces={
+		3115 4096 4365 4787 5410 5423 5441 5449 
+	}
+	manpower=57126
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

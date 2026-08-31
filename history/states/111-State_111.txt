@@ -1,0 +1,14 @@
+state={
+	id=111
+	name="STATE_111"
+	history = {
+		owner = ZAL
+		add_core_of = ZAL
+	}
+	provinces={
+		4561 7170 7198 
+	}
+	manpower=41120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

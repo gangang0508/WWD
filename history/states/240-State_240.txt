@@ -1,0 +1,21 @@
+
+state={
+	id=240
+	name="STATE_240"
+	resources = {
+		steel = 16
+		tungsten = 8
+	}
+	history = {
+		owner = STR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		1469 1840 2264 3438 3539 4146 4322 8483 8490 8498 8503 8506 8516 8518 8520 8528 8532 8536 8541 8552 
+	}
+	manpower=1075120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

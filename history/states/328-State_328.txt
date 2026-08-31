@@ -1,0 +1,35 @@
+
+state={
+	id=328
+	name="STATE_328"
+
+	history={
+		owner = HAT
+		add_core_of = HAT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			6481 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			6481 2 
+		}
+		victory_points = {
+			6367 1 
+		}
+
+	}
+
+	provinces={
+		121 649 1286 1675 3410 6368 6424 6481 17409 17411 
+	}
+	manpower=3741550
+	buildings_max_level_factor=1.000
+	state_category=city
+}

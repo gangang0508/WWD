@@ -1,0 +1,27 @@
+
+state={
+	id=536
+	name="STATE_536"
+
+	history={
+		owner = DIN
+		add_core_of = DIN
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 2
+			infrastructure = 6
+			7409 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 7409 2 }	
+		victory_points = { 2646 4 }
+	}
+
+	provinces={
+		1733 2646 3429 3780 5194 7408 7409 7410 7421 7444 17281 
+	}
+	manpower=10858000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

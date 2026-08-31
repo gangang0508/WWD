@@ -1,0 +1,24 @@
+
+state={
+	id=513
+	name="STATE_513"
+	resources = {
+		oil = 2
+		tungsten = 5
+	}
+	history={
+		owner = CHN
+		add_core_of = CHN
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = { 1859 2 }
+	}
+
+	provinces={
+		781 1645 1859 2750 3471 4045 4328 4331 4575 4607 7219 7221 7253 7259 7276 7324 7330 7349 7356 7375 
+	}
+	manpower=1854940
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=533
+	name="STATE_533"
+	history = {
+		owner = CHX
+		add_core_of = CHX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = { 5079 3 }
+		victory_points = { 7527 10 }
+	}
+	provinces={
+		767 1153 2098 2635 2801 2815 4500 4926 5079 7448 7496 7505 7508 7509 7527 7536 7550 7560 
+	}
+	manpower=1337133
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

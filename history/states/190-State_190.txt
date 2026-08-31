@@ -1,0 +1,22 @@
+
+state={
+	id=190
+	name="STATE_190"
+	resources = {
+		aluminium = 4
+		rubber = 80
+	}
+	history = {
+		owner = BET
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		3165 3599 3886 4446 7736 7751 7767 7781 7783 
+	}
+	manpower=5191200
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

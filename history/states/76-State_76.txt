@@ -1,0 +1,24 @@
+
+state={
+	id=76
+	name="STATE_76"
+	history = {
+		owner = HAT
+		add_core_of = HAT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6526 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 6526 3 }
+		victory_points = { 3121 1 }
+	}
+	provinces={
+		1204 2905 3121 4840 5129 6432 6461 6465 6526 6568 
+	}
+	manpower=1211712
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

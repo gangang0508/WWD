@@ -1,0 +1,22 @@
+
+state={
+	id=94
+	name="STATE_94"
+	history= {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		victory_points = { 5443 5 }
+		victory_points = { 5431 1 }
+	}
+	provinces={
+		61 851 1253 2609 2673 4017 4364 5395 5415 5418 5431 5443 5447 5459 5501 
+	}
+	manpower=5126791
+	state_category = city
+	buildings_max_level_factor=1.000
+}

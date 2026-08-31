@@ -1,0 +1,20 @@
+
+state={
+	id=507
+	name="STATE_507"
+	history = {
+		owner = CHN
+		add_core_of = CHN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 7242 3 }
+		victory_points = { 4435 1 }
+	}
+	provinces={
+		558 1473 2600 3482 3905 4100 4435 4825 7242 7299 7306 7310 7315 
+	}
+	manpower=345890
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

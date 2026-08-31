@@ -1,0 +1,27 @@
+
+state={
+	id=62
+	name="STATE_62"
+	resources = {
+		steel = 12
+		aluminium = 4
+	}
+	history={
+		owner = CDR
+		add_core_of = CDR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = { 17240 2 }
+		victory_points = { 17222 1 }
+	}
+
+	provinces={
+		17222 17225 17227 17228 17229 17230 17232 17234 17235 17238 17239 17240 17241 17242 
+	}
+	manpower=913160
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=431
+	name="STATE_431"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = { 6570 5 }
+		victory_points = { 6350 1 }
+	}
+
+	provinces={
+		402 1359 1875 2056 2447 2851 2991 3254 3574 4547 6350 6415 6434 6570 17766 17768 
+	}
+	manpower=1486550
+	buildings_max_level_factor=1.000
+	state_category=town
+}

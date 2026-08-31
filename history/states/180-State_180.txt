@@ -1,0 +1,31 @@
+
+state={
+	id=180
+	name="STATE_180"
+	resources = {
+		rubber = 8
+		steel = 12
+		chromium = 2
+	}
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			7559 = {
+				naval_base = 8
+			}
+		}
+		victory_points = { 7559 20 }
+		victory_points = { 7605 3 }
+	}
+	provinces={
+		2310 3510 4280 4351 4429 7535 7546 7556 7559 7594 7605 
+	}
+	manpower=14181920
+	state_category = city
+	buildings_max_level_factor=1.000
+}

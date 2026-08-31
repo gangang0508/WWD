@@ -1,0 +1,30 @@
+
+state={
+	id=315
+	name="STATE_315"
+	resources={
+		oil=16.000
+	}
+
+	history={
+		owner = SIB
+		add_core_of = SIB
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			3133 2 
+		}
+
+	}
+
+	provinces={
+		124 626 788 886 1042 1294 1850 1981 3443 4336 4345 5375 5480 5581 5634 
+	}
+	manpower=1075810
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

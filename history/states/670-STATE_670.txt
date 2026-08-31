@@ -1,0 +1,20 @@
+
+state={
+	id=670
+	name="STATE_670"
+	history = {
+		owner = FCR
+		add_core_of = FCR
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = { 17657 3 }
+		victory_points = { 17649 2 }
+	}
+	provinces={
+		178 17645 17646 17648 17649 17652 17653 17654 17655 17657 17660 
+	}
+	manpower=1001267
+	state_category = town
+	buildings_max_level_factor=1.000
+}

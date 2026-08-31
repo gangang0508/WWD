@@ -1,0 +1,16 @@
+state={
+	id=211
+	name="STATE_211"
+	history = {
+		owner = BET
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		2349 2506 2549 3876 3930 4901 7920 7953 7957 7979 
+	}
+	manpower=7129100
+	state_category = town
+	buildings_max_level_factor=1.000
+}

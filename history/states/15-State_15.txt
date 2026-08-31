@@ -1,0 +1,29 @@
+
+state={
+	id=15
+	name="STATE_15"
+
+	history={
+		owner = CLI
+		add_core_of = CLI
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			4184 = {
+				naval_base = 1
+			}
+			5406 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 4184 2 }
+		victory_points = { 5406 1 }
+	}
+
+	provinces={
+		3192 3220 4018 4184 4795 5084 5378 5380 5390 5391 5394 5405 5406 5411 
+	}
+	manpower=921261
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

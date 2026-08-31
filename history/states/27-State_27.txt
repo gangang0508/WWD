@@ -1,0 +1,23 @@
+
+state={
+	id=27
+	name="STATE_27"
+	history = {
+		owner = CLI
+		add_core_of = CLI
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			5627 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 5627 2 }
+	}
+	provinces={
+		3128 3555 4832 5124 5627 5643 5672 5683 5719 5766 5801 
+	}
+	manpower=712612
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

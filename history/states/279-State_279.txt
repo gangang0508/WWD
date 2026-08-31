@@ -1,0 +1,29 @@
+
+state={
+	id=279
+	name="STATE_279"
+
+	history={
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+
+		}
+		victory_points = {
+			279 3 
+		}
+		victory_points = {
+			5498 2 
+		}
+
+	}
+
+	provinces={
+		1000 2190 2628 3801 5486 5498 5500 5515 5516 5519 5551 5554 5576 5585 5589 17439 17442 17443 17444 
+	}
+	manpower=3125860
+	buildings_max_level_factor=1.000
+	state_category=city
+}

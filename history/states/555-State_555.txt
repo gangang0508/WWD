@@ -1,0 +1,18 @@
+
+state={
+	id=555
+	name="STATE_555"
+
+	history={
+		owner = CHX
+		add_core_of = CHX
+
+	}
+
+	provinces={
+		1164 1365 2214 2356 4201 4841 7600 
+	}
+	manpower=971020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

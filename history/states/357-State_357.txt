@@ -1,0 +1,30 @@
+
+state={
+	id=357
+	name="STATE_357"
+	resources = {
+		steel = 12
+	}
+	history={
+		owner = YIL
+		add_core_of = YIL
+		buildings = {
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 6
+			4410 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 4410 10 }
+		victory_points = { 3155 3 }
+	}
+
+	provinces={
+		2189 2622 3155 3554 4121 4410 5669 5702 5733 5737 17074 17360 
+	}
+	manpower=8247910
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

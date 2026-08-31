@@ -1,0 +1,34 @@
+
+state={
+	id=452
+	name="STATE_452"
+
+	history={
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+			arms_factory = 1
+			2965 = {
+				naval_base = 7
+
+			}
+
+		}
+		victory_points = {
+			2965 20 
+		}
+		victory_points = {
+			6606 4 
+		}
+
+	}
+
+	provinces={
+		1252 2221 2965 3505 6559 6606 6607 6667 17304 
+	}
+	manpower=10589670
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

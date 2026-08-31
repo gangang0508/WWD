@@ -1,0 +1,33 @@
+state={
+	id=696
+	name="STATE_696"
+	resources = {
+		steel = 12
+		aluminium = 4
+		tungsten = 4
+	}
+	history = {
+		owner = ELR
+		add_core_of = ELR
+		add_core_of = AFR
+		add_core_of = JOB
+		add_core_of = SPP
+		add_core_of = SUC
+		add_claim_by = SPT
+		add_claim_by = CRi
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		victory_points = {
+			18149 30
+		}
+	}
+	provinces={
+		18136 18139 18142 18149 
+	}
+	manpower=6710262
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+}

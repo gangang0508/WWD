@@ -1,0 +1,21 @@
+state={
+	id=322
+	name="STATE_322"
+	resources = {
+		oil = 4
+	}
+	history = {
+		owner = OLO
+		add_core_of = OLO
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 1081 1 }
+	}
+	provinces={
+		1081 1324 2366 5376 5422 5499 
+	}
+	manpower=885900
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=127
+	name="STATE_127"
+	resources={
+		oil=18.000
+	}
+
+	history={
+		owner = VGA
+		add_core_of = VGA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+
+		}
+		victory_points = {
+			3673 5 
+		}
+		victory_points = {
+			3820 1 
+		}
+
+	}
+
+	provinces={
+		1322 3673 3820 3944 4032 5825 5858 17433 
+	}
+	manpower=3120612
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=525
+	name="STATE_525"
+	resources = {
+		aluminium = 24
+		chromium = 3
+		steel = 12
+	}
+	history={
+		owner = ICH
+		add_core_of = ICH
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+			17154 = {
+				naval_base = 4
+			}
+		}
+		victory_points = { 17154 5 }
+		victory_points = { 17153 2 }
+		victory_points = { 17158 1 }
+	}
+
+	provinces={
+		1467 4689 4705 7337 7342 7343 17153 17154 17155 17156 17158 
+	}
+	manpower=7221720
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=57
+	name="STATE_57"
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 826 1 }
+	}
+	provinces={
+		826 3096 4598 4968 6488 6516 6517 6608 
+	}
+	manpower=57120
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

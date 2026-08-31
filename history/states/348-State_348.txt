@@ -1,0 +1,25 @@
+
+state={
+	id=348
+	name="STATE_348"
+
+	history={
+		owner = ALE
+		add_core_of = ALE
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			infrastructure = 6
+		}
+		victory_points = { 664 20 }
+		victory_points = { 66 2 }
+		victory_points = { 787 1 }
+	}
+
+	provinces={
+		66 664 787 1065 1606 1671 1836 2345 2414 2974 3316 3581 3589 3653 4646 4978 5407 5420 5611 5690 5814 
+	}
+	manpower=1278900
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

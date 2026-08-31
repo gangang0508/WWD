@@ -1,0 +1,14 @@
+state={
+	id=237
+	name="STATE_237"
+	history = {
+		owner = YAG
+		add_core_of = YAG
+	}
+	provinces={
+		8097 8105 8106 
+	}
+	manpower=10612
+	state_category = tiny_island
+	buildings_max_level_factor=1.000
+}

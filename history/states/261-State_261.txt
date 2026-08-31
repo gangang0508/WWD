@@ -1,0 +1,17 @@
+
+state={
+	id=261
+	name="STATE_261"
+
+	history={
+		owner = SIB
+
+	}
+
+	provinces={
+		2112 8575 8595 8597 8607 
+	}
+	manpower=145
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

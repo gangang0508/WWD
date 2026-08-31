@@ -1,0 +1,35 @@
+﻿capital = 712
+
+oob = "TIA"
+
+set_stability = 0.8
+set_war_support = 0.18
+
+add_ideas = {
+	herbivorous
+	tolerance
+}
+
+set_popularities={
+		democratic = 17
+		communism = 24
+		neutrality = 59
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Rajul Almuhit"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

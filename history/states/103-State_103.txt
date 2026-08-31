@@ -1,0 +1,32 @@
+
+state={
+	id=103
+	name="STATE_103"
+
+	history={
+		owner = CDR
+		add_core_of = CDR
+		add_core_of = SAR
+		add_core_of = DON
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+
+		}
+		victory_points = {
+			4664 8 
+		}
+		victory_points = {
+			2916 3 
+		}
+
+	}
+
+	provinces={
+		658 957 1298 2569 2712 2834 2916 2996 4300 4664 5432 5590 5595 5618 17191 17195 
+	}
+	manpower=3895400
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

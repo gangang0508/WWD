@@ -1,0 +1,27 @@
+
+state={
+	id=200
+	name="STATE_200"
+	resources = {
+		aluminium = 3
+		chromium = 3
+	}
+	history = {
+		owner = ACE
+		add_core_of = ACE
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			2083 = {
+				naval_base = 8
+			}
+		}
+		victory_points = { 2083 10 }
+	}
+	provinces={
+		2083 3010 7097 7098 7115 7120 7140 
+	}
+	manpower=6997432
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=679
+	name="STATE_679"
+
+	history={
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		victory_points = { 4676 2 }
+		victory_points = { 5077 4 }
+	}
+
+	provinces={
+		190 1375 4172 4200 4230 4487 4676 5077 6669 6765 6916 17775 
+	}
+	manpower=988129
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

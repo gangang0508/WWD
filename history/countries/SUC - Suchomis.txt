@@ -1,0 +1,40 @@
+﻿capital = 695
+
+oob = "SUC"
+
+set_popularities={
+		democratic = 2
+		fascism = 3
+		communism = 15
+		neutrality = 80
+}
+
+set_convoys = 0
+set_stability = 0.4
+set_war_support = 0.8
+
+set_research_slots = 0
+
+add_ideas = {
+	carnivorous
+	tolerance
+	uncivilized_nation
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Suchimi Tanyiri"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

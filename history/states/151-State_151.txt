@@ -1,0 +1,22 @@
+
+state={
+	id=151
+	name="STATE_151"
+
+	history={
+		owner = MAM
+		add_core_of = MAM
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 4
+		}
+		victory_points = { 17449 2 }
+	}
+
+	provinces={
+		620 1673 1908 2380 3594 4738 7422 7434 17449 
+	}
+	manpower=2875900
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

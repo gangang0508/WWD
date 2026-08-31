@@ -1,0 +1,25 @@
+
+state={
+	id=685
+	name="STATE_685"
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			17859 = {
+				naval_base = 3
+			}
+		}
+		victory_points = { 2340 5 }
+		victory_points = { 17859 4 }
+	}
+	provinces={
+		2340 3642 17478 17859 17860 17861 17862 17864 17866 17867 
+	}
+	manpower=10587121
+	state_category = city
+	buildings_max_level_factor=1.000
+}

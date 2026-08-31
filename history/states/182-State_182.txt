@@ -1,0 +1,25 @@
+
+state={
+	id=182
+	name="STATE_182"
+	resources = {
+		tungsten = 42
+		steel = 7
+	}
+	history = {
+		owner = MNK
+		add_core_of = MNK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = { 2512 2 }	
+	}
+	provinces={
+		1725 2188 2512 3318 3988 4166 4881 7236 7244 7263 7267 7274 7279 7287 7304 7322 17085 
+	}
+	manpower=2849700
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

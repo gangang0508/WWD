@@ -1,0 +1,26 @@
+state={
+	id=731
+	name="STATE_731"
+	history = {
+		owner = MDR
+		add_core_of = MDR
+		buildings = {
+			infrastructure = 2
+			8030 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			2413 1
+		}
+		victory_points = {
+			8030 2
+		}
+	}
+	provinces={
+		1265 2413 2617 2969 3064 4617 8001 8003 8020 8028 8030 
+	}
+	manpower=1102612
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

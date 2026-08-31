@@ -1,0 +1,35 @@
+
+state={
+	id=617
+	name="STATE_617"
+
+	history={
+		victory_points = {
+			8260 3 
+		}
+		owner = HND
+		add_core_of = HND
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+			8260 = {
+				naval_base = 4
+
+			}
+			3932 = {
+				naval_base = 6
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		493 1092 1276 1320 1721 2069 2831 2982 3261 3392 3506 3808 3932 3954 8238 8244 8251 8254 8258 8260 8261 8263 8268 8275 8278 17088 
+	}
+	manpower=20750193
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

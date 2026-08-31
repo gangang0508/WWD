@@ -1,0 +1,25 @@
+
+state={
+	id=274
+	name="STATE_274"
+
+	history={
+		owner = CDR
+		add_core_of = CDR
+		add_core_of = DON
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		victory_points = { 301 4 }
+		victory_points = { 17198 1 }
+	}
+
+	provinces={
+		301 2343 2864 3062 3241 5438 5569 17190 17193 17194 17196 17197 17198 17199 
+	}
+	manpower=2155800
+	buildings_max_level_factor=1.000
+	state_category=town
+}

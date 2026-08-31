@@ -1,0 +1,238 @@
+﻿
+BET_INF_01 = 
+{
+	name = "Infantry Division"
+
+	for_countries = { BET }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Divisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%de Divisie" }	
+	}
+}
+
+BET_CAV_01 = 
+{
+	name = "Cavalry Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "cavalry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Huzaren te Paard"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%de Huzaren te Paard" }
+	}
+}
+
+BET_MOT_01 = 
+{
+	name = "Motorized Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Gemotoriseerde Huzaren"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{		
+		1 = { "%de Gemotoriseerde Huzaren" }
+	}
+}
+
+BET_MEC_01 = 
+{
+	name = "Mechanized Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "mechanized" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Gemechaniseerde Huzaren"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{		
+		1 = { "%de Gemechaniseerde Huzaren" }
+	}
+}
+
+BET_ARM_01 = 
+{
+	name = "Armored Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Pantserdivisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%de Pantserdivisie" }
+	}
+}
+
+BET_PAR_01 = 
+{
+	name = "Paratrooper Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "paratrooper" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Parachutistendivisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%de Parachutistendivisie" }
+	}
+}
+
+BET_MAR_01 = 
+{
+	name = "Marine Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "marine" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Mariniersdivisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		2 = { "%de Mariniersdivisie" }
+		3 = { "%de Mariniersdivisie" }
+		4 = { "%de Mariniersdivisie" }
+		5 = { "%de Mariniersdivisie" }
+		6 = { "%de Mariniersdivisie" }
+		7 = { "%de Mariniersdivisie" }
+		8 = { "%de Mariniersdivisie" }
+		9 = { "%de Mariniersdivisie" }
+		10 = { "%de Mariniersdivisie" }
+	}
+}
+
+BET_MNT_01 = 
+{
+	name = "Mountain Division"
+
+	for_countries = { BET INS }
+
+	can_use = { always = yes }
+
+	division_types = { "mountaineers" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Divisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		1 = { "%de Divisie" }
+		2 = { "%de Divisie" }
+		3 = { "%de Divisie" }
+		4 = { "%de Divisie" }
+		5 = { "%de Divisie" }
+		6 = { "%de Divisie" }
+		7 = { "%de Divisie" }
+		8 = { "%de Divisie" }
+		9 = { "%de Divisie" }
+		10 = { "%de Divisie" }
+	}
+}
+
+BET_GAR_01 = 
+{
+	name = "Garrison Division"
+
+	for_countries = { BET }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	link_numbering_with = { BET_INF_01 }
+
+	fallback_name = "%de Vesting Divisie"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered =
+	{
+		102 = { "Peel Divisie" }		
+		103 = { "'Oostfront' Vesting Holland" }		# quasi-fictional divisions (historical names, but ahistorical strength)
+		104 = { "'Westfront' Vesting Holland" }		
+		105 = { "Divisie Spui" }		
+		106 = { "Divisie Kil" }		
+		107 = { "Territoriaal Bevel. Overijssel" }		
+		108 = { "Territoriaal Bevel. Friesland" }		
+		109 = { "Territoriaal Bevel. Zuid-Limburg" }		
+		110 = { "Stelling Den Helder" }		
+		111 = { "Stelling  Amsterdam" }		
+		112 = { "Stelling Rotterdam " }		
+		113 = { "Stelling 's Gravenhage" }		
+		114 = { "Stelling Utrecht" }		
+		115 = { "Stelling Soesterberg" }		
+	}
+}
+

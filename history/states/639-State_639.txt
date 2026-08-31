@@ -1,0 +1,20 @@
+
+state={
+	id=639
+	name="STATE_639"
+	history={
+		owner = LOV
+		add_core_of = LOV
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+	provinces={
+		934 1089 1121 1154 1283 1901 1946 2383 3186 3672 3860 3879 4777 4785 4902 5018 5137 8362 8365 8367 8369 8372 8373 8377 8378 8380 8381 8386 8389 8393 8396 8401 8409 8420 
+	}
+	manpower=1148500
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

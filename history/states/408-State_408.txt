@@ -1,0 +1,18 @@
+
+state={
+	id=408
+	name="STATE_408"
+
+	history={
+		owner = PLI
+		add_core_of = PLI
+
+	}
+
+	provinces={
+		1234 1926 2849 3332 3560 4744 5115 7716 7737 7830 
+	}
+	manpower=1019250
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

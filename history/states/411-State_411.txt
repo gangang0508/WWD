@@ -1,0 +1,15 @@
+
+state={
+	id=411
+	name="STATE_411"
+	history = {
+		owner = AGN
+		add_core_of = AGN
+	}
+	provinces={
+		536 760 1393 1404 1797 1976 4165 4557 4781 4875 8388 8415 8431 8436 8461 
+	}
+	manpower=974120
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=14
+	name="STATE_14"
+
+	history={
+		owner = LOV
+		add_core_of = LOV
+		victory_points = {
+			2113 10 
+		}
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			2113 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		794 1281 1311 1364 2067 2113 2901 3021 3076 3495 3661 3868 4599 4972 5211 8428 8442 8451 8456 8466 8468 8470 8505 8514 
+	}
+	manpower=5168490
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

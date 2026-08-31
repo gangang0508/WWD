@@ -1,0 +1,23 @@
+
+state={
+	id=395
+	name="STATE_395"
+
+	history={
+		owner = ROA
+		add_core_of = ROA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		2470 4289 4704 4964 5160 6085 6217 6233 6273 6274 
+	}
+	manpower=1530500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

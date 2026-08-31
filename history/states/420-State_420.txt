@@ -1,0 +1,24 @@
+
+state={
+	id=420
+	name="STATE_420"
+
+	history={
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = { 17311 2 }
+		victory_points = { 17312 4 }
+	}
+
+	provinces={
+		430 935 1940 2409 3361 3496 4765 6184 6303 6384 6389 17311 17312 17313 
+	}
+	manpower=1845950
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

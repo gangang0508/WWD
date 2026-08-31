@@ -1,0 +1,26 @@
+
+state={
+	id=67
+	name="STATE_67"
+	resources = {
+		steel = 40
+		tungsten = 55
+		aluminium = 20
+	}
+	history = {
+		owner = TYR
+		add_core_of = TYR
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 6
+		}
+		victory_points = { 5072 8 }
+		victory_points = { 6315 5 }
+	}
+	provinces={
+		881 1380 1466 2575 2800 5072 6280 6315 6374 6489 6585 
+	}
+	manpower=4997500
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

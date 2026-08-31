@@ -1,0 +1,18 @@
+
+state={
+	id=267
+	name="STATE_267"
+
+	history={
+		owner = ABE
+		add_core_of = ABE
+
+	}
+
+	provinces={
+		290 853 1829 1893 1911 2480 2509 3011 3465 3758 3941 4688 4928 4980 7655 7661 7665 7675 7676 7680 7690 7704 7709 7718 7729 7741 8230 8913 18117 
+	}
+	manpower=3859710
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

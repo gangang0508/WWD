@@ -1,0 +1,24 @@
+
+state={
+	id=144
+	name="STATE_144"
+
+	history={
+		owner = PSI
+		add_core_of = PSI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { 1972 2 }
+		victory_points = { 7558 1 }
+	}
+
+	provinces={
+		1172 1597 1972 3593 3698 4750 7490 7501 7523 7538 7558 
+	}
+	manpower=2849600
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

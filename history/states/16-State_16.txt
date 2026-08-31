@@ -1,0 +1,26 @@
+
+state={
+	id=16
+	name="STATE_16"
+
+	history={
+		owner = YIL
+		add_core_of = YIL
+		buildings = {
+			infrastructure = 1
+			1795 = {
+				naval_base = 1
+			}
+			1616 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		1616 1795 4723 5387 5393 5470 
+	}
+	manpower=12616
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

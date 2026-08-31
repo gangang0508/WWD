@@ -1,0 +1,20 @@
+
+state={
+	id=88
+	name="STATE_88"
+	history = {
+		owner = AVI
+		add_core_of = AVI
+		add_core_of = DNN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 3623 1 }
+	}
+	provinces={
+		3623 4054 4629 6838 6853 6867 6891 
+	}
+	manpower=247121
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

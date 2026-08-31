@@ -1,0 +1,21 @@
+state={
+	id=78
+	name="STATE_78"
+	history = {
+		owner = TNI
+		add_core_of = TNI
+		buildings = {
+			infrastructure = 3
+			3312 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3312 5 }
+	}
+	provinces={
+		3312 3541 4900 6715 6754 6794 
+	}
+	manpower=712052
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=699
+	name="STATE_699"
+	resources = {
+		steel = 4
+		oil = 2
+	}
+	history={
+		owner = JOB
+		add_core_of = JOB
+		add_core_of = AFR
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+			infrastructure = 5
+
+		}
+		victory_points = {
+			18150 4 
+		}
+
+	}
+
+	provinces={
+		18146 18148 18150 18151 18152 18154 18163 
+	}
+	manpower=3092712
+	buildings_max_level_factor=1.000
+	state_category=town
+}
