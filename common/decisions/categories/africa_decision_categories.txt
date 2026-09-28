@@ -1,6 +1,0 @@
-unite_irhazia_category = {
-	icon = generic_formable_nations
-}
-raise_the_adidsoshas_category = {
-	icon = generic_formable_nations
-}
