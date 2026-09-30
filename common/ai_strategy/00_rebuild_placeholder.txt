@@ -1,0 +1,1 @@
+# WWD map rebuild: AI strategy layer will be rebuilt after map validation.

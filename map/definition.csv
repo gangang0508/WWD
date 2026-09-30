@@ -8431,7 +8431,7 @@
 8430;151;239;122;land;false;forest;4
 8431;249;212;199;land;false;desert;3
 8432;202;112;238;land;false;desert;3
-8433;224;248;69;land;false;forest;4
+8433;224;248;69;land;true;forest;4
 8434;239;243;58;land;true;forest;4
 8435;233;190;171;land;false;forest;4
 8436;233;230;77;land;true;desert;3

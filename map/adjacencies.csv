@@ -1,5 +1,2 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
--1;-1;-1;-1;-1;-1;-1;-1;-1
-#Start province ID;End province ID;Adjacency type;Through province ID;Starting X position;Starting Y position;Ending X position;Ending Y position;Adjacency rule;Comment
-
-
+-1;-1;;-1;-1;-1;-1;-1;-1

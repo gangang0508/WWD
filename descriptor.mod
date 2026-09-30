@@ -1,4 +1,4 @@
-version="beta 0.1"
+version="alpha v0.1"
 replace_path="history/states"
 replace_path="history/countries"
 replace_path="history/units"
@@ -7,9 +7,8 @@ replace_path="common/ai_strategy"
 tags={
 	"Alternative History"
 	"Events"
-	"Map"
-	"National Focuses"
-	"Technologies"
+	"Gameplay"
+	"Historical"
 }
-name="WWD"
+name="WWD-dev"
 supported_version="1.19.3.0"
