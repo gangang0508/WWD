@@ -1,0 +1,75 @@
+﻿capital = 428
+
+set_convoys = 75
+
+oob = "SIN"
+
+add_ideas = {
+	#tolerance
+	#herbivorous
+}
+
+set_popularities={
+		democratic = 12
+		communism = 8
+		fascism = 5
+		neutrality = 75
+}
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "Zhong Long"
+	desc = ""
+	picture = "Portrait_Sinosauria_Zhong_Long.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+#create_country_leader = {
+#	name = "Di Long"
+#	desc = ""
+#	picture = "Portrait_Sinosauria_Di_Long.dds"
+#	expire = "1965.1.1"
+#	ideology = despotism
+#	traits = {
+#		#
+#	}
+#}
+#create_country_leader = {
+#	name = "Imperial Council"
+#	desc = ""
+#	picture = "Portrait_Sinosauria_Zhong_Long.dds"
+#	expire = "1965.1.1"
+#	ideology = despotism
+#	traits = {
+#		#
+#	}
+#}
+create_field_marshal = {
+	name = "Fu Xi"
+	picture = "Portrait_Sinosauria_Jiu_Zhu.dds"
+	traits = { offensive_doctrine politically_connected }
+	id = 1
+	skill = 8
+	attack_skill = 5
+	defense_skill = 7
+	planning_skill = 5
+	logistics_skill = 3
+}

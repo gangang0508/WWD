@@ -1,0 +1,41 @@
+﻿capital = 153
+
+set_convoys = 80
+
+add_ideas = {
+	# carnivorous
+	# segregation_and_exclusion
+}
+
+set_popularities={
+		democratic = 3
+		communism = 96
+		fascism = 1
+}
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "Chaiyou Huang"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+		#
+	}
+}

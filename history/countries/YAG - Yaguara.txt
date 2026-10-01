@@ -1,0 +1,32 @@
+﻿capital = 158
+
+set_convoys = 4
+
+set_popularities = {
+	neutrality = 100
+}
+
+set_research_slots = 1
+
+add_ideas = {
+	# uncivilized_nation
+	# segregation_and_exclusion
+	# carnivorous
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mari Colombo"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

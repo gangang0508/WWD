@@ -1,0 +1,33 @@
+﻿capital = 593
+set_stability = .5
+set_war_support = .8
+
+set_research_slots = 1
+
+add_ideas = {
+	#herbivorous
+	# segregation_and_exclusion
+	# uncivilized_nation
+}
+set_popularities={
+		democratic = 6
+		neutrality = 94
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Sauka I"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

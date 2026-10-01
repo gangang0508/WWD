@@ -1,0 +1,340 @@
+﻿### Rex Belgica OOB ###
+
+division_template = {
+	name = "Infantry Division"		
+	division_names_group = BAR_INF_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Mountaineer Division"		
+	division_names_group = BAR_MNT_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+
+		mountaineers = { x = 2 y = 0 }
+		mountaineers = { x = 2 y = 1 }
+		mountaineers = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
+		recon = { x = 0 y = 2 }
+	}
+}
+division_template = {
+	name = "Marine Division"		
+	division_names_group = BAR_MAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		marine = { x = 0 y = 0 }
+		marine = { x = 0 y = 1 }
+		marine = { x = 0 y = 2 }
+
+		marine = { x = 1 y = 0 }
+		marine = { x = 1 y = 1 }
+		marine = { x = 1 y = 2 }
+
+		marine = { x = 2 y = 0 }
+		marine = { x = 2 y = 1 }
+		marine = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		engineer = { x = 0 y = 1 }
+		recon = { x = 0 y = 2 }
+	}
+}
+division_template = {
+	name = "National Reserve"		
+	division_names_group = BAR_GAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	priority = 0
+}
+division_template = {
+	name = "Armored Division"		
+	division_names_group = BAR_ARM_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Cavalry Division"		
+	division_names_group = BAR_CAV_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Motorized Infantry"		
+	division_names_group = BAR_MOT_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+		  = { x = 0 y = 1 }
+	}
+}
+units = {
+	#Megalands Mountaineers
+	division = {
+		name = "1st Megalon Legion"
+		location = 17121
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "2nd Megalon Legion"
+		location = 1999
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "3rd Megalon Legion"
+		location = 17112
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	#Plesio Marines
+	division = {
+		name = "Plesion Legion 'Commandos'"
+		location = 6580
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "Plesion Legion 'Loyals'"
+		location = 17104
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "Plesion Legion 'Farer'"
+		location = 6634
+		division_template = "Mountaineer Division"
+		start_experience_factor = 0.5
+	}
+	#Acanthon, less skilled and equipped
+	division = {
+		name = "1st Acantl Infantry"
+		location = 17100
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "2nd Acantl Reserve"
+		location = 6790
+		division_template = "National Reserve"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.4
+	}
+	division = {
+		name = "3rd Acantl Reserve"
+		location = 6640
+		division_template = "National Reserve"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "5th Acantl Infantry"
+		location = 17100
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "8th Acantl Reserve"
+		location = 1614
+		division_template = "National Reserve"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "9th Acantl Reserve"
+		location = 1614
+		division_template = "National Reserve"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.4
+	}
+	#Main Army
+	division = {
+		name = "1st Infantry Division"
+		location = 17124
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "3rd Infantry Division"
+		location = 17124
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "4th Infantry Division"
+		location = 17124
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "7th Infantry Division"
+		location = 17118
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "8th Infantry Division"
+		location = 17118
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "9th Infantry Division"
+		location = 17107
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "11th Infantry Division"
+		location = 6423
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "12th Infantry Division"
+		location = 2287
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "15th Infantry Division"
+		location = 6364
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "16th Infantry Division"
+		location = 1105
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	#Tank and Motorized Divisions
+	division = {
+		name = "1st Armored Division"
+		location = 6309
+		division_template = "Armored Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "16th Infantry Motorized"
+		location = 1075
+		division_template = "Motorized Infantry"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "17th Infantry Motorized"
+		location = 1075
+		division_template = "Motorized Infantry"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "21st Infantry Motorized"
+		location = 6321
+		division_template = "Motorized Infantry"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "BAR"
+		}
+		requested_factories = 2
+		progress = 0.5
+		efficiency = 47
+	}
+
+}
+
+#################################

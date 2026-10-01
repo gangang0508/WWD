@@ -1,0 +1,38 @@
+﻿capital = 696
+
+oob = "ELR"
+
+set_popularities={
+		democratic = 30
+		fascism = 5
+		neutrality = 65
+}
+
+set_convoys = 0
+set_stability = 0.7
+set_war_support = 1
+add_ideas = {
+	#herbivorous
+	#tolerance
+	# uncivilized_nation
+}
+
+set_research_slots = 1
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Hzos Alquzufa"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

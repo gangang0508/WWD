@@ -1,0 +1,35 @@
+﻿capital = 340
+
+set_convoys = 16
+set_stability = .4
+set_war_support = .3
+set_research_slots = 1
+add_ideas = {
+	#herbivorous
+	# segregation_and_exclusion
+	# uncivilized_nation
+}
+set_popularities={
+		democratic = 9
+		fascism = 19
+		communism = 1
+		neutrality = 71
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Huella Querulpa"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

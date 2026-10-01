@@ -1,0 +1,163 @@
+﻿### HEV OOB ###
+
+division_template = {
+	name = "Jalkaväkidivisioona"		
+	division_names_group = HEV_INF_01	# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Erillinen Prikaati"		
+	division_names_group = HEV_GAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+	}
+	priority = 0
+}
+division_template = {
+	name = "Ratsuväkiprikaati"		
+	division_names_group = HEV_CAV_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		
+	}
+}
+
+units = {
+	division = {
+		name = "1d. Ratsuväkiprikaati"
+		location = 1135
+		division_template = "Ratsuväkiprikaati"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "4d. Ratsuväkiprikaati"
+		location = 4592
+		division_template = "Ratsuväkiprikaati"
+		start_experience_factor = 0.3
+	}
+	division = {
+		name = "4d. Divisioona"
+		location = 4592
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "3d. Divisioona"
+		location = 3270
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "2d. Divisioona"
+		location = 3279
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "5d. Divisioona"
+		location = 5991
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "7d. Divisioona"
+		location = 5932
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+	}
+	division = {
+		name = "8d. Divisioona"
+		location = 5183
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "9d. Divisioona"
+		location = 5966
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "11d. Divisioona"
+		location = 5632
+		division_template = "Jalkaväkidivisioona"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "101d. Divisioona"
+		location = 3579
+		division_template = "Erillinen Prikaati"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "103d. Divisioona"
+		location = 4592
+		division_template = "Erillinen Prikaati"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "104d. Divisioona"
+		location = 4084
+		division_template = "Erillinen Prikaati"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "106d. Divisioona"
+		location = 6109
+		division_template = "Erillinen Prikaati"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "HEV"
+		}
+		requested_factories = 4
+		progress = 0.5
+		efficiency = 50
+	}
+
+}
+
+#################################

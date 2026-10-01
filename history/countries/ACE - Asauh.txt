@@ -1,0 +1,39 @@
+﻿capital = 196
+
+set_convoys = 50
+
+add_ideas = {
+	# carnivorous
+	#tolerance
+}
+
+add_ideas = {
+	# partially_modernized_nation
+}
+
+set_research_slots = 1
+
+set_popularities={
+		democratic = 20
+		fascism = 5
+		communism = 10
+		neutrality = 65
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Kutharaj Markam"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

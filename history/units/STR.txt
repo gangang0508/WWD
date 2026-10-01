@@ -1,0 +1,315 @@
+﻿### STR Belgica OOB ###
+
+division_template = {
+	name = "Division d'Infanterie"		
+	division_names_group = STR_INF_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Milices"		
+	division_names_group = STR_GAR_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+	}
+	priority = 0
+}
+division_template = {
+	name = "Division de Chars"		
+	division_names_group = STR_ARM_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 1 }
+		
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Cavalrie"		
+	division_names_group = STR_CAV_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		
+	}
+}
+
+division_template = {
+	name = "Motorisé"		
+	division_names_group = STR_MOT_01		# Uses generic English templates
+	# Note: Represents both regular infantry and militia units
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+		
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+units = {
+	#Cavalry/Motorized
+	division = {
+		name = "1ème Division d'Infanterie"
+		location = 6440
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "2ème Division d'Infanterie"
+		location = 1590
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "3ème Division d'Infanterie"
+		location = 1590
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "4ème Division d'Infanterie"
+		location = 6440
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "5ème Division d'Infanterie"
+		location = 3068
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "6ème Division d'Infanterie"
+		location = 3068
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "7ème Division d'Infanterie"
+		location = 5158
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "8ème Division d'Infanterie"
+		location = 6349
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "10ème Division d'Infanterie"
+		location = 2730
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "12ème Division d'Infanterie"
+		location = 6459
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "14ème Division d'Infanterie"
+		location = 6459
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "15ème Division d'Infanterie"
+		location = 6498
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "10ème Division d'Infanterie"
+		location = 2730
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "1éme Div d' Defensé Nationale"
+		location = 6731
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "2éme Div d' Defensé Nationale"
+		location = 2465
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "3éme Div d' Defensé Nationale"
+		location = 1847
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Div d' Defensé Nationale 'Forteresse'"
+		location = 6781
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.4
+	}
+	division = {
+		name = "1éme Div d'Armor"
+		location = 6815
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "3éme Div d'Armor"
+		location = 5176
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "2éme Div d'Armor"
+		location = 6781
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "4éme Div d'Armor"
+		location = 6758
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "2éme Div d'Ferua"
+		location = 2884
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1éme Div d' Saela"
+		location = 6704
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "2éme Div d' Saela"
+		location = 6747
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Division de Chars 'Invincible'"
+		location = 6866
+		division_template = "Division de Chars"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "Division de Chars 'Valeur'"
+		location = 6866
+		division_template = "Division de Chars"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Division de Chars 'Résistance'"
+		location = 3068
+		division_template = "Division de Chars"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "Division de Chars 'Struthicia'"
+		location = 6498
+		division_template = "Division de Chars"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1éme Brigade Motorisé"
+		location = 6459
+		division_template = "Motorisé"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.9
+	}
+}
+
+
+### No air forces (small handful of various aircraft in 1935) ###
+
+#########################
+## STARTING PRODUCTION ##
+#########################
+
+instant_effect = {
+
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "STR"
+		}
+		requested_factories = 2
+		progress = 0.5
+		efficiency = 47
+	}
+
+}
+
+#################################
