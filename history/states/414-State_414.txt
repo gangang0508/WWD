@@ -3,9 +3,10 @@ state={
 	id=414
 	name="STATE_414"
 	resources={
-		tungsten=14.000
-		steel=40.000
-		chromium=4.000
+        coal = 41
+		tungsten=14
+		steel=40
+		chromium=4
 	}
 
 	history={
@@ -34,6 +35,6 @@ state={
 		1750 2148 2272 3956 4392 5972 5977 6001 6012 6017 6060 6092 6135 6160 6173 6208 
 	}
 	manpower=2143295
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
 }

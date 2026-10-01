@@ -3,6 +3,7 @@ state={
 	id=133
 	name="STATE_133"
 	resources = {
+        coal = 16
 		aluminium = 32
 		tungsten = 2
 		steel = 12
@@ -32,6 +33,6 @@ state={
 		4776 7290 7305 7321 7333 7334 17161 17166 17169 17172 
 	}
 	manpower=13751053
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=metropolis
 }

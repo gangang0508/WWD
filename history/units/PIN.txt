@@ -1,7 +1,11 @@
 ﻿### SIN OOB ###
+focus = {
+	current = WWD_unfinish_content
+	progress = 0
+}
 
 division_template = {
-	name = "Juntuán"		
+	name = "Juntuan"		
 	division_names_group = SIN_INF_01	# Uses generic English templates
 	# Note: Represents both regular infantry and militia units
 	regiments = {
@@ -45,107 +49,107 @@ units = {
 		start_experience_factor = 0.3
 	}
 	division = {
-		name = "Xin 2d Juntuán"
+		name = "Xin 2d Juntuan"
 		location = 7189
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 3d Juntuán"
+		name = "Xin 3d Juntuan"
 		location = 5091
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 4d Juntuán"
+		name = "Xin 4d Juntuan"
 		location = 5091
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 5d Juntuán"
+		name = "Xin 5d Juntuan"
 		location = 5091
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 6d Juntuán"
+		name = "Xin 6d Juntuan"
 		location = 5091
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 7d Juntuán"
+		name = "Xin 7d Juntuan"
 		location = 249
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 8d Juntuán"
+		name = "Xin 8d Juntuan"
 		location = 249
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "Xin 9d Juntuán"
+		name = "Xin 9d Juntuan"
 		location = 5172
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "4d Juntuán"
+		name = "4d Juntuan"
 		location = 17488
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "5d Juntuán"
+		name = "5d Juntuan"
 		location = 17488
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "7d Juntuán"
+		name = "7d Juntuan"
 		location = 17488
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "8d Juntuán"
+		name = "8d Juntuan"
 		location = 17488
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "9d Juntuán"
+		name = "9d Juntuan"
 		location = 4521
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "10d Juntuán"
+		name = "10d Juntuan"
 		location = 3779
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}
 	division = {
-		name = "11d Juntuán"
+		name = "11d Juntuan"
 		location = 229
-		division_template = "Juntuán"
+		division_template = "Juntuan"
 		start_experience_factor = 0.0
 		start_equipment_factor = 0.7
 	}

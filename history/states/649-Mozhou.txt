@@ -3,9 +3,10 @@ state={
 	id=649
 	name="STATE_649"
 	resources={
-		steel=14.000
-		tungsten=6.000
-		aluminium=8.000
+        coal = 3
+		steel=14
+		tungsten=6
+		aluminium=8
 	}
 
 	history={
@@ -29,6 +30,6 @@ state={
 		249 2028 2441 3757 5172 7111 17290 17959 
 	}
 	manpower=5126122
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=town
 }

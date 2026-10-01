@@ -3,6 +3,7 @@ state={
 	id=365
 	name="STATE_365"
 	resources = {
+        coal = 3
 		steel = 30
 		chromium = 46
 	}
@@ -15,5 +16,5 @@ state={
 	}
 	manpower=848900
 	state_category = rural
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 }

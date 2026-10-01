@@ -13,5 +13,9 @@ state={
 		3 2625 2872 3135 4186 4211 4882 4970 8433 8434 8439 8445 8452 8453 8460 8481 
 	}
 	manpower=744135
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
+
+    resources = {
+        coal = 11
+    }
 }

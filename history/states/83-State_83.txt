@@ -3,7 +3,8 @@ state={
 	id=83
 	name="STATE_83"
 	resources={
-		chromium=10.000
+        coal = 1
+		chromium=10
 	}
 
 	history={
@@ -27,6 +28,6 @@ state={
 		109 593 764 1838 2090 2985 3523 3763 4265 4620 4695 4932 6236 6310 6317 6378 6512 17377 
 	}
 	manpower=2178500
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=rural
 }

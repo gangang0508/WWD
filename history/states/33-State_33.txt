@@ -3,10 +3,11 @@ state={
 	id=33
 	name="STATE_33"
 	resources={
-		steel=58.000
-		aluminium=26.000
-		chromium=20.000
-		tungsten=16.000
+        coal = 11
+		steel=58
+		aluminium=26
+		chromium=20
+		tungsten=16
 	}
 
 	history={
@@ -28,6 +29,6 @@ state={
 		154 221 879 902 1273 1402 1998 2159 2937 2977 3133 3428 3451 4025 4618 5305 5328 5346 5351 5354 5468 5615 17071 
 	}
 	manpower=2579500
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
 }

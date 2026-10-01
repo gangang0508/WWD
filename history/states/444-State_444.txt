@@ -17,6 +17,10 @@ state={
 		81 113 263 294 1576 2684 2687 5168 6058 6059 6126 17686 17693 17697 17701 17705 
 	}
 	manpower=1597600
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=rural
+
+    resources = {
+        coal = 12
+    }
 }

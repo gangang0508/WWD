@@ -3,8 +3,9 @@ state={
 	id=52
 	name="STATE_52"
 	resources={
-		steel=95.000
-		tungsten=16.000
+        coal = 39
+		steel=95
+		tungsten=16
 	}
 
 	history={
@@ -32,6 +33,6 @@ state={
 		1105 4501 6490 6546 17118 17119 17124 
 	}
 	manpower=11854700
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=megalopolis
 }

@@ -28,6 +28,10 @@ state={
 		2717 3435 3859 4614 6102 6130 6165 6181 6187 
 	}
 	manpower=1187950
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
+
+    resources = {
+        coal = 9
+    }
 }

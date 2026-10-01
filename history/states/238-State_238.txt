@@ -3,6 +3,7 @@ state={
 	id=238
 	name="STATE_238"
 	resources = {
+        coal = 42
 		steel = 44
 		rubber = 60
 	}
@@ -18,5 +19,5 @@ state={
 	}
 	manpower=3177150
 	state_category = town
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 }

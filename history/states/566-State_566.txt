@@ -13,6 +13,10 @@ state={
 		55 76 1292 1879 2111 2627 2823 3080 3358 4418 7757 10135 10477 16399 
 	}
 	manpower=977102
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=wasteland
+
+    resources = {
+        coal = 3
+    }
 }

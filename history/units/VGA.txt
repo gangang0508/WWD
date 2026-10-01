@@ -1,4 +1,8 @@
 ﻿### Siberya OOB ###
+focus = {
+	current = WWD_unfinish_content
+	progress = 0
+}
 
 division_template = {
 	name = "Strelkovaya Diviziya"		

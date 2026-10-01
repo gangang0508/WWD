@@ -3,7 +3,8 @@ state={
 	id=459
 	name="STATE_459"
 	resources={
-		aluminium=40.000
+        coal = 11
+		aluminium=40
 	}
 
 	history={
@@ -33,6 +34,6 @@ state={
 		727 17741 17743 17744 17745 17746 17747 17748 17749 17750 17751 17752 17753 17756 17757 17758 17761 17763 17764 17765 
 	}
 	manpower=6857500
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_city
 }

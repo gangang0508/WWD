@@ -13,6 +13,10 @@ state={
 		96 128 366 439 550 616 1315 1546 1640 1650 1710 2210 2611 2626 2889 3687 4436 4640 8113 8118 8121 8134 8143 18026 18027 18031 
 	}
 	manpower=3147120
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
+
+    resources = {
+        coal = 13
+    }
 }

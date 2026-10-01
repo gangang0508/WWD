@@ -3,8 +3,9 @@ state={
 	id=360
 	name="STATE_360"
 	resources={
-		aluminium=12.000
-		steel=24.000
+        coal = 28
+		aluminium=12
+		steel=24
 	}
 
 	history={
@@ -25,6 +26,6 @@ state={
 		1958 2532 3771 4859 5738 5768 5796 5833 5841 5865 17431 
 	}
 	manpower=603250
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=pastoral
 }

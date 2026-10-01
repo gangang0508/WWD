@@ -3,8 +3,9 @@ state={
 	id=367
 	name="STATE_367"
 	resources={
-		chromium=30.000
-		oil=24.000
+        coal = 11
+		chromium=30
+		oil=24
 	}
 
 	history={
@@ -27,6 +28,6 @@ state={
 		734 2355 2586 2783 4404 4779 4828 5025 5789 5830 5836 5873 5940 
 	}
 	manpower=5894850
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=town
 }

@@ -3,6 +3,7 @@ state={
 	id=46
 	name="STATE_46"
 	resources = {
+        coal = 1
 		steel = 12
 		tungsten = 20
 	}
@@ -34,6 +35,6 @@ state={
 		217 515 1439 1656 1708 2025 3393 4112 4567 4814 5935 5976 6044 6048 6064 6091 6142 17699 17708 17709 17710 
 	}
 	manpower=2817950
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=city
 }

@@ -26,6 +26,10 @@ state={
 		195 1356 7894 17983 
 	}
 	manpower=3912965
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_city
+
+    resources = {
+        coal = 6
+    }
 }

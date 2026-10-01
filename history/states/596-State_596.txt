@@ -6,13 +6,19 @@ state={
 	history={
 		owner = ANT
 		add_core_of = ANT
-
+		8731 = {
+			naval_base = 1
+		}
 	}
 
 	provinces={
 		14 231 747 843 1040 1157 1206 1289 2971 3892 3960 8543 8576 8612 8616 8639 8669 8670 8672 8716 8731 
 	}
 	manpower=2117612
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=town
+
+    resources = {
+        coal = 3
+    }
 }

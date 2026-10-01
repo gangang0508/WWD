@@ -3,8 +3,9 @@ state={
 	id=396
 	name="STATE_396"
 	resources={
-		steel=34.000
-		tungsten=6.000
+        coal = 19
+		steel=34
+		tungsten=6
 	}
 
 	history={
@@ -23,6 +24,6 @@ state={
 		254 318 1047 1115 1405 2762 3313 4768 5520 5697 5706 5816 17243 17244 17246 17247 17248 17249 17250 17251 
 	}
 	manpower=1285900
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=rural
 }

@@ -20,6 +20,10 @@ state={
 		544 718 796 1129 1256 1383 2802 4678 4751 4979 6678 6803 
 	}
 	manpower=1340160
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=pastoral
+
+    resources = {
+        coal = 1
+    }
 }

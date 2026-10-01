@@ -23,6 +23,10 @@ state={
 		47 7485 18087 18089 18090 18093 18094 18164 18165 
 	}
 	manpower=2110200
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=town
+
+    resources = {
+        coal = 39
+    }
 }

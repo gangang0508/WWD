@@ -10,5 +10,9 @@ state={
 		4428 5169 8325 8347 8379 
 	}
 	manpower=4017
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
+
+    resources = {
+        coal = 3
+    }
 }

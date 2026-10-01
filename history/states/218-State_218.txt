@@ -3,6 +3,7 @@ state={
 	id=218
 	name="STATE_218"
 	resources = {
+        coal = 8
 		rubber = 212
 		oil = 10
 		steel = 12
@@ -27,6 +28,6 @@ state={
 		1628 1942 2780 2885 7548 7567 7571 7575 7587 
 	}
 	manpower=5866940
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_city
 }

@@ -18,5 +18,9 @@ state={
 	}
 	manpower=1765450
 	state_category = city
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
+
+    resources = {
+        coal = 2
+    }
 }

@@ -2,6 +2,7 @@ state={
 	id=673
 	name="STATE_673"
 	resources = {
+        coal = 3
 		chromium = 1
 		tungsten = 2
 	}
@@ -22,5 +23,5 @@ state={
 	}
 	manpower=3102861
 	state_category = large_town
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 }

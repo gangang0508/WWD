@@ -3,6 +3,7 @@ state={
 	id=357
 	name="STATE_357"
 	resources = {
+        coal = 31
 		steel = 12
 	}
 	history={
@@ -25,6 +26,6 @@ state={
 		2189 2622 3155 3554 4121 4410 5669 5702 5733 5737 17074 17360 
 	}
 	manpower=8247910
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
 }

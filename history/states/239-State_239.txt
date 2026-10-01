@@ -3,6 +3,7 @@ state={
 	id=239
 	name="STATE_239"
 	resources = {
+        coal = 39
 		oil = 4
 		rubber = 20
 	}
@@ -17,5 +18,5 @@ state={
 	}
 	manpower=1097560
 	state_category = pastoral
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 }

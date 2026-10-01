@@ -3,8 +3,9 @@ state={
 	id=527
 	name="STATE_527"
 	resources={
-		steel=4.000
-		oil=4.000
+        coal = 2
+		steel=4
+		oil=4
 	}
 
 	history={
@@ -32,6 +33,6 @@ state={
 		43 105 107 419 939 942 1264 1496 1851 2075 2489 2596 2923 2942 3238 4281 4461 4594 5134 7301 7313 7327 7376 7380 17990 18084 18096 18110 18111 18112 18113 18114 18115 18116 
 	}
 	manpower=1016900
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=pastoral
 }

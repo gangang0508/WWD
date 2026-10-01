@@ -22,6 +22,10 @@ state={
 		880 2274 3702 4309 
 	}
 	manpower=12810500
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_city
+
+    resources = {
+        coal = 25
+    }
 }

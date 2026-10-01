@@ -9,14 +9,21 @@ focus_tree = {
 	# continuous_focus_position = { x = 20 y = 1100 }
 
 	focus = {
-		id = unfinish_content
-		icon = GFX_goal_generic_allies_build_infantry
+		id = WWD_unfinish_content
+		icon = GFX_focus_WWD_unfinish_content
 		x = 10
 		y = 0
-		cost = 10
-
+		cost = 100
+		cancelable = yes
 		completion_reward = {
-
+			every_neighbor_country = {
+				ROOT = {
+					declare_war_on = {
+						target = PREV
+						type = annex_everything
+					}
+				}
+			}
 		}
 	}
 

@@ -3,6 +3,7 @@ state={
 	id=345
 	name="STATE_345"
 	resources = {
+        coal = 40
 		steel = 6
 	}
 	history = {
@@ -26,5 +27,5 @@ state={
 	}
 	manpower=3418520
 	state_category = city
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 }

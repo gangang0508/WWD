@@ -15,6 +15,10 @@ state={
 		1703 3081 3154 3309 4067 4164 5235 5237 5238 5240 
 	}
 	manpower=511
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=tiny_island
+
+    resources = {
+        coal = 7
+    }
 }

@@ -19,6 +19,10 @@ state={
 		1240 1370 1796 2091 3834 3866 4023 4027 4034 6010 6066 6075 6086 17470 17471 17472 17473 17474 
 	}
 	manpower=3177920
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=city
+
+    resources = {
+        coal = 18
+    }
 }

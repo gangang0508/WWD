@@ -1,9 +1,12 @@
-version="alpha v0.1"
+version="alpha 0.0.1"
 replace_path="history/states"
 replace_path="history/countries"
 replace_path="history/units"
 replace_path="map/strategicregions"
 replace_path="common/ai_strategy"
+replace_path="common/bookmarks"
+replace_path="gfx/leaders"
+replace_path="gfx/loadingscreens"
 tags={
 	"Alternative History"
 	"Events"
@@ -11,4 +14,5 @@ tags={
 	"Historical"
 }
 name="WWD-dev"
-supported_version="1.19.3.0"
+picture="Thumbnail.png"
+supported_version="1.19.*"

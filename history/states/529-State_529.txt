@@ -3,8 +3,9 @@ state={
 	id=529
 	name="STATE_529"
 	resources={
-		oil=48.000
-		rubber=230.000
+        coal = 11
+		oil=48
+		rubber=230
 	}
 
 	history={
@@ -28,6 +29,6 @@ state={
 		548 1979 2120 2877 3082 3858 4002 4059 4515 4593 4699 4833 7386 7392 7394 7396 7400 7404 7406 7407 7413 7429 7431 7435 7449 7463 7487 
 	}
 	manpower=11991200
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=large_town
 }

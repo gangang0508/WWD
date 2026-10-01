@@ -10,5 +10,9 @@ state={
 	}
 	manpower=10612
 	state_category = tiny_island
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
+
+    resources = {
+        coal = 6
+    }
 }

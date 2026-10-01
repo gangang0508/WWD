@@ -3,9 +3,10 @@ state={
 	id=119
 	name="STATE_119"
 	resources={
-		steel=24.000
-		aluminium=20.000
-		chromium=16.000
+        coal = 15
+		steel=24
+		aluminium=20
+		chromium=16
 	}
 
 	history={
@@ -25,6 +26,6 @@ state={
 		99 905 1139 1304 1825 2186 3000 4407 4660 5256 5304 5312 5321 5327 
 	}
 	manpower=1148950
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=rural
 }

@@ -3,8 +3,9 @@ state={
 	id=674
 	name="STATE_674"
 	resources={
-		aluminium=10.000
-		oil=24.000
+        coal = 8
+		aluminium=10
+		oil=24
 	}
 
 	history={
@@ -25,6 +26,6 @@ state={
 		17738 17739 17740 17742 
 	}
 	manpower=862151
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=pastoral
 }

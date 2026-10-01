@@ -3,8 +3,9 @@ state={
 	id=341
 	name="STATE_341"
 	resources={
-		aluminium=16.000
-		steel=32.000
+        coal = 10
+		aluminium=16
+		steel=32
 	}
 
 	history={
@@ -26,6 +27,6 @@ state={
 		694 2013 2142 2410 3206 3809 4270 4549 5534 5578 5597 5605 5616 5623 5654 5687 5692 5709 5723 5729 5734 
 	}
 	manpower=895250
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=rural
 }

@@ -3,7 +3,8 @@ state={
 	id=505
 	name="STATE_505"
 	resources={
-		oil=4.000
+        coal = 9
+		oil=4
 	}
 
 	history={
@@ -25,6 +26,6 @@ state={
 		133 2299 2936 5091 7288 17479 
 	}
 	manpower=7145086
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1
 	state_category=city
 }

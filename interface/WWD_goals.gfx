@@ -1,0 +1,6 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_focus_WWD_unfinish_content"
+		texturefile = "gfx/interface/goals/generic/WWD_unfinish_content.png"
+	}
+}
